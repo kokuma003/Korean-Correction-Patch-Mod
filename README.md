@@ -1,4 +1,4 @@
-dll 코드 전문입니다.
+dll 코드(ModBehaviour.cs) 전문입니다.
 참고하시기 바랍니다.
 
 
