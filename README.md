@@ -2,16 +2,16 @@ dll 코드 전문입니다.
 참고하시기 바랍니다.
 
 
-using UnityEngine;
-using Duckov.Modding;          
-using SodaCraft.Localizations; 
-using System;
-using System.IO;                 
-using System.Text;               
-using System.Linq;             
+        using UnityEngine;
+        using Duckov.Modding;          
+        using SodaCraft.Localizations; 
+        using System;
+        using System.IO;                 
+        using System.Text;               
+        using System.Linq;             
 
-namespace KoreanPatch
-{
+    namespace KoreanPatch
+        {
     public class ModBehaviour : Duckov.Modding.ModBehaviour
     {
         private string modDirectoryPath;
