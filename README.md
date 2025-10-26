@@ -1,4 +1,4 @@
-dll 코드(ModBehaviour.cs) 전문입니다.
+dll 코드(ModBehaviour.cs) 전문입니다. (코드는 AI의 도움을 받아 제작되었습니다.)
 참고하시기 바랍니다.
 현재 GitHub에 올린 파일 중 번역 텍스트 파일인 csv 파일은 25.10.26일 기준자 파일이며 추후 업데이트 시 파일과 다를 수 있습니다.
 그 파일은 게임 로컬 파일 Escape from Duckov\Duckov_Data\StreamingAssets\Localization 에서 원본을 찾을 수 있습니다.
