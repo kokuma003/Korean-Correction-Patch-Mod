@@ -66,15 +66,15 @@ Character_Heart7,"레드 7",#20250924065516,Default
 Cname_Wolf,늑대,#20250924065516,Default
 Cname_ShortEagle,꼬마덕,#20250924065516,Default
 Cname_UltraMan,라이트맨,#20250924065516,Default
-Cname_CrazyRob,"폭주한 기계 거미",#20250924065516,Default
+Cname_CrazyRob,"폭주 기계 거미",#20250924065516,Default
 Cname_Scav,넝마꾼,#20250924065516,Default
 Cname_Usec,용병,#20250924065516,Default
 Cname_RobSpider,"기계 거미",#20250924065516,Default
-Cname_ScavRage,"폭주한 넝마꾼",#20250924065516,Default
+Cname_ScavRage,"폭주 넝마꾼",#20250924065516,Default
 Cname_Boss_Sniper,로든,#20250924065516,Default
 Cname_SpeedyChild,"급속 단원",#20250924065516,Default
 Cname_Speedy,"급속 단장",#20250924065516,Default
-language_name,한국어,#2020924065516,Default
+language_name,"한국어",#20251021065937,Default
 QuestGiver_Jeff,제프,#20250924065516,Default
 Mirror,꿈,#20250924065516,Default
 UI_CustomFace_Main_Title,머리,#20250924065516,Default
@@ -919,7 +919,7 @@ Item_Axe,"전투 도끼",#20250924065517,Default
 Item_Axe_Desc,"광전사 전용",#20250924065517,Default
 Item_1_Armor_Template,"1레벨 방탄복",#20250924065517,Default
 Item_1_Armor_Template_Desc,"종이보다 얇고 물총 한 발 정도 막을 수 있다",#20250924065517,Default
-Item_ColdCore,"푸른 코어 조각",#20250924065517,Default
+Item_ColdCore,"콜드 코어 조각",#20250924065517,Default
 Item_ColdCore_Desc,"은은한 푸른 빛을 발산한다.",#20250924065517,Default
 Item_FlamingCore,"레드 코어 조각",#20250924065517,Default
 Item_FlamingCore_Desc,"불안정하며 엄청난 에너지를 방출한다.",#20250924065517,Default
@@ -1690,7 +1690,7 @@ UI_RotateBuilding,"건물 회전",#20250924065517,Default
 UI_Enter,입장하기,#20250924065517,Default
 UI_Leave,나가기,#20250924065517,Default
 UI_Crafting,제작,#20250924065517,Default
-UI_Operate,조작,#20250924065517,Default
+UI_Operate,메뉴,#20250924065517,Default
 ReachedLimit,"수량 상한 도달",#20250924065517,Default
 ItemCraftedNotification,"{itemDisplayName} 제작 완료",#20250924065517,Default
 UI_LootBox_Cash,금전등록기,#20250924065517,Default
@@ -1804,7 +1804,7 @@ Indicator_CameraMode_Move,이동,#20250924065517,Default
 Indicator_CameraMode_Capture,촬영,#20250924065517,Default
 Indicator_CameraMode_OpenFolder,"스크린샷 경로 복사",#20250924065517,Default
 Pause,일시정지,#20250924065517,Default
-UI_Building_Recycle,"길게 눌러서 접기",#20250924065517,Default
+UI_Building_Recycle,"길게 눌러서 회수",#20250924065517,Default
 UI_Quest_NotifyClaimAtNPC,"퀘스트 발급처에서 수령하세요",#20250924065517,Default
 LevelInitializing,"스탭이 필드를 준비하는 중...",#20250924065517,Default
 Indicator_PutAway,"무기 넣기",#20250924065517,Default
@@ -2853,7 +2853,7 @@ Perk_Main_31,"전면 방어 1",#20250924065517,Default
 Buff_InjectorRecoilControl,"강화 날개",#20250924065517,Default
 Buff_InjectorRecoilControl_Desc,"반동과 탄퍼짐 제어력이 향상한다",#20250924065517,Default
 Item_Injection_RecoilControl,"날개 강화 주사",#20250924065517,Default
-Item_Injection_RecoilControl_Desc,"일시적으로 날개 힘을 강화하여 반동과 탄퍼짐 제어력을 향상하고, 60초 도안 지속된다.",#20250924065517,Default
+Item_Injection_RecoilControl_Desc,"일시적으로 날개 힘을 강화하여 반동과 탄퍼짐 제어력을 향상하고, 60초 동안 지속된다.",#20250924065517,Default
 QuestTask_SubmitMoney,"{money} 골드 납부",#20250924065517,Default
 QuestTask_SubmitMoney_Interact,납부,#20250924065517,Default
 Item_EGun_AR_Storm_NoGraphic,???,#20250924065517,Default
@@ -2871,7 +2871,7 @@ Options_SoftShadowSettings,"부드러운 그림자",#20250924065517,Default
 SoftShadowOptions_Off,끄기,#20250924065517,Default
 SoftShadowOptions_On,열기,#20250924065517,Default
 Quest_911,"공간 폭풍 저항",#20250924065517,Default
-Quest_911_Desc,"최근 보디빌딩 대회에 공간 폭풍 침식 견디기 종목이 추가됐다고 하더군. 나도 시도해 봤는데 꽤 힘들었어. 연구 자료가 필요하니 밤에 나타나는 기계 거미를 처치해서 연산 코어를 가져오고, 푸른 코어 조각도 좀 구해와. 걱정 마, 연구 결과는 너와 공유할 테니.",#20250924065517,Default
+Quest_911_Desc,"최근 보디빌딩 대회에 공간 폭풍 침식 견디기 종목이 추가됐다고 하더군. 나도 시도해 봤는데 꽤 힘들었어. 연구 자료가 필요하니 밤에 나타나는 기계 거미를 처치해서 연산 코어를 가져오고, 콜드 코어 조각도 좀 구해와. 걱정 마, 연구 결과는 너와 공유할 테니.",#20250924065517,Default
 Quest_806,"공간 결정체",#20250924065517,Default
 Quest_806_Desc,"네가 가져온 샘플이 연구에 큰 도움이 됐어. 추가 실험을 위해선 더 높은 농도의 공간 폭풍 에너지가 필요해. 공간 폭풍 속에는 특별한 생물이 있는데, 이들이 떨어뜨리는 공간 결정체가 내 실험에 딱 맞거든. 일반 물리 탄환으로는 대미지를 주기 어려우니, 속성 무기를 최대한 활용해야 해.",#20250924065517,Default
 Item_Formula_WeaponPartsPolluted,"오염된 무기 부품",#20250924065517,Default
@@ -3719,17 +3719,17 @@ Item_Fish_Brown_Sardine,"갈색 정어리",#20250924065517,Default
 Item_Fish_Orange_Squirrelfish,"오렌지 얼게돔",#20250924065517,Default
 Item_Fish_Blue_Sailfish,"푸른 돛새치",#20250924065517,Default
 Item_Fish_Red_Spotted_Grouper,"붉은점 바리",#20250924065517,Default
-Item_Fish_Red_Banded_Fish,"레드 밴디드 피쉬",#20250924065517,Default
+Item_Fish_Red_Banded_Fish,"레드 밴디드 피시",#20250924065517,Default
 Item_Fish_Blue_Mackerel,"푸른 고등어",#20250924065517,Default
 Item_Fish_Orange_Greenfin_Fish,"오렌지 그린핀 피쉬",#20250924065517,Default
 Item_Fish_Green_Yellow_Porcupinefish,"노랑 초록 복어",#20250924065517,Default
 Item_Fish_Brown_Mullet,"갈색 숭어",#20250924065517,Default
 Item_Fish_Blue_Marlin,청새치,#20250924065517,Default
 Item_Fish_White_Angelfish,"화이트 엔젤피쉬",#20250924065517,Default
-Item_Fish_Red_Goldfish,"붉은 금붕어",#20250924065517,Default
+Item_Fish_Red_Goldfish,"레드 골드피시",#20250924065517,Default
 Item_Fish_Yellow_Green_Snapper,"옐로우 그린 도미",#20250924065517,Default
 Item_Fish_Brown_and_White_Grunt,흰줄돔,#20250924065517,Default
-Item_Fish_Golden_Fish,"금붕어",#20250924065517,Default
+Item_Fish_Golden_Fish,"골든 피시",#20250924065517,Default
 Item_Fish_Blue_Tang_Desc,"눈부신 파란색이고 납작한 몸통에 아주 활발하다.",#20250924065517,Default
 Item_Fish_Purple_Damselfish_Desc,"크기가 작고 전체가 보라색이며 성격이 매우 활발하다.",#20250924065517,Default
 Item_Fish_Red_Grouper_Desc,"살이 특히 싱싱하고 맛있다.",#20250924065517,Default
@@ -3757,7 +3757,7 @@ Item_Fish_Red_Goldfish_Desc,"흔한 관상어지만 매우 인기가 있다.",#2
 Item_Fish_Yellow_Green_Snapper_Desc,"노란색과 초록색이 섞여 매우 독특하다.",#20250924065517,Default
 Item_Fish_Pink_Clownfish_Desc,"귀여워서 자꾸 눈길이 간다.",#20250924065517,Default
 Item_Fish_Brown_and_White_Grunt_Desc,"갈색과 흰색 무늬가 있고 무리 지어 산다.",#20250924065517,Default
-Item_Fish_Golden_Fish_Desc,"평범한 노란 금붕어지만 이름이 정말 예쁘다.",#20250924065517,Default
+Item_Fish_Golden_Fish_Desc,"평범한 노란 골든 피시지만 이름이 정말 예쁘다.",#20250924065517,Default
 perk_AutoWater,"자동 물주기",#20250924065517,Default
 perk_AddSize,"경작지 확장",#20250924065517,Default
 Quest_329,"공간 폭풍 샘플링",#20250924065517,Default
@@ -3863,18 +3863,18 @@ Ending01_Dia_01,"그럼 출발하자!",#20250924065517,Default
 Ending01_Dia_02,좋아!,#20250924065517,Default
 Ending01_Dia_04,"제프가 꼭 당신을 데리러 오겠다고 약속했다.",#20250924065517,Default
 Ending01_Dia_05,"꼭데리러 올게!",#20250924065517,Default
-Ending01_Desc,"엔딩 A 달성, 게임 시간이 출발 전으로 돌아간다.",#20250924065517,Default
+Ending01_Desc,"엔딩 A 달성, 게임 시간이 출발 직전으로 돌아간다.",#20250924065517,Default
 Ending02_Dia_01,"그럼 출발하자!",#20250924065517,Default
 Ending02_Dia_02,좋아!,#20250924065517,Default
 Ending02_Dia_04,"또 어떤 모험이",#20250924065517,Default
 Ending02_Dia_05,"당신을 기다리고 있을까...",#20250924065517,Default
-Ending02_Desc,"엔딩 B 달성, 게임 시간이 출발 전으로 돌아간다.",#20250924065517,Default
+Ending02_Desc,"엔딩 B 달성, 게임 시간이 출발 직전으로 돌아간다.",#20250924065517,Default
 Ending03_Dia_01,"그럼 출발하자!",#20250924065517,Default
 Ending03_Dia_02,좋아!,#20250924065517,Default
 Ending03_Dia_03,"좀 붐비지만 모두 함께 우주선을 타고 이곳을 떠났다.",#20250924065517,Default
 Ending03_Dia_04,"또 어떤 모험이",#20250924065517,Default
 Ending03_Dia_05,"당신을 기다리고 있을까...",#20250924065517,Default
-Ending03_Desc,"엔딩 C 달성, 게임 시간이 출발 전으로 돌아간다.",#20250924065517,Default
+Ending03_Desc,"엔딩 C 달성, 게임 시간이 출발 직전으로 돌아간다.",#20250924065517,Default
 Note_StormZone_BossInfo1_Content,"연구가 매우 더디게 진행되고 있는데, 이는 모두가 공격받을까 우려하기 때문이다. 그래서 우리는 폭풍 구역 북동쪽에 최첨단 방공 시스템을 배치했고, 이제는 파리 한 마리도 들어올 수 없다. 연구원들은 이제 안심하고 개발을 진행할 수 있으니, 곧 새로운 성과가 있을 것이다.",#20250924065517,Default
 Note_StormZone_BossInfo1_Title,"폭풍 구역 기밀 일지",#20250924065517,Default
 ShipPartInstalled_Space,"공간 확장 부품 설치 완료",#20250924065517,Default
@@ -3953,8 +3953,8 @@ GoldMiner_GMA_015_Desc,"돼지 가치가 20 증가한다",#20250925103332,Defaul
 GoldMiner_GMA_022_Desc,"아이템 가치 10% 증가한다",#20250925103332,Default
 GoldMiner_GMA_025_Desc,"빈 갈고리 속도가 100% 증가한다",#20250925103332,Default
 Item_Totem_MaxHealth_2_Desc,"최대 체력이 일정량 증가한다.",#20250925103332,Default
-Guide_Aim,"마우스 우클릭으로 조준하여 정확도를 높여 봐!",#20251011093921,Default
-Guide_IntroMelee_1,"장비 착용 후 숫자 1, 2키로 무기를 전환하고, R키로 재장전해",#20250925103332,Default
+Guide_Aim,"마우스 우클릭으로 조준해서 정확도를 높여 봐!",#20251011093921,Default
+Guide_IntroMelee_1,"장비 착용 후 숫자 1, 2키로 무기를 전환하고, R키로 재장전 할 수 있어",#20250925103332,Default
 Guide_IntroMelee_0,"앞에 경비병이 있으니 나가기 전에 무기를 잘 장착해둬.",#20250925103332,Default
 Guide_IntroMelee_2,"스페이스바로 굴러서 적의 공격을 회피할 수 있어.",#20250925103332,Default
 Quest_1403_Desc,"내비게이션 시스템은 완성됐지만 우주 여행을 위해선 하드웨어만으론 부족하고 스타맵이 필요해. 그들이 떠나기 전에 스타맵 정보를 남겼을 거야. 이동식 하드 드라이브를 가지고 J-Lab 실험실에 있는 구역9 사무실로 가서 스타맵 정보를 다운로드해 줘.",#20250925103332,Default
@@ -3983,13 +3983,13 @@ Quest_915_Desc,"사람은 구했는데 도구가 없으면 실력을 보여줄 �
 Item_BP_ColorMonitor_Desc,"고급 작업대에서 컬러 모니터를 제작하는 설계도다.",#20250925103332,Default
 Quest_917_Desc,"AK-103 설계도를 구했어. 하지만 이를 제작하려면 더 많은 재료랑 자금이 필요해. 이런 건 비용이 꽤 드니깐.",#20250925103332,Default
 Quest_328,"무기 테스트-AK103",#20250925103332,Default
-Quest_328_Desc,"연구에 성공했으니 위력을 시험해봐. 농장마을에 가서 검은 오리들을 처리해 봐.",#20250925103332,Default
+Quest_328_Desc,"연구에 성공했으니 위력을 시험해보자. 농장마을에 가서 검은 오리들을 처리해 봐.",#20250925103332,Default
 PerkTree_PerkTree_Farming,"생존 스킬",#20250925103332,Default
-Item_Fish_Red_Grouper,"붉돔",#20250925103332,Default
-Item_Fish_Grey_Catshark,"청상아리",#20250925103332,Default
+Item_Fish_Red_Grouper,"큰눈 붉은고기",#20250925103332,Default
+Item_Fish_Grey_Catshark,"블루 캣샤크",#20250925103332,Default
 Item_Fish_Green_Triggerfish,"초록등 화련어",#20250925103332,Default
 Item_Fish_Blue_Jack_Mackerel,"청남 유어",#20250925103332,Default
-Item_Fish_Green_Cod,"녹색 대구",#20250925103332,Default
+Item_Fish_Green_Cod,"녹색 통머리고기",#20250925103332,Default
 Item_Fish_White_Cod,"큰머리 금붕어",#20250925103332,Default
 Item_Fish_White_Perch,"흰색 납작고기",#20250925103332,Default
 Item_Fish_Yellow_Porcupinefish,"녹색 가시복어",#20250925103332,Default
@@ -4205,7 +4205,7 @@ PWL,에너지-대형,#20250925103332,Default
 Note_Base_ShootingRange_Title,"보안 요원 사격 매뉴얼",#20250925103332,Default
 Note_GroundZero_Back_Title,"벙커에 오신 것을 환영합니다",#20250925103332,Default
 Note_GroundZero_Back_Content,"굳이 탈출 지점까지 갈 필요 없어. 여기로 돌아와도 집으로 돌아갈 수 있거든.",#20250925103332,Default
-Note_GroundZero_RedAttack_Title,"폭주한 넝마꾼의 일기",#20250925103332,Default
+Note_GroundZero_RedAttack_Title,"폭주 넝마꾼의 일기",#20250925103332,Default
 Note_GroundZero_Loot_Title,"넝마꾼의 수기",#20250925103332,Default
 Note_GroundZero_UltraMan_Title,"도로변 친절한 안내",#20250925103332,Default
 Note_GroundZero_Camp_Title,"도로 캠프 기록",#20250925103332,Default
@@ -4247,7 +4247,7 @@ Item_Knife_04_Karambit_Desc,"파란색 칼날이 고급스러워 보인다.",#20
 Item_Knife_06_Gurkhakukri_Desc,"클래식한 형태로 출혈을 잘 발생시킨다.",#20250925103332,Default
 Item_Knife_07_Bayonet_Desc,"제식 군용 검이다.",#20250925103332,Default
 Item_CandyCan,"수제 사탕",#20250925103332,Default
-Item_CandyCan_Desc,"달콤한 것은 기분을 좋게 한다",#20250925103332,Default
+Item_CandyCan_Desc,"달달한 것은 기분을 좋게 한다",#20250925103332,Default
 Quest_942,"수제 사탕",#20250925103332,Default
 Quest_942_Desc,"수제 사탕 먹어본 적 있어? 독특한 단맛이 있어서 먹으면 기분이 좋아지는 느낌이야. 한 번 먹어봤을 때, 달리기도 더 빨라진 것 같았어. 한 병 더 구해줄 수 있어? 어떻게 만드는지 연구해보고 싶어",#20250925103332,Default
 Item_Candy,막대사탕,#20250925103332,Default
@@ -4514,7 +4514,7 @@ Quest_401_Desc,"내... 내 친구가 의뢰한 건데, 예전에 J-lab에서 일
 Quest_501_Desc,"4기사라는 코드명을 가진 실험체 4명이 J-Lab에 의해 폭풍 구역에 감금됐는데 그들이 가진 무기와 방어구는 매우 강력하던 걸로 기억해. 그러니 폭풍 구역에 갈 때 겸사겸사 그들의 감금되어 있는 구체 위치도 좀 조사해 봐. 틀림없이 폭풍 구역의 서북, 동북, 동남, 서남쪽 모서리에 있을 거야.\n그들에게서 꽤 강력한 장비를 얻을 수 있을 거야.",#20251011093922,Default
 Note_JLab_StormBossBreakArmor_Content,"실험체 푸룽푸룽이 완성되었다. 제작 과정을 간소화한 후에도, 물리 충격에 대한 저항력과 일정한 독 저항 특성을 유지했다. 푸룽에게 장착해준 무기는 적의 방어구를 쉽게 파괴할 수 있다.",#20251011093922,Default
 Note_Fishing-1_Content,"여기서 낚을 수 있는 물고기가 너무 단조롭다. 다음엔 안 와야지.\n내 사전에 헛챔질이란 없다, 파이팅!",#20251011093922,Default
-Note_Fishing-2_Content,"선배가 남긴 낚시 공략을 살펴보니 물고기마다 습성이 천차만별이더군. 붉은 금붕어, 레드 밴디드 피시는 낮에만 나타나고, 분홍 금붕어, 보라 자리돔, 초록등 화련어는 밤에만 나타나더라고.\n오늘은 한 마리도 못 잡았지만, 이런 지식을 배웠으니 다음엔 꼭 잡을 수 있을 거야.\n내 사전에 헛챔질이란 없다, 파이팅!",#20251011093922,Default
+Note_Fishing-2_Content,"선배가 남긴 낚시 공략을 살펴보니 물고기마다 습성이 천차만별이더군. 레드 골드피시, 레드 밴디드 피시는 낮에만 나타나고, 분홍 금붕어, 보라 자리돔, 초록등 화련어는 밤에만 나타나더라고.\n오늘은 한 마리도 못 잡았지만, 이런 지식을 배웠으니 다음엔 꼭 잡을 수 있을 거야.\n내 사전에 헛챔질이란 없다, 파이팅!",#20251011093922,Default
 Note_Fishing-3_Content,"낚시에 너무 집중하다가 폭풍이 오는 것도 못 봤네. 불가피하게 동굴에 하루 피해있으려고 했는데 동굴에 들어오자마자 보라색 녀석에게 공격을 당했지. 다행히 총기를 가져왔지만, 동굴 물에는 물고기가 없어서 실망이야.\n물고기는 못 잡았지만, 관찰해 보니 날씨에 따라 잡히는 물고기가 다르더군. 큰눈 붉은고기는 맑은 날에만 잡히고, 청남 유어, 흰색 납작고기, 초록등 화련어는 비 올 때만 나타난대.\n오늘 정말 많이 배웠어.\n내 사전에 헛챔질이란 없다, 파이팅!",#20251011093922,Default
 Note_Fishing-4_Content,"보라색 녀석이 내가 한참 물고기를 못 잡는 걸 보더니 낚시 팁을 알려줬어. 어떤 물고기는 특별한 미끼가 필요하대. 청남 유어는 R6 배터리를 좋아하고, 큰눈 붉은고기는 라이터를 물기를 좋아하고, 녹색 가시복어는 변기 세정제로만 잡을 수 있다네, 정말 터무니없는 이야기야. 그대로 해봤는데 한 마리도 못 잡았어.\n속은 것 같지만 뭐 어때, 내일은 꼭 잡을 거야!\n내 사전에 헛챔질이란 없다, 파이팅!",#20251011093922,Default
 Note_Fishing-5_Content,"알겠다. 녹색 가시복어는 제로존에서만 나타나고, 큰눈 붉은고기는 창고 구역에서만 발견되고, 청남 유어는 농장마을에서만 낚을 수 있는 거였어.\n그런데, 오늘 옆에서 낚시하는 사람이 계속 뭐라고 중얼거리더군. ‘노가리가 아니라 농어야! 몇 센티미터지? 몇 센티미터?’n낚시 잘하는 사람이 참 부러워.\n내 사전에 헛챔질이란 없다, 파이팅!",#20251011093922,Default
@@ -4619,7 +4619,7 @@ Item_GunPowder_Green,화약통,#20251009091250,Default
 Item_GunPowder_Green_Desc,"초록 라벨이 붙은 화약통이다.",#20251009091250,Default
 Item_GunPowder_Red,화약통,#20251009091250,Default
 Item_GunPowder_Red_Desc,"빨간 라벨이 붙은 화약통이다.",#20251009091250,Default
-Item_Injection_BleedResist,"지혈 주사",#20251009091250,Default
+Item_Injection_BleedResist,"지혈 주사기",#20251009091250,Default
 Item_Injection_BleedResist_Desc,"출혈 상태를 제거하고, 일정 시간 동안 출혈에 면역 상태가 된다.",#20251009091250,Default
 Item_Key_Farm_Nursing_Computer,"요양원 기계실 열쇠",#20251009091250,Default
 Item_Key_Farm_Nursing_Computer_Desc,"요양원의 기계실 문을 열 수 있다.",#20251009091250,Default
@@ -4685,6 +4685,7 @@ Input_UI_Item_Use,"아이템 사용",#20251021065937,Default
 Cname_StormBoss1_Child,푸룽,#20251021065937,Default
 Item_EGun_StormBoss_5_Space,? ? ?,#20251021065937,Default
 Options_DisableCameraOffset,"멀미 효과 감소",#20251021065937,Default
+Options_DisableCameraOffset,"멀미 효과 감소",#20251021065937,Options
 Buff_Totem_Describe_hurt,"토템 저주",#20251021065937,Default
 Buff_Totem_Describe_hurt_Desc,"지속적으로 체력 감소",#20251021065937,Default
 Input_Trigger,발사,#20251021065937,Default
