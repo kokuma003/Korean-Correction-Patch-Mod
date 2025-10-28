@@ -1,35 +1,35 @@
 ﻿key,value,version,sheet
 Buff_AddSpeed,가속,#20250924065516,Default
-Buff_AddSpeed_Desc,"이동 속도가 증가한다",#20250924065516,Default
+Buff_AddSpeed_Desc,"이동 속도가 증가한다.",#20250924065516,Default
 Buff_BleedS,출혈,#20250924065516,Default
 Buff_Starve,굶주림,#20250924065516,Default
-Buff_Starve_Desc,"회복력이 감소하고, 지속적으로 체력이 감소한다",#20250924065516,Default
+Buff_Starve_Desc,"회복력이 감소하고, 지속적으로 체력이 감소한다.",#20250924065516,Default
 Buff_Stun,기절,#20250924065516,Default
-Buff_Stun_Desc,"기절 상태, 움직임에 영향을 준다",#20250924065516,Default
+Buff_Stun_Desc,"기절 상태, 움직임에 영향을 준다.",#20250924065516,Default
 Buff_Thirsty,탈수,#20250924065516,Default
-Buff_Thirsty_Desc,"심각한 탈수 증세, 신체 기능이 저하된다",#20250924065516,Default
+Buff_Thirsty_Desc,"심각한 탈수 증세, 신체 기능이 저하된다.",#20250924065516,Default
 Buff_Weight_Heavy,"소지 중량",#20250924065516,Default
-Buff_Weight_Heavy_Desc,"소지 중량이 무거워 이동에 영향을 준다",#20250924065516,Default
+Buff_Weight_Heavy_Desc,"소지 중량이 무거워 이동에 영향을 준다.",#20250924065516,Default
 Buff_Weight_Light,민첩,#20250924065516,Default
-Buff_Weight_Light_Desc,"소지 중량이 가벼워 민첩하다",#20250924065516,Default
+Buff_Weight_Light_Desc,"소지 중량이 가벼워 민첩하다.",#20250924065516,Default
 Buff_Weight_Overweight,"감당 불가",#20250924065516,Default
 Buff_Weight_Overweight_Desc,"무게 초과",#20250924065516,Default
 Buff_Weight_SuperHeavy,과중,#20250924065516,Default
-Buff_Weight_SuperHeavy_Desc,"아이템 과중, 속도와 수분 소모에 영향을 준다",#20250924065516,Default
+Buff_Weight_SuperHeavy_Desc,"아이템 과중, 속도와 수분 소모에 영향을 준다.",#20250924065516,Default
 Buff_PoisonS,중독,#20250924065516,Default
-Buff_PoisonS_Desc,"지속 대미지 및 회복량이 감소된다",#20250924065516,Default
+Buff_PoisonS_Desc,"지속 대미지 및 회복량이 감소된다.",#20250924065516,Default
 Buff_Electric,감전,#20250924065516,Default
-Buff_Electric_Desc,"마비로 인해 이동 속도가 감소된다",#20250924065516,Default
+Buff_Electric_Desc,"마비로 인해 이동 속도가 감소된다.",#20250924065516,Default
 Buff_Pain,고통,#20250924065516,Default
-Buff_Pain_Desc,"고통으로 인해 캐릭터가 탈진하며 이동 능력이 감소된다",#20250924065516,Default
+Buff_Pain_Desc,"고통으로 인해 캐릭터가 탈진하며 이동 능력이 감소된다.",#20250924065516,Default
 Buff_PainResistShort,진통,#20250924065516,Default
-Buff_PainResistShort_Desc,"60초 동안 고통을 무시한다",#20250924065516,Default
+Buff_PainResistShort_Desc,"60초 동안 고통을 무시한다.",#20250924065516,Default
 Buff_PainResistMiddle,진통,#20250924065516,Default
 Buff_PainResistLong,진통,#20250924065516,Default
-Buff_PainResistLong_Desc,"300초 동안 고통을 무시한다",#20250924065516,Default
-Buff_PainResistMiddle_Desc,"180초 동안 고통을 무시한다",#20250924065516,Default
+Buff_PainResistLong_Desc,"300초 동안 고통을 무시한다.",#20250924065516,Default
+Buff_PainResistMiddle_Desc,"180초 동안 고통을 무시한다.",#20250924065516,Default
 Buff_ElecResistShort,"전기 저항",#20250924065516,Default
-Buff_ElecResistShort_Desc,"받는 전기 대미지가 감소한다",#20250924065516,Default
+Buff_ElecResistShort_Desc,"받는 전기 대미지가 감소한다.",#20250924065516,Default
 Buff_HotBlood,열혈,#20250924065516,Default
 Buff_Happy,행복,#20250924065516,Default
 Buff_Happy_Desc,"오늘은 기분이 좋아!",#20250924065516,Default
@@ -74,7 +74,7 @@ Cname_ScavRage,"폭주 넝마꾼",#20250924065516,Default
 Cname_Boss_Sniper,로든,#20250924065516,Default
 Cname_SpeedyChild,"급속 단원",#20250924065516,Default
 Cname_Speedy,"급속 단장",#20250924065516,Default
-language_name,"한국어",#20251021065937,Default
+language_name,한국어,#20251021065937,Default
 QuestGiver_Jeff,제프,#20250924065516,Default
 Mirror,꿈,#20250924065516,Default
 UI_CustomFace_Main_Title,머리,#20250924065516,Default
@@ -111,7 +111,7 @@ UI_CustomFace_TailType,"꼬리 유형",#20250924065516,Default
 UI_CustomFace_TailColor,"꼬리 색상",#20250924065516,Default
 UI_CustomFace_TailSize,"꼬리 크기",#20250924065516,Default
 Notify_Stucked,"이쪽에서는 열 수 없다.",#20250924065516,Default
-Notify_Removed,"장애물이 제거됐다",#20250924065516,Default
+Notify_Removed,"장애물이 제거됐다.",#20250924065516,Default
 Building_MedicStation_Desc,"의료품을 제작할 수 있다.",#20250924065516,Default
 Building_MedicStation,의료소,#20250924065516,Default
 UI_LootBox_Totem,"선물 획득",#20250924065516,Default
@@ -132,7 +132,7 @@ Notify_SpiderSpawn,"해가 저물어 거미들이 사냥하러 나왔다.",#2025
 Building_MiningMachine,"비트코인 채굴기",#20250924065516,Default
 Building_MiningMachine_Desc,"채굴, 아는 사람은 안다.",#20250924065516,Default
 Buff_InjectorMaxWeight,"소지 중량 증가",#20250924065516,Default
-Buff_InjectorMaxWeight_Desc,"최대 소지 중량이 증가한다",#20250924065516,Default
+Buff_InjectorMaxWeight_Desc,"최대 소지 중량이 증가한다.",#20250924065516,Default
 BitcoinMiner_Inventory,"인벤토리(이곳에 아이템을 보관하지 말 것)",#20250924065516,Default
 Usage_HealValue,"체력 치유",#20250924065516,Default
 Usage_Durability,소모,#20250924065516,Default
@@ -140,20 +140,20 @@ Usage_Energy,에너지,#20250924065516,Default
 Usage_Water,수분,#20250924065516,Default
 Location_GroundZero_MiddleMountain,"낮은 산",#20250924065516,Default
 Usage_SpawnEgg_Jinitaimei,???,#20250924065516,Default
-Usage_DeadByChance,"일정 확률로 즉사한다",#20250924065516,Default
+Usage_DeadByChance,"일정 확률로 즉사한다.",#20250924065516,Default
 Usage_DeadByChance_PopText,어라?,#20250924065516,Default
 Rule_ExtraHard,극한,#20250924065516,Default
 Rule_ExtraEasy,파밍,#20250924065516,Default
-Rule_ExtraEasy_Desc,"수집 플레이에 집중하고 싶은 플레이어에게 적합하고, 전투 강도는 최소화됩니다.\n적의 피해: 40%n적의 체력: 40%n반동: 매우 낮음\n적의 반응 속도: 매우 느림\n",#20251011093920,Default
+Rule_ExtraEasy_Desc,"수집 플레이에 집중하고 싶은 플레이어에게 적합하고, 전투 강도는 최소화됩니다.적의 피해: 40%n적의 체력: 40%\n반동: 매우 낮음\n적의 반응 속도: 매우 느림\n",#20251011093920,Default
 Rule_ExtraHard_Desc,"극한의 도전을 원하나요?\n적의 피해: 150%\n장비는 잃어버린 후 되찾을 수 없습니다.",#20251011093920,Default
 DifficultySelection_Desc_PlaceHolder,"난이도 선택",#20250924065516,Default
 Tips_0,"출혈 시 지혈 붕대로 지혈할 수 있다.",#20250924065516,Default
-Tips_1,"자주 발견되는 아이템는 팔아버리는 게 낫다.",#20250924065516,Default
+Tips_1,"자주 발견되는 아이템은 팔아버리는 게 낫다.",#20250924065516,Default
 Tips_2,"총기 내구도가 50% 미만이면 대미지와 탄퍼짐에 영향을 받는다.",#20250924065516,Default
-Tips_3,"피격되면 고통 효과로 스태미나가 소모되고 일시적으로 속도가 감소한다. 진통제로 해당 효과를 제거할 수 있다.",#20250924065516,Default
+Tips_3,"피격되면 고통 효과로 스태미나가 소모되고 일시적으로 속도가 감소한다.\n진통제로 해당 효과를 제거할 수 있다.",#20250924065516,Default
 Tips_4,"총기 장착 시 T키를 눌러 탄약 유형을 변경할 수 있다.",#20250924065516,Default
-Tips_5,"가방 탭에서 부품을 무기로 드래그하면 빠르게 장착할 수 있다. 단, 호환이 가능한지 확인해야 한다.",#20250924065516,Default
-Tips_6,"근접 적에게 빨간 빛을 날 때가 회피 타이밍이다.",#20250924065516,Default
+Tips_5,"부품을 무기로 드래그하여 빠르게 장착할 수 있다. 단, 호환이 가능한지 확인해야 한다.",#20250924065516,Default
+Tips_6,"근접 무기를 든 적에게는 빨간 빛이 날 때가 회피 타이밍이다.",#20250924065516,Default
 Tips_7,"무기를 손에 들면 이동 속도에 영향을 받는다.",#20250924065516,Default
 Location_HiddenWarehouse_Warehouse,서부단지,#20250924065516,Default
 Location_HiddenWarehouse_Center,농가,#20250924065516,Default
@@ -163,7 +163,7 @@ Building_BlackMarket,"암시장",#20250924065516,Default
 Building_BlackMarket_Desc,"암시장 네트워크에 접속해 가격 변동이 있는 거래를 한다.",#20250924065516,Default
 Location_HiddenWarehouse_Valley,협곡,#20250924065516,Default
 Endowmment_None,알바덕,#20250924065516,Default
-Endowmment_None_Desc,"특징이라고는 특징이 없는 것이며 모든것에 균형이 잡혀있다",#20250924065516,Default
+Endowmment_None_Desc,"특징이라고는 특징이 없는 것이며 모든것에 균형이 잡혀있다.",#20250924065516,Default
 Endowmment_Surviver,생존자,#20250924065516,Default
 Endowmment_Surviver_Desc,"체력이 좋고 튼튼하나 발이나 두뇌회전은 빠르진 않다.",#20250924065516,Default
 Endowmment_Porter,운반자,#20250924065516,Default
@@ -257,10 +257,10 @@ Dialogue_Kun_OnlyCloth,"겉모습만 비슷할 뿐, 넌 그가 아니야.",#2025
 Dialogue_Kun_AllRight,"꼬꼬형! 형이야?",#20250924065517,Default
 PopText_Reloading,"재장전 중!",#20250924065517,Default
 UI_Interact,상호작용,#20250924065517,Default
-UI_Interact_Modify,개조,#20250924065517,Default
-UI_Interact_Repair,수리,#20250924065517,Default
+UI_Interact_Modify,"개조",#20250924065517,Default
+UI_Interact_Repair,"아이템 수리",#20250924065517,Default
 UI_Interact_OpenStorage,"창고 열기",#20250924065517,Default
-UI_Interact_Expansion,"용량 확장",#20250924065517,Default
+UI_Interact_Expansion,"창고 확장",#20250924065517,Default
 UI_Interact_Quest,퀘스트,#20250924065517,Default
 UI_Interact_Develope,"기술 연구",#20250924065517,Default
 UI_Interact_BPDevelope,"설계도 연구",#20250924065517,Default
@@ -288,12 +288,12 @@ UI_Interact_PhysicalTraining,"신체 단련",#20251011093920,Default
 UI_Interact_Read,읽기,#20250924065517,Default
 UI_LootBox_Open,열기,#20250924065517,Default
 UI_LootBox_CarDoor,차문,#20250924065517,Default
-UI_Interact_GoDown,내리기,#20250924065517,Default
-UI_Interact_GoUp,오르기,#20250924065517,Default
+UI_Interact_GoDown,내려가기,#20250924065517,Default
+UI_Interact_GoUp,올라가기,#20250924065517,Default
 UI_Interact_UnlockBlueprint,"설계도 연구",#20250924065517,Default
-UI_Interact_MiningMachine,채굴기,#20250924065517,Default
-UI_Interact_BlackMarketDemands,"주문 확인",#20250924065517,Default
-UI_Interact_BlackMarketSupply,"암시장 구매",#20250924065517,Default
+UI_Interact_MiningMachine,"비트코인 채굴기",#20250924065517,Default
+UI_Interact_BlackMarketDemands,"암시장 아이템 판매",#20250924065517,Default
+UI_Interact_BlackMarketSupply,"암시장 아이템 구매",#20250924065517,Default
 UI_Interact_Sample,"샘플 채취",#20250924065517,Default
 UI_Interact_Hide,설치,#20250924065517,Default
 UI_Interact_WishList,"위시리스트 추가",#20250924065517,Default
@@ -322,11 +322,11 @@ Item_Biscuit_Desc,"소다 크래커 한 무더기다.",#20250924065517,Default
 Item_Cola,콜라,#20250924065517,Default
 Item_Cola_Desc,"설탕이 들어간 콜라만이 진짜야.",#20250924065517,Default
 Item_FirstAidKit_L,"대형 구급상자",#20250924065517,Default
-Item_FirstAidKit_L_Desc,"대량의 체력을 회복할 수 있다",#20250924065517,Default
+Item_FirstAidKit_L_Desc,"대량의 체력을 회복할 수 있다.",#20250924065517,Default
 Item_FirstAidKit_M,구급상자,#20250924065517,Default
-Item_FirstAidKit_M_Desc,"체력을 회복할 수 있다",#20250924065517,Default
+Item_FirstAidKit_M_Desc,"체력을 회복할 수 있다.",#20250924065517,Default
 Item_FirstAidKit_S,"소형 구급상자",#20250924065517,Default
-Item_FirstAidKit_S_Desc,"소량의 체력을 회복한다",#20250924065517,Default
+Item_FirstAidKit_S_Desc,"소량의 체력을 회복한다.",#20250924065517,Default
 Item_TunaCan_1,"물에 담군 참치 통조림",#20250924065517,Default
 Item_TunaCan_1_Desc,"물에 담군 참치 통조림이다.",#20250924065517,Default
 Item_TunaCan_2,"기름에 담군 참치 통조림",#20250924065517,Default
@@ -350,43 +350,43 @@ Item_Goggle_Desc,"스키용 고글이다.",#20250924065517,Default
 Item_Nail,못,#20250924065517,Default
 Item_Nail_Desc,못.,#20250924065517,Default
 Item_Vodka,보드카,#20250924065517,Default
-Item_Vodka_Desc,"마시면 기분이 좋아지지만 목이 마르게 된다",#20250924065517,Default
+Item_Vodka_Desc,"마시면 기분이 좋아지지만 목이 마르게 된다.",#20250924065517,Default
 Item_WD40,MD40,#20250924065517,Default
 Item_WD40_Desc,"MD40 녹 제거제 한 병이다.",#20250924065517,Default
 Item_Wrench,스패너,#20250924065517,Default
 Item_Wrench_Desc,"스패너 하나다.",#20250924065517,Default
 Item_ArmorLV1,"1레벨 방탄복",#20250924065517,Default
-Item_ArmorLV1_Desc,"종이보다 얇다. 물총 한 발 정도는 막을 수 있다",#20250924065517,Default
+Item_ArmorLV1_Desc,"종이보다 얇다. 물총 한 발 정도는 막을 수 있다.",#20250924065517,Default
 Item_ArmorLV2,"2레벨 방탄복",#20250924065517,Default
-Item_ArmorLV2_Desc,"베테랑처럼 보이며 심리적인 안정을 제공한다",#20250924065517,Default
+Item_ArmorLV2_Desc,"베테랑처럼 보이며 심리적인 안정을 제공한다.",#20250924065517,Default
 Item_ArmorLV4,"4레벨 방탄복",#20250924065517,Default
-Item_ArmorLV4_Desc,"실제 방탄 성능이 있는 믿음직한 선택이다",#20250924065517,Default
+Item_ArmorLV4_Desc,"실제 방탄 성능이 있는 믿음직한 선택이다.",#20250924065517,Default
 Item_ArmorLV5,"5레벨 방탄복",#20250924065517,Default
-Item_ArmorLV5_Desc,"최고의 방어력을 제공하며 총알 따윈 두려워지지 않는다",#20250924065517,Default
+Item_ArmorLV5_Desc,"최고의 방어력을 제공하며 총알 따윈 두려워지지 않는다.",#20250924065517,Default
 Item_BackpackLV1,"화장품 파우치",#20250924065517,Default
-Item_BackpackLV1_Desc,"립스틱이나 화장품 정도만 넣을 수 있다",#20250924065517,Default
+Item_BackpackLV1_Desc,"립스틱이나 화장품 정도만 넣을 수 있다.",#20250924065517,Default
 Item_BackpackLV2,"초등학생 가방",#20250924065517,Default
-Item_BackpackLV2_Desc,"공책을 많이 넣을 수 있다",#20250924065517,Default
+Item_BackpackLV2_Desc,"공책을 많이 넣을 수 있다.",#20250924065517,Default
 Item_BackpackLV3,"여행 가방",#20250924065517,Default
-Item_BackpackLV3_Desc,"다용도 가방으로 여행에 최적이다",#20250924065517,Default
+Item_BackpackLV3_Desc,"다용도 가방으로 여행에 최적이다.",#20250924065517,Default
 Item_BackpackLV4,"서바이벌 가방",#20250924065517,Default
-Item_BackpackLV4_Desc,"KILLER와의 콜라보 상품로 아웃도어 생존에 필수 가방이다",#20250924065517,Default
+Item_BackpackLV4_Desc,"KILLER와의 콜라보 상품로 아웃도어 생존에 필수 가방이다.",#20250924065517,Default
 Item_BackpackLV5,"전술 가방 MAX",#20250924065517,Default
-Item_BackpackLV5_Desc,"도라에몽의 주머니와 같은 동일한 소재를 사용해 수납 공간이 매우 크다",#20250924065517,Default
+Item_BackpackLV5_Desc,"도라에몽의 주머니와 같은 동일한 소재를 사용해 수납 공간이 매우 크다.",#20250924065517,Default
 Item_HelmatLV1,"오토바이 헬멧",#20250924065517,Default
-Item_HelmatLV1_Desc,"한 번 치면 깨질 정도로 얇다",#20250924065517,Default
+Item_HelmatLV1_Desc,"한 번 치면 깨질 정도로 얇다.",#20250924065517,Default
 Item_HelmatLV2,"구식 철모",#20250924065517,Default
 Item_HelmatLV2_Desc,"관리가 안 된 구멍난 헬멧, 할아버지에게서 물려받았다.",#20250924065517,Default
 Item_HelmatLV3,"특공대 헬멧",#20250924065517,Default
-Item_HelmatLV3_Desc,"기본적인 방탄 성능을 갖추고 있다",#20250924065517,Default
+Item_HelmatLV3_Desc,"기본적인 방탄 성능을 갖추고 있다.",#20250924065517,Default
 Item_HelmatLV4,"SightPRO 헬멧",#20250924065517,Default
 Item_HelmatLV4_Desc,"AR+VR 기능이 있어 날아오는 총알을 기절시켜 빗나가게 할 수 있다.",#20250924065517,Default
 Item_HelmatLV5,"SCIFI 마스크",#20250924065517,Default
-Item_HelmatLV5_Desc,"머리를 전방위로 보호하고 SF 스타일로 매우 멋지다",#20250924065517,Default
-Item_HelmatLV6,"신성한 용접 헬멧",#20250924065517,Default
-Item_HelmatLV6_Desc,"고대 그리스에서 헬멧의 신이 만든 것으로 총알도 보면 겁을 먹는다",#20250924065517,Default
+Item_HelmatLV5_Desc,"머리를 전방위로 보호하고 SF 스타일로 매우 멋지다.",#20250924065517,Default
+Item_HelmatLV6,"신의 용접 헬멧",#20250924065517,Default
+Item_HelmatLV6_Desc,"고대 그리스에서 헬멧의 신이 만든 것으로 총알도 보면 겁을 먹는다.",#20250924065517,Default
 Item_Wrench02,"자동차 스패너",#20250924065517,Default
-Item_Wrench02_Desc,"더 좋은 스패너다",#20250924065517,Default
+Item_Wrench02_Desc,"더 좋은 스패너다.",#20250924065517,Default
 Item_ContinerL,"대형 확장 상자",#20250924065517,Default
 Item_ContinerL_Desc,"대형 확장 상자로 창고 확장에 사용 가능하지만 들 수 없을 정도로 무겁다.",#20250924065517,Default
 Item_ContinerM,"중형 확장 상자",#20250924065517,Default
@@ -398,19 +398,19 @@ Item_Clock_Desc,"3시에 멈춰있다.",#20250924065517,Default
 Item_Detergent,"변기 세정제",#20250924065517,Default
 Item_Detergent_Desc,"변기 세정제 한 병이다.",#20250924065517,Default
 Item_Drum1,"빨간 드럼통",#20250924065517,Default
-Item_Drum1_Desc,"빈 대형 드럼통이다",#20250924065517,Default
+Item_Drum1_Desc,"빈 대형 드럼통이다.",#20250924065517,Default
 Item_Drum2,"파란 드럼통",#20250924065517,Default
-Item_Drum2_Desc,"빈 대형 드럼통이다",#20250924065517,Default
+Item_Drum2_Desc,"빈 대형 드럼통이다.",#20250924065517,Default
 Item_Drum3,"노란 드럼통",#20250924065517,Default
-Item_Drum3_Desc,"빈 대형 드럼통이다",#20250924065517,Default
+Item_Drum3_Desc,"빈 대형 드럼통이다.",#20250924065517,Default
 Item_Drum4,"금속 기름통",#20250924065517,Default
-Item_Drum4_Desc,"휘발유를 담았던 큰 대형 드럼통이다",#20250924065517,Default
+Item_Drum4_Desc,"휘발유를 담았던 큰 대형 드럼통이다.",#20250924065517,Default
 Item_GolfClub,골프채,#20250924065517,Default
 Item_GolfClub_Desc,"맞으면 아프다.",#20250924065517,Default
 Item_Ink,잉크,#20250924065517,Default
 Item_Ink_Desc,"만년필 잉크.",#20250924065517,Default
 Item_Pot,냄비,#20250924065517,Default
-Item_Pot_Desc,"음식을 조리할 수 있다",#20250924065517,Default
+Item_Pot_Desc,"음식을 조리할 수 있다.",#20250924065517,Default
 Item_Tissue,"두루마리 휴지",#20250924065517,Default
 Item_Tissue_Desc,"두루마리 휴지 한 롤이다.",#20250924065517,Default
 Item_Zippo,Cippo,#20250924065517,Default
@@ -418,13 +418,13 @@ Item_Zippo_Desc,"Cippo 라이터",#20250924065517,Default
 Item_PressionSencer,"압력 센서",#20250924065517,Default
 Item_PressionSencer_Desc,"밟으면 감지된다.",#20250924065517,Default
 Item_uPhone,"uPhone 스마트폰",#20250924065517,Default
-Item_uPhone_Desc,"이미 고장나서 외관상으로는 제품 세대를 알 수 없다",#20250924065517,Default
+Item_uPhone_Desc,"이미 고장나서 외관상으로는 제품 세대를 알 수 없다.",#20250924065517,Default
 Item_Walkie_Talkie,무전기,#20250924065517,Default
 Item_Walkie_Talkie_Desc,"일반 무전기",#20250924065517,Default
 Item_Walkie_Talkie02,"군용 무전기",#20250924065517,Default
 Item_Walkie_Talkie02_Desc,"암호화된 군용 무전기다.",#20250924065517,Default
 Item_FlashGrenade,섬광탄,#20250924065517,Default
-Item_FlashGrenade_Desc,"적을 기절시킨다",#20250924065517,Default
+Item_FlashGrenade_Desc,"적을 기절시킨다.",#20250924065517,Default
 Item_Grenade,수류탄,#20250924065517,Default
 Item_Grenade_Desc,수류탄,#20250924065517,Default
 Item_Chocalate,초콜릿,#20250924065517,Default
@@ -432,7 +432,7 @@ Item_Chocalate_Desc,"다이어트에 좋다고 한다.",#20250924065517,Default
 Item_EnergyStick,"에너지 바",#20250924065517,Default
 Item_EnergyStick_Desc,"배고픔은 해결되나 목이 마르게 된다.",#20250924065517,Default
 Item_Honey,꿀,#20250924065517,Default
-Item_Honey_Desc,"아주 달달하다",#20250924065517,Default
+Item_Honey_Desc,"아주 달달하다.",#20250924065517,Default
 Item_Ketchup,케첩,#20250924065517,Default
 Item_Ketchup_Desc,"새콤달콤한 케첩, 맛없다.",#20250924065517,Default
 Item_Book,책,#20250924065517,Default
@@ -440,15 +440,15 @@ Item_Book_Desc,"엉터리 책이다.",#20250924065517,Default
 Item_Letter,편지,#20250924065517,Default
 Item_Letter_Desc,"한 통의 편지",#20250924065517,Default
 Item_AirplaneToy,"비행기 모형",#20250924065517,Default
-Item_AirplaneToy_Desc,"항공사에서 판매하는 싸구려 비행기 모형이다",#20250924065517,Default
+Item_AirplaneToy_Desc,"항공사에서 판매하는 싸구려 비행기 모형이다.",#20250924065517,Default
 Item_Ball,축구공,#20250924065517,Default
 Item_Ball_Desc,"공기가 조금 빠진 축구공이다.",#20250924065517,Default
 Item_BicyleToy,"자전거 모형",#20250924065517,Default
-Item_BicyleToy_Desc,"정교한 자전거 모형이다",#20250924065517,Default
+Item_BicyleToy_Desc,"정교한 자전거 모형이다.",#20250924065517,Default
 Item_Cannon,대포,#20250924065517,Default
-Item_Cannon_Desc,"장난감 대포다",#20250924065517,Default
+Item_Cannon_Desc,"장난감 대포다.",#20250924065517,Default
 Item_Compass,나침반,#20250924065517,Default
-Item_Compass_Desc,"정교한 나침반이다",#20250924065517,Default
+Item_Compass_Desc,"정교한 나침반이다.",#20250924065517,Default
 Item_Dice_2,주사위,#20250924065517,Default
 Item_Dice_2_Desc,"겉보기엔 정상적이지만 약간 한쪽으로 치우친 느낌의 주사위다.",#20250924065517,Default
 Item_Dice,주사위,#20250924065517,Default
@@ -456,23 +456,23 @@ Item_Dice_Desc,"정상적인 주사위 하나다.",#20250924065517,Default
 Item_Fish,"물고기 장난감",#20250924065517,Default
 Item_Fish_Desc,"진한 플라스틱 냄새가 난다.",#20250924065517,Default
 Item_Watch,회중시계,#20250924065517,Default
-Item_Watch_Desc,"은색 회중시계다",#20250924065517,Default
+Item_Watch_Desc,"은색 회중시계다.",#20250924065517,Default
 Item_Egg,오리알,#20250924065517,Default
 Item_Egg_Desc,"아무도 원하지 않는 알이다.",#20250924065517,Default
 Item_Heat,테르밋,#20250924065517,Default
 Item_Heat_Desc,"불연성이 강하다.",#20250924065517,Default
 Item_Propane,프로판,#20250924065517,Default
-Item_Propane_Desc,"프로판이 가득 찬 통이다",#20250924065517,Default
+Item_Propane_Desc,"프로판이 가득 찬 통이다.",#20250924065517,Default
 Item_Rope,로프,#20250924065517,Default
-Item_Rope_Desc,"등반용 로프다",#20250924065517,Default
+Item_Rope_Desc,"등반용 로프다.",#20250924065517,Default
 Item_Drugs,약통,#20250924065517,Default
 Item_Drugs_Desc,"먹을 수 없으며 안에 온갖 것이 있다.",#20250924065517,Default
 Item_Lv,수액제,#20250924065517,Default
-Item_Lv_Desc,"일부 정맥 주사용 약품이다",#20250924065517,Default
+Item_Lv_Desc,"일부 정맥 주사용 약품이다.",#20250924065517,Default
 Item_Broom,빗자루,#20250924065517,Default
 Item_Broom_Desc,"평범한 빗자루다.",#20250924065517,Default
 Item_Driver,"일자 드라이버",#20250924065517,Default
-Item_Driver_Desc,"일자 드라이버다",#20250924065517,Default
+Item_Driver_Desc,"일자 드라이버다.",#20250924065517,Default
 Item_ElectricSaw,전기톱,#20250924065517,Default
 Item_ElectricSaw_Desc,"작은 전기톱이다.",#20250924065517,Default
 Item_GasCanL,"금속 통",#20250924065517,Default
@@ -482,23 +482,23 @@ Item_GasCanS_Desc,"휘발유를 담는 플라스틱 통이다.",#20250924065517,
 Item_HammerL,"대형 망치",#20250924065517,Default
 Item_HammerL_Desc,"수리용 필수품이다.",#20250924065517,Default
 Item_HammerS,망치,#20250924065517,Default
-Item_HammerS_Desc,"못 박을 때 유용하다",#20250924065517,Default
+Item_HammerS_Desc,"못 박을 때 유용하다.",#20250924065517,Default
 Item_Lantern,"등유 램프",#20250924065517,Default
-Item_Lantern_Desc,"기름이 없다",#20250924065517,Default
+Item_Lantern_Desc,"기름이 없다.",#20250924065517,Default
 Item_Shovel,삽,#20250924065517,Default
 Item_Shovel_Desc,"한때 한 기사가 이걸로 세상을 평정했지만, 지금은 좋은 무기는 아니다.",#20250924065517,Default
 Item_Telescope,망원경,#20250924065517,Default
-Item_Telescope_Desc,"고장난 망원경이지만 렌즈는 멀쩡하다",#20250924065517,Default
+Item_Telescope_Desc,"고장난 망원경이지만 렌즈는 멀쩡하다.",#20250924065517,Default
 Item_Trap,덫,#20250924065517,Default
-Item_Trap_Desc,"꽤 괜찮은 고철덩어리이다",#20250924065517,Default
+Item_Trap_Desc,"꽤 괜찮은 고철덩어리이다.",#20250924065517,Default
 Item_Wrench03,쇠지렛대,#20250924065517,Default
 Item_Wrench03_Desc,"휘두르면 거의 모든 방어구를 관통할 수 있으며 물리학적으로 매우 합리적이다.",#20250924065517,Default
 Item_1_AccessoryTemplate,"부품 템플릿",#20250924065517,Default
-Item_1_AccessoryTemplate_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_1_AccessoryTemplate_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_CowMask,"젖소 마스크",#20250924065517,Default
 Item_CowMask_Desc,"사나워 보이는 젖소 마스크다.",#20250924065517,Default
 Item_Hat,"카우보이 모자",#20250924065517,Default
-Item_Hat_Desc,"카우보이 모자다",#20250924065517,Default
+Item_Hat_Desc,"카우보이 모자다.",#20250924065517,Default
 Item_CocoMilk,"코코아 우유",#20250924065517,Default
 Item_CocoMilk_Desc,"초콜릿 맛이 나는 우유다.",#20250924065517,Default
 Item_Soda,탄산수,#20250924065517,Default
@@ -506,7 +506,7 @@ Item_Soda_Desc,"시원한 탄산수다.",#20250924065517,Default
 Item_Waterbottle,물통,#20250924065517,Default
 Item_Waterbottle_Desc,"군용 물통, 꿀꺽꿀꺽",#20250924065517,Default
 Item_Whisky,위스키,#20250924065517,Default
-Item_Whisky_Desc,"고급스럽지만 목이 마르게 된다",#20250924065517,Default
+Item_Whisky_Desc,"고급스럽지만 목이 마르게 된다.",#20250924065517,Default
 Item_Pen,만년필,#20250924065517,Default
 Item_Pen_Desc,"잉크가 없는 만년필이다.",#20250924065517,Default
 Item_Scissors,가위,#20250924065517,Default
@@ -548,7 +548,7 @@ Item_Wheel_Desc,"공기만 넣으면 쓸 수 있다.",#20250924065517,Default
 Item_Yarn,실,#20250924065517,Default
 Item_Yarn_Desc,"옷을 만드는 실이다.",#20250924065517,Default
 Item_Pumpkin,호박,#20250924065517,Default
-Item_Pumpkin_Desc,"그냥 호박이다",#20250924065517,Default
+Item_Pumpkin_Desc,"그냥 호박이다.",#20250924065517,Default
 Item_Basket,장바구니,#20250924065517,Default
 Item_Basket_Desc,"물건을 많이 담을 수 없다.",#20250924065517,Default
 Item_Cup,컵,#20250924065517,Default
@@ -566,7 +566,7 @@ Item_Injection_Desc,"사용하지 않은 주사기다.",#20250924065517,Default
 Item_Injection_A,"황색 주사기",#20250924065517,Default
 Item_Injection_A_Desc,"이동 속도 25% 증가, 120초 동안 지속된다.",#20250924065517,Default
 Item_HeadLantern,헤드랜턴,#20250924065517,Default
-Item_HeadLantern_Desc,"더 멀리 볼 수 있다",#20250924065517,Default
+Item_HeadLantern_Desc,"더 멀리 볼 수 있다.",#20250924065517,Default
 Item_Bullet_Template,"탄약 템플릿",#20250924065517,Default
 Item_Bullet_Template_Desc,탄약,#20250924065517,Default
 Item_Bullet_AR_L_Rusted,"L-녹슨 탄약",#20250924065517,Default
@@ -603,7 +603,7 @@ Item_Bullet_AR_S_Electric_Desc,"전류를 방출하는 탄환으로, 가끔 적�
 Item_Bullet_AR_S_Space,S-공간탄,#20250924065517,Default
 Item_Bullet_AR_S_Space_Desc,"지핵의 힘을 빌려 공간을 왜곡할 수 있고 단단한 구조물을 파괴한다.",#20250924065517,Default
 Item_Bullet_SHOT_Normal,산탄-벅샷탄,#20250924065517,Default
-Item_Bullet_SHOT_Normal_Desc,"사냥용 벅샷탄으로, 근거리 살상력이 높다",#20250924065517,Default
+Item_Bullet_SHOT_Normal_Desc,"사냥용 벅샷탄으로, 근거리 살상력이 높다.",#20250924065517,Default
 Item_Bullet_SHOT_Piranha,산탄-피라냐탄,#20250924065517,Default
 Item_Bullet_SHOT_Piranha_Desc,"방어구 관통 능력은 약하나 육체에 더 큰 대미지를 입힌다.",#20250924065517,Default
 Item_Bullet_SHOT_Burn,산탄-드래곤브레스탄,#20250924065517,Default
@@ -629,9 +629,9 @@ Item_Bullet_Rocket_Desc,"RPG용 로켓",#20250924065517,Default
 Item_Bullet_Arrow_Normal,"나무 화살",#20250924065517,Default
 Item_Bullet_Arrow_Normal_Desc,"나뭇가지로 만든 화살이다.",#20250924065517,Default
 Item_L_RPK_Lv_1,"RPK 저품질",#20250924065517,Default
-Item_L_RPK_Lv_1_Desc,"높은 내구성의 기관총이다",#20250924065517,Default
+Item_L_RPK_Lv_1_Desc,"높은 내구성의 기관총이다.",#20250924065517,Default
 Item_L_AK102_Lv_1,"AK102 저품질",#20250924065517,Default
-Item_L_AK102_Lv_1_Desc,"현대화 AK 모델로 더 많은 부품을 장착할 수 있다",#20250924065517,Default
+Item_L_AK102_Lv_1_Desc,"현대화 AK 모델로 더 많은 부품을 장착할 수 있다.",#20250924065517,Default
 Item_L_VPO_Lv_1,"VPO 저품질",#20250924065517,Default
 Item_L_VPO_Lv_1_Desc,"볼트액션 저격소총",#20250924065517,Default
 Item_Shot_MP155_Lv_1,"MP155 저품질",#20250924065517,Default
@@ -645,7 +645,7 @@ Item_A_Bow_Lv_1_Desc,"로프로 묶은 나무 막대기, 임시로 쓰긴 무난
 Item_S_GLick_Lv_1,"글록 저품질",#20250924065517,Default
 Item_S_GLick_Lv_1_Desc,"TT 권총",#20250924065517,Default
 Item_L_AK47_Lv_1,"AK-47 저품질",#20250924065517,Default
-Item_L_AK47_Lv_1_Desc,"높은 내구성의 소총이다",#20250924065517,Default
+Item_L_AK47_Lv_1_Desc,"높은 내구성의 소총이다.",#20250924065517,Default
 Item_L_MF_Lv_1,"MF 저품질",#20250924065517,Default
 Item_L_MF_Lv_1_Desc,"서양 제식 무기",#20250924065517,Default
 Item_S_MP7_Lv_1,"MP7 저품질",#20250924065517,Default
@@ -653,139 +653,139 @@ Item_S_MP7_Lv_1_Desc,"평범한 소형 기관단총이다.",#20250924065517,Defa
 Item_S_UZI_Lv_1,"UZI 저품질",#20250924065517,Default
 Item_S_UZI_Lv_1_Desc,"평범한 소형 기관단총이다.",#20250924065517,Default
 Item_Grip_AS_Lv_1,"돌격 손잡이 Lv.1",#20250924065517,Default
-Item_Grip_AS_Lv_1_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_AS_Lv_1_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Grip_AS_Lv_2,"돌격 손잡이 Lv.2",#20250924065517,Default
-Item_Grip_AS_Lv_2_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_AS_Lv_2_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Grip_AS_Lv_3,"돌격 손잡이 Lv.3",#20250924065517,Default
-Item_Grip_AS_Lv_3_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_AS_Lv_3_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Grip_SP_Lv_1,"신속 손잡이 Lv.1",#20250924065517,Default
-Item_Grip_SP_Lv_1_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_SP_Lv_1_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Grip_SP_Lv_2,"신속 손잡이 Lv.2",#20250924065517,Default
-Item_Grip_SP_Lv_2_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_SP_Lv_2_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Grip_SP_Lv_3,"신속 손잡이 Lv.3",#20250924065517,Default
-Item_Grip_SP_Lv_3_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_SP_Lv_3_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Grip_Verticle_Lv_1,"수직 손잡이 Lv.1",#20250924065517,Default
-Item_Grip_Verticle_Lv_1_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_Verticle_Lv_1_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Grip_Verticle_Lv_2,"수직 손잡이 Lv.2",#20250924065517,Default
-Item_Grip_Verticle_Lv_2_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_Verticle_Lv_2_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Grip_Verticle_Lv_3,"수직 손잡이 Lv.3",#20250924065517,Default
-Item_Grip_Verticle_Lv_3_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_Verticle_Lv_3_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Muzzle_L_Type_1,"대구경 소염기 Lv.1",#20250924065517,Default
-Item_Muzzle_L_Type_1_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_L_Type_1_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_L_Type_2,"대구경 소염기 Lv.2",#20250924065517,Default
-Item_Muzzle_L_Type_2_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_L_Type_2_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_L_Type_3,"대구경 소염기 Lv.3",#20250924065517,Default
-Item_Muzzle_L_Type_3_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_L_Type_3_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_Shot_Type_1,"산탄총 초크 Lv.1",#20250924065517,Default
-Item_Muzzle_Shot_Type_1_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_Shot_Type_1_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_Shot_Type_2,"산탄총 초크 Lv.2",#20250924065517,Default
-Item_Muzzle_Shot_Type_2_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_Shot_Type_2_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_Shot_Type_3,"산탄총 초크 Lv.3",#20250924065517,Default
-Item_Muzzle_Shot_Type_3_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_Shot_Type_3_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_Sniper_Type_1,"저격소총 소음기 Lv.1",#20250924065517,Default
-Item_Muzzle_Sniper_Type_1_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_Sniper_Type_1_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_Sniper_Type_2,"저격소총 소음기 Lv.2",#20250924065517,Default
-Item_Muzzle_Sniper_Type_2_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_Sniper_Type_2_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_Sniper_Type_3,"저격소총 소음기 Lv.3",#20250924065517,Default
-Item_Muzzle_Sniper_Type_3_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_Sniper_Type_3_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_S_Type_1,"소구경 소염기 Lv.1",#20250924065517,Default
-Item_Muzzle_S_Type_1_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_S_Type_1_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_S_Type_2,"소구경 소염기 Lv.2",#20250924065517,Default
-Item_Muzzle_S_Type_2_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_S_Type_2_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_S_Type_3,"소구경 소염기 Lv.3",#20250924065517,Default
-Item_Muzzle_S_Type_3_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_S_Type_3_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_4X_Lv_1,"4배율 조준경 Lv.1",#20250924065517,Default
-Item_Scope_4X_Lv_1_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_4X_Lv_1_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_4X_Lv_2,"4배율 조준경 Lv.2",#20250924065517,Default
-Item_Scope_4X_Lv_2_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_4X_Lv_2_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_4X_Lv_3,"4배율 조준경 Lv.3",#20250924065517,Default
-Item_Scope_4X_Lv_3_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_4X_Lv_3_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_8X_Lv_1,"8배율 조준경 Lv.1",#20250924065517,Default
-Item_Scope_8X_Lv_1_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_8X_Lv_1_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_8X_Lv_2,"8배율 조준경 Lv.2",#20250924065517,Default
-Item_Scope_8X_Lv_2_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_8X_Lv_2_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_8X_Lv_3,"8배율 조준경 Lv.3",#20250924065517,Default
-Item_Scope_8X_Lv_3_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_8X_Lv_3_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Digit_Lv_1,"디지털 사이트 Lv.1",#20250930085645,Default
-Item_Scope_Digit_Lv_1_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Digit_Lv_1_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Digit_Lv_2,"디지털 사이트 Lv.2",#20250930085645,Default
-Item_Scope_Digit_Lv_2_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Digit_Lv_2_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Digit_Lv_3,"디지털 사이트 Lv.3",#20250930085645,Default
-Item_Scope_Digit_Lv_3_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Digit_Lv_3_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Holo_Lv_1,"홀로그램 사이트 Lv.1",#20250930085645,Default
-Item_Scope_Holo_Lv_1_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Holo_Lv_1_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Holo_Lv_2,"홀로그램 사이트 Lv.2",#20250930085645,Default
-Item_Scope_Holo_Lv_2_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Holo_Lv_2_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Holo_Lv_3,"홀로그램 사이트 Lv.3",#20250930085645,Default
-Item_Scope_Holo_Lv_3_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Holo_Lv_3_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Long_Lv_1,"퀵 사이트 Lv.1",#20250930085645,Default
-Item_Scope_Long_Lv_1_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Long_Lv_1_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Long_Lv_2,"퀵 사이트 Lv.2",#20250930085645,Default
-Item_Scope_Long_Lv_2_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Long_Lv_2_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Long_Lv_3,"퀵 사이트 Lv.3",#20250930085645,Default
-Item_Scope_Long_Lv_3_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Long_Lv_3_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_RedDot_Lv_1,"레드 도트 사이트 Lv.1",#20250930085645,Default
-Item_Scope_RedDot_Lv_1_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_RedDot_Lv_1_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_RedDot_Lv_2,"레드 도트 사이트 Lv.2",#20250930085645,Default
-Item_Scope_RedDot_Lv_2_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_RedDot_Lv_2_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_RedDot_Lv_3,"레드 도트 사이트 Lv.3",#20250930085645,Default
-Item_Scope_RedDot_Lv_3_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_RedDot_Lv_3_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Stock_Rifle_Lv_1,"소총 개머리판 Lv.1",#20250924065517,Default
-Item_Stock_Rifle_Lv_1_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Rifle_Lv_1_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_Rifle_Lv_2,"소총 개머리판 Lv.2",#20250924065517,Default
-Item_Stock_Rifle_Lv_2_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Rifle_Lv_2_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_Rifle_Lv_3,"소총 개머리판 Lv.3",#20250924065517,Default
-Item_Stock_Rifle_Lv_3_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Rifle_Lv_3_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_Shot_Lv_1,"산탄총 개머리판 Lv.1",#20250924065517,Default
-Item_Stock_Shot_Lv_1_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Shot_Lv_1_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_Shot_Lv_2,"산탄총 개머리판 Lv.2",#20250924065517,Default
-Item_Stock_Shot_Lv_2_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Shot_Lv_2_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_Shot_Lv_3,"산탄총 개머리판 Lv.3",#20250924065517,Default
-Item_Stock_Shot_Lv_3_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Shot_Lv_3_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_SMG_Lv_1,"기관단총 개머리판 Lv.1",#20250924065517,Default
-Item_Stock_SMG_Lv_1_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_SMG_Lv_1_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_SMG_Lv_2,"기관단총 개머리판 Lv.2",#20250924065517,Default
-Item_Stock_SMG_Lv_2_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_SMG_Lv_2_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_SMG_Lv_3,"기관단총 개머리판 Lv.3",#20250924065517,Default
-Item_Stock_SMG_Lv_3_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_SMG_Lv_3_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_Sniper_Lv_1,"저격소총 개머리판 Lv.1",#20250924065517,Default
-Item_Stock_Sniper_Lv_1_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Sniper_Lv_1_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_Sniper_Lv_2,"저격소총 개머리판 Lv.2",#20250924065517,Default
-Item_Stock_Sniper_Lv_2_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Sniper_Lv_2_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_Sniper_Lv_3,"저격소총 개머리판 Lv.3",#20250924065517,Default
-Item_Stock_Sniper_Lv_3_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Sniper_Lv_3_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Tec_Lazer_Lv_1,"전술 레이저 Lv.1",#20250924065517,Default
-Item_Tec_Lazer_Lv_1_Desc,"더 정밀한 사격이 가능하다",#20250924065517,Default
+Item_Tec_Lazer_Lv_1_Desc,"더 정밀한 사격이 가능하다.",#20250924065517,Default
 Item_Tec_Lazer_Lv_2,"전술 레이저 Lv.2",#20250924065517,Default
-Item_Tec_Lazer_Lv_2_Desc,"더 정밀한 사격이 가능하다",#20250924065517,Default
+Item_Tec_Lazer_Lv_2_Desc,"더 정밀한 사격이 가능하다.",#20250924065517,Default
 Item_Tec_Lazer_Lv_3,"전술 레이저 Lv.3",#20250924065517,Default
-Item_Tec_Lazer_Lv_3_Desc,"더 정밀한 사격이 가능하다",#20250924065517,Default
+Item_Tec_Lazer_Lv_3_Desc,"더 정밀한 사격이 가능하다.",#20250924065517,Default
 Item_Tec_Light_Lv_1,"전술 플래시 Lv.1",#20250924065517,Default
-Item_Tec_Light_Lv_1_Desc,"적의 머리에 비춰 취약하게 만든다",#20250924065517,Default
+Item_Tec_Light_Lv_1_Desc,"적의 머리에 비춰 취약하게 만든다.",#20250924065517,Default
 Item_Tec_Light_Lv_2,"전술 플래시 Lv.2",#20250924065517,Default
-Item_Tec_Light_Lv_2_Desc,"적의 머리에 비춰 취약하게 만든다",#20250924065517,Default
+Item_Tec_Light_Lv_2_Desc,"적의 머리에 비춰 취약하게 만든다.",#20250924065517,Default
 Item_Tec_Light_Lv_3,"전술 플래시 Lv.3",#20250924065517,Default
-Item_Tec_Light_Lv_3_Desc,"적의 머리에 비춰 취약하게 만든다",#20250924065517,Default
+Item_Tec_Light_Lv_3_Desc,"적의 머리에 비춰 취약하게 만든다.",#20250924065517,Default
 Item_Magazine_Rifle_Lv_1,"대구경 대용량 탄창 Lv.1",#20250924065517,Default
-Item_Magazine_Rifle_Lv_1_Desc,"탄약 수가 증가한다",#20250924065517,Default
+Item_Magazine_Rifle_Lv_1_Desc,"탄약 수가 증가한다.",#20250924065517,Default
 Item_Magazine_Rifle_Lv_2,"대구경 대용량 탄창 Lv.2",#20250924065517,Default
-Item_Magazine_Rifle_Lv_2_Desc,"탄약 수가 증가한다",#20250924065517,Default
+Item_Magazine_Rifle_Lv_2_Desc,"탄약 수가 증가한다.",#20250924065517,Default
 Item_Magazine_Rifle_Lv_3,"대구경 대용량 탄창 Lv.3",#20250924065517,Default
-Item_Magazine_Rifle_Lv_3_Desc,"탄약 수가 증가한다",#20250924065517,Default
+Item_Magazine_Rifle_Lv_3_Desc,"탄약 수가 증가한다.",#20250924065517,Default
 Item_Magazine_SMG_Lv_1,"소구경 대용량 탄창 Lv.1",#20250924065517,Default
-Item_Magazine_SMG_Lv_1_Desc,"탄약 수가 증가한다",#20250924065517,Default
+Item_Magazine_SMG_Lv_1_Desc,"탄약 수가 증가한다.",#20250924065517,Default
 Item_Magazine_SMG_Lv_2,"소구경 대용량 탄창 Lv.2",#20250924065517,Default
-Item_Magazine_SMG_Lv_2_Desc,"탄약 수가 증가한다",#20250924065517,Default
+Item_Magazine_SMG_Lv_2_Desc,"탄약 수가 증가한다.",#20250924065517,Default
 Item_Magazine_SMG_Lv_3,"소구경 대용량 탄창 Lv.3",#20250924065517,Default
-Item_Magazine_SMG_Lv_3_Desc,"탄약 수가 증가한다",#20250924065517,Default
+Item_Magazine_SMG_Lv_3_Desc,"탄약 수가 증가한다.",#20250924065517,Default
 Item_L_AK102_Lv_2,AK-103,#20250924065517,Default
 Item_L_AK102_Lv_2_Desc,"AK-47의 현대화 버전으로 신뢰성을 계승하면서 전반적인 성능이 향상되었다.",#20250924065517,Default
 Item_L_AK102_Lv_3,AK102,#20250924065517,Default
-Item_L_AK102_Lv_3_Desc,"현대화 AK 모델로 더 많은 부품을 장착할 수 있다",#20250924065517,Default
+Item_L_AK102_Lv_3_Desc,"현대화 AK 모델로 더 많은 부품을 장착할 수 있다.",#20250924065517,Default
 Item_L_AK47_Lv_2,AK-47,#20250924065517,Default
 Item_L_AK47_Lv_2_Desc,"클래식한 제식 소총으로 화력이 강하고 구조가 단순해 관리가 쉽지만 반동이 크고 정확도는 보통이다.",#20250924065517,Default
 Item_L_AK47_Lv_3,AK-47,#20250924065517,Default
-Item_L_AK47_Lv_3_Desc,"높은 내구성의 기관총이다",#20250924065517,Default
+Item_L_AK47_Lv_3_Desc,"높은 내구성의 기관총이다.",#20250924065517,Default
 Item_L_MF_Lv_2,MF,#20250924065517,Default
 Item_L_MF_Lv_2_Desc,"널리 보급된 제식 무기로 정확도가 높고 반동이 적으며 대부분의 부품을 장착할 수 있다.",#20250924065517,Default
 Item_L_MF_Lv_3,MF,#20250924065517,Default
@@ -793,7 +793,7 @@ Item_L_MF_Lv_3_Desc,"서양 제식 무기",#20250924065517,Default
 Item_L_RPK_Lv_2,RPK,#20250924065517,Default
 Item_L_RPK_Lv_2_Desc,"AK-47을 기반으로 설계된 경기관총으로 장탄수가 많아 화력 지원에 종종 사용된다.",#20250924065517,Default
 Item_L_RPK_Lv_3,RPK,#20250924065517,Default
-Item_L_RPK_Lv_3_Desc,"높은 내구성의 기관총이다",#20250924065517,Default
+Item_L_RPK_Lv_3_Desc,"높은 내구성의 기관총이다.",#20250924065517,Default
 Item_L_VPO_Lv_2,VPO,#20250924065517,Default
 Item_L_VPO_Lv_2_Desc,"볼트액션 저격소총",#20250924065517,Default
 Item_L_VPO_Lv_3,VPO,#20250924065517,Default
@@ -830,47 +830,47 @@ Item_S_UZI_Lv_2_Desc,"매우 작고 경량화된 제식 기관단총으로 다�
 Item_S_UZI_Lv_3,UZI,#20250924065517,Default
 Item_S_UZI_Lv_3_Desc,"평범한 소형 기관단총이다.",#20250924065517,Default
 Item_Grip_AS_Lv_4,"돌격 손잡이 Lv.4",#20250924065517,Default
-Item_Grip_AS_Lv_4_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_AS_Lv_4_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Grip_SP_Lv_4,"신속 손잡이 Lv.4",#20250924065517,Default
-Item_Grip_SP_Lv_4_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_SP_Lv_4_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Grip_Verticle_Lv_4,"수직 손잡이 Lv.4",#20250924065517,Default
-Item_Grip_Verticle_Lv_4_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Grip_Verticle_Lv_4_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Magazine_Rifle_Lv_4,"대구경 대용량 탄창 Lv.4",#20250924065517,Default
-Item_Magazine_Rifle_Lv_4_Desc,"탄약 수가 증가한다",#20250924065517,Default
+Item_Magazine_Rifle_Lv_4_Desc,"탄약 수가 증가한다.",#20250924065517,Default
 Item_Magazine_SMG_Lv_4,"소구경 대용량 탄창 Lv.4",#20250924065517,Default
-Item_Magazine_SMG_Lv_4_Desc,"탄약 수가 증가한다",#20250924065517,Default
+Item_Magazine_SMG_Lv_4_Desc,"탄약 수가 증가한다.",#20250924065517,Default
 Item_Muzzle_L_Type_4,"대구경 소염기 Lv.4",#20250924065517,Default
-Item_Muzzle_L_Type_4_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_L_Type_4_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_Shot_Type_4,"산탄총 초크 Lv.4",#20250924065517,Default
-Item_Muzzle_Shot_Type_4_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_Shot_Type_4_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_Sniper_Type_4,"저격소총 소음기 Lv.4",#20250924065517,Default
-Item_Muzzle_Sniper_Type_4_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_Sniper_Type_4_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Muzzle_S_Type_4,"소구경 소염기 Lv.4",#20250924065517,Default
-Item_Muzzle_S_Type_4_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Muzzle_S_Type_4_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_4X_Lv_4,"4배율 조준경 Lv.4",#20250924065517,Default
-Item_Scope_4X_Lv_4_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_4X_Lv_4_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_8X_Lv_4,"8배율 조준경 Lv.4",#20250924065517,Default
-Item_Scope_8X_Lv_4_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_8X_Lv_4_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Digit_Lv_4,"디지털 사이트 Lv.4",#20250930085645,Default
-Item_Scope_Digit_Lv_4_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Digit_Lv_4_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Holo_Lv_4,"홀로그램 사이트 Lv.4",#20250930085645,Default
-Item_Scope_Holo_Lv_4_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Holo_Lv_4_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_Long_Lv_4,"퀵 사이트 Lv.4",#20250930085645,Default
-Item_Scope_Long_Lv_4_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_Long_Lv_4_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Scope_RedDot_Lv_4,"레드 도트 사이트 Lv.4",#20250930085645,Default
-Item_Scope_RedDot_Lv_4_Desc,"정확도가 증가한다",#20250924065517,Default
+Item_Scope_RedDot_Lv_4_Desc,"정확도가 증가한다.",#20250924065517,Default
 Item_Stock_Rifle_Lv_4,"소총 개머리판 Lv.4",#20250924065517,Default
-Item_Stock_Rifle_Lv_4_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Rifle_Lv_4_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_Shot_Lv_4,"산탄총 개머리판 Lv.4",#20250924065517,Default
-Item_Stock_Shot_Lv_4_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Shot_Lv_4_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_SMG_Lv_4,"기관단총 개머리판 Lv.4",#20250924065517,Default
-Item_Stock_SMG_Lv_4_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_SMG_Lv_4_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Stock_Sniper_Lv_4,"저격소총 개머리판 Lv.4",#20250924065517,Default
-Item_Stock_Sniper_Lv_4_Desc,"안정성이 증가한다",#20250924065517,Default
+Item_Stock_Sniper_Lv_4_Desc,"안정성이 증가한다.",#20250924065517,Default
 Item_Tec_Lazer_Lv_4,"전술 레이저 Lv.4",#20250924065517,Default
-Item_Tec_Lazer_Lv_4_Desc,"더 정밀한 사격이 가능하다",#20250924065517,Default
+Item_Tec_Lazer_Lv_4_Desc,"더 정밀한 사격이 가능하다.",#20250924065517,Default
 Item_Tec_Light_Lv_4,"전술 플래시 Lv.4",#20250924065517,Default
-Item_Tec_Light_Lv_4_Desc,"적의 머리에 비춰 취약하게 만든다",#20250924065517,Default
+Item_Tec_Light_Lv_4_Desc,"적의 머리에 비춰 취약하게 만든다.",#20250924065517,Default
 Item_1_Blueprint,"설계도 템플릿",#20250924065517,Default
 Item_1_Blueprint_Desc,"무기 연구에 사용: XXXX.",#20250924065517,Default
 Item_BP_AK102,"설계도: AK-103",#20250924065517,Default
@@ -908,25 +908,25 @@ Item_Quest_HardDrive_GasStation_Desc,"주유소 CCTV 영상이 저장된 하드 
 Item_FloppyDisk,"J-Lab 플로피 디스크",#20250924065517,Default
 Item_FloppyDisk_Desc,"암호화된 데이터가 저장된 플로피 디스크다.",#20250924065517,Default
 Item_1_EnemyGun_Template,총기,#20250924065517,Default
-Item_1_EnemyGun_Template_Desc,"높은 내구성의 기관총이다",#20250924065517,Default
+Item_1_EnemyGun_Template_Desc,"높은 내구성의 기관총이다.",#20250924065517,Default
 Item_EnemyGun_SHOT,AK-47-강화형,#20250924065517,Default
-Item_EnemyGun_SHOT_Desc,"높은 내구성의 기관총이다",#20250924065517,Default
+Item_EnemyGun_SHOT_Desc,"높은 내구성의 기관총이다.",#20250924065517,Default
 Item_EnemyGun_AR,총기,#20250924065517,Default
-Item_EnemyGun_AR_Desc,"높은 내구성의 기관총이다",#20250924065517,Default
+Item_EnemyGun_AR_Desc,"높은 내구성의 기관총이다.",#20250924065517,Default
 Item_PigKnife,정육칼,#20250924065517,Default
-Item_PigKnife_Desc,"거칠어 보이는 칼, 그다지 날카롭지 않다",#20250924065517,Default
+Item_PigKnife_Desc,"거칠어 보이는 칼, 그다지 날카롭지 않다.",#20250924065517,Default
 Item_Axe,"전투 도끼",#20250924065517,Default
 Item_Axe_Desc,"광전사 전용",#20250924065517,Default
 Item_1_Armor_Template,"1레벨 방탄복",#20250924065517,Default
-Item_1_Armor_Template_Desc,"종이보다 얇고 물총 한 발 정도 막을 수 있다",#20250924065517,Default
+Item_1_Armor_Template_Desc,"종이보다 얇고 물총 한 발 정도 막을 수 있다.",#20250924065517,Default
 Item_ColdCore,"콜드 코어 조각",#20250924065517,Default
 Item_ColdCore_Desc,"은은한 푸른 빛을 발산한다.",#20250924065517,Default
 Item_FlamingCore,"레드 코어 조각",#20250924065517,Default
 Item_FlamingCore_Desc,"불안정하며 엄청난 에너지를 방출한다.",#20250924065517,Default
 Item_EnemyGun_AR_2,총기,#20250924065517,Default
-Item_EnemyGun_AR_2_Desc,"높은 내구성의 기관총이다",#20250924065517,Default
+Item_EnemyGun_AR_2_Desc,"높은 내구성의 기관총이다.",#20250924065517,Default
 Item_EnemyGun_SMG,총기,#20250924065517,Default
-Item_EnemyGun_SMG_Desc,"높은 내구성의 기관총이다",#20250924065517,Default
+Item_EnemyGun_SMG_Desc,"높은 내구성의 기관총이다.",#20250924065517,Default
 Item_BP_Weapon_0_Basic,"무기 설계도: 기본",#20250924065517,Default
 Item_BP_Weapon_0_Basic_Desc,"무기 연구에 사용되는 기본 설계도다.",#20250924065517,Default
 Item_BP_Weapon_2_Pro,"무기 설계도: 베테랑",#20250924065517,Default
@@ -946,11 +946,11 @@ Item_Totem_Attack_Desc,"기본 대미지가 소폭 증가한다.",#2025092406551
 Item_Totem_MeleeAttack_2,"토템: 전사 II",#20250924065517,Default
 Item_Totem_MeleeAttack_2_Desc,"근접 공격력이 일정량 증가한다.",#20250924065517,Default
 Item_Totem_MeleeAttack,"토템: 전사 I",#20250924065517,Default
-Item_Totem_MeleeAttack_Desc,"근접 공격력이 소폭 증가한다",#20250924065517,Default
+Item_Totem_MeleeAttack_Desc,"근접 공격력이 소폭 증가한다.",#20250924065517,Default
 Item_Totem_Speed,"토템: 민첩 Ⅰ",#20250924065517,Default
 Item_Totem_Speed_Desc,"이동 능력을 소폭 증가한다.",#20250924065517,Default
 Item_Totem_Strong,"토템: 건강 Ⅰ",#20250924065517,Default
-Item_Totem_Strong_Desc,"소지 중량이 대폭 증가한다",#20250924065517,Default
+Item_Totem_Strong_Desc,"소지 중량이 대폭 증가한다.",#20250924065517,Default
 Item_Rocket_RPG_Lv_1,RPG-7,#20250924065517,Default
 Item_Rocket_RPG_Lv_1_Desc,"폭발성 대미지, 슉~~~ 펑!",#20250924065517,Default
 Item_InformationFiles,"정보 파일",#20250924065517,Default
@@ -983,7 +983,7 @@ Item_FishingRod,"낡은 낚싯대",#20250924065517,Default
 Item_Wood,목재,#20250924065517,Default
 Item_Wood_Desc,"가공된 목재다.",#20250924065517,Default
 Item_MetalSlice,"금속 조각",#20250924065517,Default
-Item_MetalSlice_Desc,"약간 녹슨 금속 조각이다",#20250924065517,Default
+Item_MetalSlice_Desc,"약간 녹슨 금속 조각이다.",#20250924065517,Default
 Item_Quest_Letter_Explorer,"탐험가의 편지",#20250924065517,Default
 Item_Quest_Letter_Explorer_Desc,"덕코프에 먼저 도착한 탐험가의 편지다.",#20250924065517,Default
 Item_Key_Dormitory103,"기숙사 103호 열쇠",#20250924065517,Default
@@ -991,7 +991,7 @@ Item_Key_Dormitory103_Desc,"기숙사의 열쇠. 103호실 문을 열 수 있을
 Item_Key_Dormitory106,"기숙사 106호 열쇠",#20250924065517,Default
 Item_Key_Dormitory106_Desc,"기숙사의 열쇠. 106호실 문을 열 수 있을 것 같다.",#20250924065517,Default
 Item_Key_Card_Factory,"공장 출입카드",#20250924065517,Default
-Item_Key_Card_Factory_Desc,"공장 직원의 출입카드다",#20250924065517,Default
+Item_Key_Card_Factory_Desc,"공장 직원의 출입카드다.",#20250924065517,Default
 Item_Key_Card_Factory_Uncrack,"공장 출입카드(암호화)",#20250924065517,Default
 Item_Key_Card_Factory_Uncrack_Desc,"공장 직원의 출입카드(암호화되어 사용 불가)",#20250924065517,Default
 Item_Key_BlueHouse,"안전가옥 칸막이실 열쇠",#20250924065517,Default
@@ -1041,7 +1041,7 @@ Item_L_TPS_Lv_1,"TPS 저품질",#20250924065517,Default
 Item_Formula_Cable,"레시피: 전원 케이블",#20250924065517,Default
 Item_Formula_Cable_Desc,"전원 케이블을 만드는 레시피다.",#20250924065517,Default
 Item_Key_Machine,"기계 열쇠",#20250924065517,Default
-Item_Key_Machine_Desc,"어떤 차문을 열 수 있는 열쇠다",#20250924065517,Default
+Item_Key_Machine_Desc,"어떤 차문을 열 수 있는 열쇠다.",#20250924065517,Default
 Item_Quest_Watch,회중시계,#20250924065517,Default
 Item_Quest_Watch_Desc,"아연 합금으로 만든 것 같다.",#20250924065517,Default
 Item_Quest_List_GroundZeroGoods,"화물 목록",#20250924065517,Default
@@ -1061,7 +1061,7 @@ Item_BP_CubeGun_Desc,"에너지 무기 연구에 사용: 큐브건",#20250924065
 Item_BP_Bullet_Energy_S,"설계도: 소형 에너지 탄약",#20250924065517,Default
 Item_BP_Bullet_Energy_S_Desc,"제작에 사용: 소형 에너지 탄약",#20250924065517,Default
 Item_ComputeCore,"연산 코어",#20250924065517,Default
-Item_ComputeCore_Desc,"거미형 로봇의 연산 코어다",#20250924065517,Default
+Item_ComputeCore_Desc,"거미형 로봇의 연산 코어다.",#20250924065517,Default
 Item_Jinitaimei,"검은색 주사기",#20251011093921,Default
 Item_Jinitaimei_Desc,"BeLand사가 연구한 '오염수' 생화학 약품이 원형이다. J-Lab이 2년 반 동안 연구해 개량한 결과, 숙주의 부작용이 크게 줄었다. 약물의 정식 명칭은 Ginius-PEP-Mg, 기니펩틴-마그네슘이라고도 한다.",#20250924065517,Default
 Item_Formula_Jinitaimei,"레시피: 검은색 약품",#20250924065517,Default
@@ -1069,7 +1069,7 @@ Item_Formula_Jinitaimei_Desc,"의료소에서 검은색 약품의 레시피를 �
 Item_BitcionMiner,"비트코인 채굴기",#20250924065517,Default
 Item_BitcoinMiner,"비트코인 채굴기",#20250924065517,Default
 Item_Injection_Weight,"중량 주사기",#20250924065517,Default
-Item_Injection_Weight_Desc,"240초 동안 소지 중량이 증가한다",#20250924065517,Default
+Item_Injection_Weight_Desc,"240초 동안 소지 중량이 증가한다.",#20250924065517,Default
 Item_Bullet_Arrow_Explosion,"폭발 화살",#20250924065517,Default
 Item_Bullet_Arrow_Explosion_Desc,"안전 폭발 거리가 없다.",#20250924065517,Default
 Item_BP_ArrowExplosion,"설계도: 폭발 화살",#20250924065517,Default
@@ -1092,9 +1092,9 @@ Item_Bullet_Sniper_Rusted_Desc,"조잡하게 만든 탄약이다.",#202509240655
 Item_Sniper_Balett,M107,#20250924065517,Default
 Item_Sniper_Balett_Desc,"너무 강력해서 생물을 대상하기 위한 무기라고 보기도 힘들며, 무게도 엄청나다.",#20250924065517,Default
 Item_Sniper_VPO,VPO-101,#20250924065517,Default
-Item_Sniper_VPO_Desc,"정확도가 높고 헤드샷 대미지도 뛰어나며, 구경은 소총 같아 보이나 덕코프에선 저격소총으로 쓰인다",#20250924065517,Default
+Item_Sniper_VPO_Desc,"정확도가 높고 헤드샷 대미지도 뛰어나며, 구경은 소총 같아 보이나 덕코프에선 저격소총으로 쓰인다.",#20250924065517,Default
 Item_Injection_PainResist,진통제,#20250924065517,Default
-Item_Injection_PainResist_Desc,"일정 시간 동안 고통을 무시한다",#20250924065517,Default
+Item_Injection_PainResist_Desc,"일정 시간 동안 고통을 무시한다.",#20250924065517,Default
 Item_Injection_ElecResist,"전기 저항 주사기",#20250924065517,Default
 Item_Injection_ElecResist_Desc,"일정 시간 동안 전기 속성 대미지가 감소한다.",#20250924065517,Default
 Item_Formula_Injection_ElecResist,"레시피: 전기 저항 주사기",#20250924065517,Default
@@ -1146,7 +1146,7 @@ Item_Totem_Heal_Desc,"약물의 치유 효율이 증가한다.",#20250924065517,
 Item_Totem_RecoilControl,"토템: 반동 제어 달인",#20250924065517,Default
 Item_Totem_RecoilControl_Desc,"반동 제어 능력이 향상된다.",#20250924065517,Default
 Item_Totem_Reload,"토템: 전술 재장전",#20250924065517,Default
-Item_Totem_Reload_Desc,"재장전 속도가 대폭 감소한다",#20250924065517,Default
+Item_Totem_Reload_Desc,"재장전 속도가 대폭 감소한다.",#20250924065517,Default
 Item_Totem_Ninja,"토템: 닌자 Ⅰ",#20250924065517,Default
 Item_Totem_Ninja_Desc,"달리기 시 소리 전달 범위가 소폭 감소한다.",#20250924065517,Default
 Item_Totem_Ninja_2,"토템: 닌자 Ⅱ",#20250924065517,Default
@@ -1156,7 +1156,7 @@ Item_Formula_GasMask_Desc,"작업대에서 방독 마스크를 제작하는 레�
 Item_Sniper_VPO_Deng,"VPO-로든 커스텀",#20250924065517,Default
 Item_Sniper_VPO_Deng_Desc,"로든이 개조한 VPO 저격소총이다.",#20250924065517,Default
 Item_Injection_HotBlood,"열혈 주사기",#20251011093921,Default
-Item_Injection_HotBlood_Desc,"분노 상태가 되어 피격 시 이동 속도와 근접 대미지가 증가하며, 60초간 지속된다",#20250924065517,Default
+Item_Injection_HotBlood_Desc,"분노 상태가 되어 피격 시 이동 속도와 근접 대미지가 증가하며, 60초간 지속된다.",#20250924065517,Default
 Item_Formula_Injection_HotBlood,"레시피: 열혈 주사기",#20251011093921,Default
 Item_Formula_Injection_HotBlood_Desc,"의료소에서 열혈 주사기를 제작하는 레시피다.",#20251011093921,Default
 Item_Key_GasStation_Warehouse,"폐주유소 열쇠",#20250924065517,Default
@@ -1190,7 +1190,7 @@ Prologue,프롤로그,#20250924065517,Default
 Location_BunkerEntry,"벙커 입구",#20250924065517,Default
 You,"당신",#20250930085646,Default
 HiddenWarehouse,"창고 구역",#20250924065517,Default
-Warning_MapNotFinished,"해당 맵은 아직 제작 중이며 버그 발생 위험이 있으니 주의하시기 바랍니다",#20250924065517,Default
+Warning_MapNotFinished,"해당 맵은 아직 제작 중이며 버그 발생 위험이 있으니 주의하시기 바랍니다.",#20250924065517,Default
 Option_ScreenMode_FullScreen,"전체 화면",#20250924065517,Default
 Option_ScreenMode_Borderless,"전체 화면 창 모드",#20250924065517,Default
 Option_ScreenMode_Window,"창 모드",#20250924065517,Default
@@ -1209,8 +1209,8 @@ Perk_Storage_3,"창고 확장 Lv.3",#20250924065517,Default
 Perk_Storage_4,"창고 확장 Lv.4",#20250924065517,Default
 Perk_Storage_5,"창고 확장 Lv.5",#20250924065517,Default
 Perk_Storage_6,"창고 확장 Lv.6",#20250924065517,Default
-PerkBehaviour_AddPlayerStorage,"창고 용량이 {addCapacity} 증가한다",#20250924065517,Default
-PerkBehaviour_UnlockStockShopItem,"해금 시 상점에서 {ItemDisplayName} 구매할 수 있다",#20250930085646,Default
+PerkBehaviour_AddPlayerStorage,"창고 용량이 {addCapacity} 증가한다.",#20250924065517,Default
+PerkBehaviour_UnlockStockShopItem,"해금 시 상점에서 {ItemDisplayName} 구매할 수 있다.",#20250930085646,Default
 PerkBehaviour_ModifyCharacterStatsBase,"{statDisplayName} {value}",#20250924065517,Default
 Perk_Main_0,입문,#20250924065517,Default
 Perk_Main_1,"강인한 체력 1",#20250924065517,Default
@@ -1312,7 +1312,7 @@ Stat_GunDamageGain,"총기 대미지",#20250924065517,Default
 Stat_MoveSpeedMultiplier,"이동 속도 배율",#20250924065517,Default
 Stat_GasMask,"독가스 방어력",#20250924065517,Default
 Stat_RecoilControl,"반동 제어",#20250924065517,Default
-Stat_WalkSoundRange,"보행 소리 범위",#20250924065517,Default
+Stat_WalkSoundRange,"걷기 소리 범위",#20250924065517,Default
 Stat_RunSoundRange,"달리기 소리 범위",#20250924065517,Default
 Stat_HungerDurability,"최대 에너지",#20250924065517,Default
 Stat_BulletSpeedMultiplier,"탄속 배율",#20250924065517,Default
@@ -1363,11 +1363,11 @@ Quest_7,"지혈의 중요성",#20250924065517,Default
 Quest_7_Desc,"출혈은 매우 위험하지. 당장은 죽지 않더라도 지혈하지 않으면 계속 대미지를 입거든. 지혈 붕대는 가장 간단한 지혈 도구인데 한번 그걸로 지혈해 봐. 만약 지혈 붕대가 없다면 자판기에서 구매할 수 있어.",#20250924065517,Default
 Quest_8,"음식의 출처",#20250924065517,Default
 Quest_8_Desc,"배고프다. 뭐 좀 먹자.",#20250924065517,Default
-Quest_9,"벽에도 귀가 있다",#20250924065517,Default
+Quest_9,"벽에도 귀가 있다.",#20250924065517,Default
 Quest_9_Desc,"우리가 주시하던 까마귀 '검둥이'가 주유소에서 다른 수상한 까마귀와 만난 적이 있는데 그들이 무슨 대화를 나눴는지 알고 싶어. CCTV 영상을 가져다줄 수 있겠어? 떠날 때 이동식 하드 드라이브 챙기는 거 잊지 마!",#20250924065517,Default
 Quest_10,"전원 확인",#20250924065517,Default
 Quest_10_Desc,"창고의 전원 설비를 점검해.",#20250924065517,Default
-Quest_10_Task_1,"부두 창고의 한 전원 설비를 점검한다",#20250924065517,Default
+Quest_10_Task_1,"부두 창고의 한 전원 설비를 점검한다.",#20250924065517,Default
 Quest_11,"깊숙이 숨겨진 것",#20250924065517,Default
 Quest_11_Desc,"가져온 데이터가 모두 암호화되어 있어서 핵심 정보를 추출할 수 없네. 해독을 위해 J-Lab의 플로피 디스크가 필요한데 하나만 구해줄 수 있어? J-Lab 직원들이 다녀간 곳이라면 어디든 있을 수 있어.",#20250924065517,Default
 Quest_12,"검은 손",#20250924065517,Default
@@ -1532,7 +1532,7 @@ Tag_DestroyInBase,"반출 불가",#20250924065517,Default
 Tag_DestroyInBase_Desc,"벙커로 돌아가면 이 아이템은 사라진다.",#20250924065517,Default
 Tag_MeleeWeapon,"근접 무기",#20250924065517,Default
 Tag_Formula,레시피,#20250924065517,Default
-Tag_Formula_Desc,"제작에 사용되는 레시피 또는 도면이다",#20250924065517,Default
+Tag_Formula_Desc,"제작에 사용되는 레시피 또는 도면이다.",#20250924065517,Default
 Tag_Formula_Blueprint,"고급 작업대 설계도",#20250924065517,Default
 Tag_Formula_Blueprint_Desc,"고급 작업대에서 아이템을 제작하는 설계도다.",#20250924065517,Default
 Tag_Formula_Normal,"작업대 레시피",#20250924065517,Default
@@ -1556,7 +1556,7 @@ Task_SubmitItems_Interact,제출,#20250924065517,Default
 Task_ConstructBuilding,"{BuildingName} 건설",#20250924065517,Default
 Reward_Exp,"경험치 +{amount}",#20250924065517,Default
 Reward_Money,"골드 +{amount}",#20250924065517,Default
-Reward_UnlockStockItem,"상품 {ItemDisplayName} 해금",#20250930085646,Default
+Reward_UnlockStockItem,"{ItemDisplayName} 상품 해금",#20250930085646,Default
 Condition_CharacterLevel_LessThan,"레벨이 Lv.{level} 미만",#20250924065517,Default
 Condition_CharacterLevel_Equals,"레벨이 Lv.{level}",#20250924065517,Default
 Condition_CharacterLevel_GreaterThan,"레벨이 Lv.{level} 초과",#20250924065517,Default
@@ -1569,7 +1569,7 @@ MainMenu_NewGame,"새로운 게임",#20250924065517,Default
 MainMenu_Continue,"게임 계속하기",#20250924065517,Default
 MainMenu_SaveSlot,"세이브 슬롯",#20250924065517,Default
 MainMenu_ClearSaveData,"길게 눌러서 세이브 데이터 삭제",#20250924065517,Default
-MainMenu_SaveDeleted,"세이브 데이터가 삭제되었습니다",#20250924065517,Default
+MainMenu_SaveDeleted,"세이브 데이터가 삭제되었습니다.",#20250924065517,Default
 MainMenu_Settings,설정,#20250924065517,Default
 MainMenu_SaveSelection,"세이브 선택",#20250924065517,Default
 MainMenu_SaveSelection_Slot,세이브,#20250924065517,Default
@@ -1582,7 +1582,7 @@ UI_Loot_Equipment,장비,#20250924065517,Default
 UI_Loot_Items,아이템,#20250924065517,Default
 UI_Loot_QuickMenu,퀵슬롯,#20250924065517,Default
 UI_Loot_PickAll,"모두 줍기",#20250924065517,Default
-UI_WorkbenchRequired,"작업대에서 개조해야 한다",#20250924065517,Default
+UI_WorkbenchRequired,"작업대에서 개조해야 한다.",#20250924065517,Default
 UI_Trade,거래,#20250924065517,Default
 UI_Purchase,구매,#20250924065517,Default
 UI_Sell,판매,#20250924065517,Default
@@ -1629,17 +1629,17 @@ UI_Closure_Escaped,"철수 완료",#20250924065517,Default
 UI_Closure_Dead,"YOU DIED",#20250924065517,Default
 UI_Continue,계속하기,#20250924065517,Default
 UI_MasterKey,마스터키,#20250924065517,Default
-UI_MasterKey_Register,"키 등록",#20250924065517,Default
+UI_MasterKey_Register,"열쇠·키카드를 마스터키에 등록",#20250924065517,Default
 UI_MasterKey_RegisterBtn,등록,#20250924065517,Default
 UI_MasterKey_RegisterSuccess,"등록 성공!",#20250924065517,Default
-UI_MasterKey_KeyExist,"존재하는 기록입니다",#20250924065517,Default
+UI_MasterKey_KeyExist,"이미 등록했습니다.",#20250924065517,Default
 UI_SplitItem,"아이템 분할",#20250924065517,Default
 UI_SplitItem_Btn,분할,#20250924065517,Default
 UI_SplitItem_Succeed,완료!,#20250924065517,Default
 UI_MapSelection,"목적지 선택",#20250924065517,Default
 UI_MapSelection_SettingOffTo,"이동 예정",#20250924065517,Default
 UI_ItemUnlockNotification,"{itemDisplayName} 해금 완료",#20250930085646,Default
-UI_ItemUnlockNotification_Sub,"상응되는 상점에서 확인 가능",#20250924065517,Default
+UI_ItemUnlockNotification_Sub,"상점에서 거래 가능",#20250924065517,Default
 UI_Item_NotUsable,"현재 아이템 사용 불가",#20250924065517,Default
 UI_Quest_TaskFinishedNotification,"퀘스트 {questDisplayName} 목표 달성 ({finishedTasks}/{totalTasks})",#20250924065517,Default
 UI_StockShop_PurchasedNotification,"{itemDisplayName} 구매 완료",#20250924065517,Default
@@ -1662,7 +1662,7 @@ UI_LootBox_Tools,"공구 상자",#20250924065517,Default
 UI_LootBox_WeaponEquip,"전술 상자",#20250924065517,Default
 UI_LootBox_WeaponEquip_2,"무기 상자",#20250924065517,Default
 UI_LootBox_Loot,전리품,#20250924065517,Default
-UI_LootBox_Console,"기계 상자",#20250924065517,Default
+UI_LootBox_Console,"컴퓨터",#20250924065517,Default
 UI_LootBox_TrashBin,"쓰레기 상자",#20250924065517,Default
 UI_LootBox_TrashCan,쓰레기통,#20250924065517,Default
 UI_LootBox_Hidden,은닉처,#20250924065517,Default
@@ -1677,7 +1677,7 @@ UI_ItemRepair_CannotRepair,"수리 불가",#20250924065517,Default
 UI_Menu_Resume,"게임으로 돌아가기",#20250924065517,Default
 UI_Menu_Options,설정,#20250924065517,Default
 UI_Menu_Quit,나가기,#20250924065517,Default
-UI_Drink,"물 마시기",#20250924065517,Default
+UI_Drink,"마시기",#20250924065517,Default
 UI_Eat,먹기,#20250924065517,Default
 UI_Cancel,취소,#20250924065517,Default
 UI_Quit,나가기,#20250924065517,Default
@@ -1689,7 +1689,7 @@ UI_Navigate,이동,#20250924065517,Default
 UI_RotateBuilding,"건물 회전",#20250924065517,Default
 UI_Enter,입장하기,#20250924065517,Default
 UI_Leave,나가기,#20250924065517,Default
-UI_Crafting,제작,#20250924065517,Default
+UI_Crafting,"아이템 제작",#20250924065517,Default
 UI_Operate,메뉴,#20250924065517,Default
 ReachedLimit,"수량 상한 도달",#20250924065517,Default
 ItemCraftedNotification,"{itemDisplayName} 제작 완료",#20250924065517,Default
@@ -1702,14 +1702,14 @@ UI_SelectDestination,"목적지로 텔레포트",#20250924065517,Default
 UI_Formula_Register,"레시피 입력",#20250924065517,Default
 UI_Formulas,레시피,#20250924065517,Default
 Free,무료,#20250924065517,Default
-DeathLottery,"사망 추첨",#20250924065517,Default
+DeathLottery,"데스 가챠",#20250924065517,Default
 DeathLottery_Remaining,"{amount}회 남음",#20250924065517,Default
 DeathLottery_NoRemainingChances,"추첨 기회 소진",#20250924065517,Default
-DeathLottery_SelectNotification,"축하합니다, {itemName} 추첨하셨습니다!",#20250924065517,Default
+DeathLottery_SelectNotification,"축하합니다, {itemName} 당첨되셨습니다!",#20250924065517,Default
 UI_Formulas_Index,"레시피 도감",#20250924065517,Default
 UI_Formulas_RegisterSucceedFormat,"설계도 {itemDisplayName} 해제 완료",#20250924065517,Default
 UI_Menu_QuitGame,"게임 종료",#20250924065517,Default
-UI_QuitGame_ProgressNote,"저장되지 않은 진행도는 삭제됩니다",#20250924065517,Default
+UI_QuitGame_ProgressNote,"저장되지 않은 진행도는 삭제됩니다.",#20250924065517,Default
 UI_Menu_LoadMainMenu,"메인 메뉴로 돌아가기",#20250924065517,Default
 UI_Quest_Tasks,목표,#20250924065517,Default
 UI_Quest_Rewards,보상,#20250924065517,Default
@@ -1727,7 +1727,7 @@ UI_BitcoinMiner_TimeEachCoin,"예상 소요 시간",#20250924065517,Default
 UI_BitcoinMiner_Performance,연산력,#20250924065517,Default
 UI_BitcoinMiner_Active,"채굴 중",#20250924065517,Default
 UI_BitcoinMiner_Stopped,정지,#20250924065517,Default
-UI_CustomFace_YellowDuck,"나는 꼬마오리",#20250924065517,Default
+UI_CustomFace_YellowDuck,"나는야 꼬마오리",#20250924065517,Default
 UI_CustomFace_Abandon,포기,#20250924065517,Default
 UI_CustomFace_Copy,"캐릭터 데이터 클립보드로 복사",#20250924065517,Default
 UI_CustomFace_PasteTo,"클립보드 데이터 적용",#20250924065517,Default
@@ -1739,12 +1739,12 @@ DeathReason_Self,나,#20250924065517,Default
 DeathReason_Explosion,폭발,#20250924065517,Default
 DeathReason_Critical,"머리, 눈",#20250924065517,Default
 UI_Menu_Controls,"조작 설명",#20250924065517,Default
-Notification_ItemDropped,"{itemName}을(를) 땅에 버렸다",#20250924065517,Default
+Notification_ItemDropped,"{itemName}을(를) 땅에 버렸다.",#20250924065517,Default
 UI_StorageDock_SendToInventory,"창고로 보내기",#20250924065517,Default
-UI_StorageDock_InventoryFull,"창고가 가득 찼습니다",#20250924065517,Default
+UI_StorageDock_InventoryFull,"창고가 가득 찼습니다.",#20250924065517,Default
 StorageDock_Title,"말벌 무인 수령함",#20250924065517,Default
 BuilderView_TokenAmountFormat,"배치 대기: {tokenAmount}",#20250924065517,Default
-StorageDock_PlaceHolder,"수령할 아이템이 없습니다",#20250924065517,Default
+StorageDock_PlaceHolder,"수령할 아이템이 없습니다.",#20250924065517,Default
 UsageUtilities_Title,효과,#20250924065517,Default
 UI_TakeAll,"모두 수령",#20250924065517,Default
 UI_MapSelection_Confirm,출발!,#20250924065517,Default
@@ -1765,26 +1765,26 @@ Map_Marker,"지도 표시",#20250924065517,Default
 Difficulty_Selection,"난이도 선택",#20250924065517,Default
 Recommended,추천,#20250924065517,Default
 Rule_Standard,균형,#20250924065517,Default
-Rule_Standard_Desc,"슈팅 게임과 서바이벌 게임 경험이 있는 플레이어에게 적합합니다.\n적의 피해량: 80%n적의 체력: 80%\n100%는 아니지만 충분히 도전적입니다.",#20251013110615,Default
+Rule_Standard_Desc,"슈팅 게임과 서바이벌 게임 경험이 있는 플레이어에게 적합합니다.\n적의 피해량: 80%\n적의 체력: 80%\n100%는 아니지만 충분히 도전적입니다.",#20251013110615,Default
 Rule_Hard,도전,#20250924065517,Default
 Rule_Hard_Desc,"장비를 잃으면 다시 찾을 수 없습니다.",#20250924065517,Default
 Rule_Easy,캐주얼,#20250924065517,Default
-Rule_Easy_Desc,"도전적이지만 큰 부담은 원치 않는 플레이어에게 적합합니다.\n적의 피해량: 60%n적의 체력: 60%\n반동: 상대적으로 낮음\n적의 반응 속도: 상대적으로 느림\n",#20251011093921,Default
+Rule_Easy_Desc,"도전적이지만 큰 부담은 원치 않는 플레이어에게 적합합니다.\n적의 피해량: 60%\n적의 체력: 60%\n반동: 상대적으로 낮음\n적의 반응 속도: 상대적으로 느림\n",#20251011093921,Default
 Rule_Custom,"사용자 지정",#20250924065517,Default
 Loading_Evacuate,철수,#20250924065517,Default
 Loading_Evacuate_SmallText,돌아왔어,#20250924065517,Default
 BlackMarket_Remaining,잔여,#20250924065517,Default
-BlackMarket_Demand_Title_Normal,"{itemName} 매입 중",#20250924065517,Default
-BlackMarket_Demand_Title_High,"{itemName} 고가 매입 중",#20250924065517,Default
+BlackMarket_Demand_Title_Normal,"{itemName} 구매 중",#20250924065517,Default
+BlackMarket_Demand_Title_High,"{itemName} 고가 구매 중",#20250924065517,Default
 BlackMarket_Supply_Title_Normal,"{itemName} 판매 중",#20250924065517,Default
 BlackMarket_DemandBlackMarket_Supply_Title_High,"{itemName} 저가 판매 중",#20250924065517,Default
 BlackMarket_Supply_Title_Low,"{itemName} 저가 판매 중",#20250924065517,Default
-BlackMarkest_Demand,매입,#20250924065517,Default
-BlackMarkest_Supply,판매,#20250924065517,Default
+BlackMarkest_Demand,"구매 중",#20250924065517,Default
+BlackMarkest_Supply,"판매 중",#20250924065517,Default
 BlackMarket,암시장,#20250924065517,Default
 BlackMarket_RefreshETA,"다음 새로고침 횟수까지",#20250924065517,Default
 Rule_Current,"현재 난이도",#20250924065517,Default
-StorageDockCount,"수령 대기",#20250924065517,Default
+StorageDockCount,"수령 대기 중",#20250924065517,Default
 Endowment_Selection,"특성 선택",#20250924065517,Default
 SleepView,잠자기,#20250924065517,Default
 SleepView_WillWakeUpAt,"까지 잠자기",#20250924065517,Default
@@ -1804,9 +1804,9 @@ Indicator_CameraMode_Move,이동,#20250924065517,Default
 Indicator_CameraMode_Capture,촬영,#20250924065517,Default
 Indicator_CameraMode_OpenFolder,"스크린샷 경로 복사",#20250924065517,Default
 Pause,일시정지,#20250924065517,Default
-UI_Building_Recycle,"길게 눌러서 회수",#20250924065517,Default
+UI_Building_Recycle,"길게 눌러서 회수하기",#20250924065517,Default
 UI_Quest_NotifyClaimAtNPC,"퀘스트 발급처에서 수령하세요",#20250924065517,Default
-LevelInitializing,"스탭이 필드를 준비하는 중...",#20250924065517,Default
+LevelInitializing,"오리가 둥지를 준비하는 중...",#20250924065517,Default
 Indicator_PutAway,"무기 넣기",#20250924065517,Default
 UI_RequireItem,필요:,#20250924065517,Default
 Tag_DontDropOnDeadInSlot,"귀속 장비",#20250924065517,Default
@@ -1827,8 +1827,8 @@ Stat_ScatterFactorADS,"조준 탄퍼짐",#20250924065517,Default
 Var_damageMultiplier,"대미지 배율",#20250924065517,Default
 "Var buffchanceMultiplier","속성 디버프 배율",#20250924065517,Default
 "Var bleedChance","출혈 확률",#20250924065517,Default
-UI_ItemRepair_RepairAll,"전체 수리",#20250924065517,Default
-UI_RepairAll_PlaceHolder,"현재 장비 중 수리가 필요한 장비가 없습니다",#20250924065517,Default
+UI_ItemRepair_RepairAll,"전체 수리하기",#20250924065517,Default
+UI_RepairAll_PlaceHolder,"현재 장비 중 수리가 필요한 장비가 없습니다.",#20250924065517,Default
 Item_Cash,현금,#20250924065517,Default
 Item_Cash_Desc,"종이 지폐다.",#20250924065517,Default
 UI_Refresh,새로고침,#20250924065517,Default
@@ -1840,7 +1840,7 @@ UI_ATM_Save,입금,#20250924065517,Default
 UI_DigitInput_Max,최대,#20250924065517,Default
 UI_ATM_InsufficientCash,"현금 부족",#20250924065517,Default
 UI_GoBack,뒤로,#20250924065517,Default
-UI_ATM_InsufficientBalance,"한도를 초과했습니다",#20251015025516,Default
+UI_ATM_InsufficientBalance,"한도를 초과했습니다.",#20251015025516,Default
 UI_Drag,드래그,#20250924065517,Default
 UI_Menu_Options_KeyBinding,"키 설정",#20250924065517,Default
 Input_Interact,상호작용,#20250924065517,Default
@@ -1873,7 +1873,7 @@ Quest_9999,"혼돈의 종말",#20250924065517,Default
 Quest_9999_Desc,"혼돈의 근원을 끝내야 해, 그건 농장마을에 있어.",#20250924065517,Default
 UI_Sleep,"취침 (시간 보내기)",#20250924065517,Default
 Buff_NightVision,"야간투시",#20250924065517,Default
-Buff_NightVision_Desc,"야간 시야가 약간 증가한다",#20250924065517,Default
+Buff_NightVision_Desc,"야간 시야가 약간 증가한다.",#20250924065517,Default
 Tag_FaceMask,얼굴,#20250924065517,Default
 TOD_Day,낮,#20250924065517,Default
 TOD_Dawn,"해 질 녘",#20250924065517,Default
@@ -2022,11 +2022,11 @@ UI_CustomFace_WingType,"날개 유형",#20250924065517,Default
 UI_CustomFace_WingColor,"날개 색상",#20250924065517,Default
 UI_CustomFace_WingSize,"손 크기",#20250924065517,Default
 Item_HeadsetLV1,헤드셋,#20250924065517,Default
-Item_HeadsetLV1_Desc,"청각 감도를 높여 소리 방향을 파악한다",#20250924065517,Default
+Item_HeadsetLV1_Desc,"청각 감도를 높여 소리 방향을 파악한다.",#20250924065517,Default
 Buff_Burn,점화,#20250924065517,Default
 Buff_Space,교란,#20250924065517,Default
-Buff_Space_Desc,"뭔가... 이상하다",#20250924065517,Default
-Buff_Burn_Desc,"지속 대미지와 방어력이 감소한다",#20250924065517,Default
+Buff_Space_Desc,"뭔가... 이상하다.",#20250924065517,Default
+Buff_Burn_Desc,"지속 대미지와 방어력이 감소한다.",#20250924065517,Default
 Item_Bullet_SMG_Rusted,"S-녹슨 탄약",#20250924065517,Default
 Item_Bullet_SMG_Normal,"S-일반 탄약",#20250924065517,Default
 Item_Bullet_SMG_Burn,S-소이탄,#20250924065517,Default
@@ -2215,83 +2215,83 @@ Item_BP_Bullet_ARR_Explosion,"설계도: 폭발 화살",#20250924065517,Default
 Item_BP_Bullet_BR_Normal,"설계도: 일반 중화기 탄환",#20250924065517,Default
 Item_BP_Bullet_SNP_Normal,"설계도: 일반 저격탄",#20250924065517,Default
 Item_BP_Bullet_SHT_Normal,"설계도: 일반 산탄",#20250924065517,Default
-Item_Bullet_SMG_Rusted_Desc,"약간 녹슨 제식 경량탄. 관통력이 거의 없으며 총기 내구도 소모가 높다",#20250924065517,Default
+Item_Bullet_SMG_Rusted_Desc,"약간 녹슨 제식 경량탄. 관통력이 거의 없으며 총기 내구도 소모가 높다.",#20250924065517,Default
 Item_Bullet_SMG_Normal_Desc,"기본 제식 경량탄이다.",#20250924065517,Default
-Item_Bullet_SMG_Burn_Desc,"발화 성분이 장전된 경량탄, 화염 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SMG_Piercing2_Desc,"낮은 레벨의 방어구를 관통할 수 있는 경량탄이다",#20250924065517,Default
-Item_Bullet_SMG_Piercing3_Desc,"중간 레벨의 방어구를 관통할 수 있는 경량탄이다",#20250924065517,Default
-Item_Bullet_SMG_Piercing4_Desc,"중간 레벨의 방어구를 관통할 수 있는 경량탄이다",#20250924065517,Default
-Item_Bullet_SMG_Piercing5_Desc,"높은 레벨의 방어구를 관통하는 경량탄이다",#20250924065517,Default
-Item_Bullet_SMG_Piercing6_Desc,"높은 레벨의 방어구를 관통하는 경량탄이다",#20250924065517,Default
-Item_Bullet_SMG_Poison_Desc,"독성 성분이 장전된 경량탄, 독 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SMG_Electric_Desc,"금속 가루가 장전된 경량탄, 전기 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SMG_Space_Desc,"외계 기술로 제작된 경량탄, 공간 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SMG_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 경량탄이다",#20250924065517,Default
-Item_Bullet_SMG_Break_Desc,"방어구 내구도를 크게 감소시키는 경량탄이다. 관통력은 낮지만 적의 방어구를 빠르게 파괴하여 방어력을 잃게 하며 일반 탄환보다 높은 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_AR_Rusted_Desc,"약간 녹슨 제식 소총탄, 관통력이 거의 없으며 총기 내구도 소모가 크다",#20250924065517,Default
+Item_Bullet_SMG_Burn_Desc,"발화 성분이 장전된 경량탄, 화염 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SMG_Piercing2_Desc,"낮은 레벨의 방어구를 관통할 수 있는 경량탄이다.",#20250924065517,Default
+Item_Bullet_SMG_Piercing3_Desc,"중간 레벨의 방어구를 관통할 수 있는 경량탄이다.",#20250924065517,Default
+Item_Bullet_SMG_Piercing4_Desc,"중간 레벨의 방어구를 관통할 수 있는 경량탄이다.",#20250924065517,Default
+Item_Bullet_SMG_Piercing5_Desc,"높은 레벨의 방어구를 관통하는 경량탄이다.",#20250924065517,Default
+Item_Bullet_SMG_Piercing6_Desc,"높은 레벨의 방어구를 관통하는 경량탄이다.",#20250924065517,Default
+Item_Bullet_SMG_Poison_Desc,"독성 성분이 장전된 경량탄, 독 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SMG_Electric_Desc,"금속 가루가 장전된 경량탄, 전기 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SMG_Space_Desc,"외계 기술로 제작된 경량탄, 공간 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SMG_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 경량탄이다.",#20250924065517,Default
+Item_Bullet_SMG_Break_Desc,"방어구 내구도를 크게 감소시키는 경량탄이다. 관통력은 낮지만 적의 방어구를 빠르게 파괴하여 방어력을 잃게 하며 일반 탄환보다 높은 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_AR_Rusted_Desc,"약간 녹슨 제식 소총탄, 관통력이 거의 없으며 총기 내구도 소모가 크다.",#20250924065517,Default
 Item_Bullet_AR_Normal_Desc,"기본 제식 소총탄이다.",#20250924065517,Default
-Item_Bullet_AR_Burn_Desc,"가연 성분이 장전된 소총탄, 화염 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_AR_Piercing2_Desc,"낮은 레벨의 방어구를 관통하는 소총탄이다",#20250924065517,Default
-Item_Bullet_AR_Piercing3_Desc,"중간 레벨의 방어구를 관통하는 소총탄이다",#20250924065517,Default
-Item_Bullet_AR_Piercing4_Desc,"중간 레벨의 방어구를 관통하는 소총탄이다",#20250924065517,Default
-Item_Bullet_AR_Piercing5_Desc,"높은 레벨의 방어구를 관통하는 소총탄이다",#20250924065517,Default
-Item_Bullet_AR_Piercing6_Desc,"거의 모든 방어구를 관통할 수 있는 소총탄으로, 높은 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_AR_Poison_Desc,"독성 성분이 장전된 소총탄, 독 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_AR_Electric_Desc,"금속 가루가 장전된 소총탄, 전기 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_AR_Space_Desc,"외계 기술로 제작된 소총탄, 공간 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_AR_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 소총탄이다",#20250924065517,Default
-Item_Bullet_AR_Break_Desc,"관통력과 대미지는 낮지만 방어구 내구도를 크게 감소시키는 소총탄, 적의 방어구를 빠르게 파괴한다",#20250924065517,Default
-Item_Bullet_BR_Rusted_Desc,"약간 녹슨 제식 중형탄. 관통력이 거의 없으며 총기 내구도 소모가 높다",#20250924065517,Default
+Item_Bullet_AR_Burn_Desc,"가연 성분이 장전된 소총탄, 화염 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_AR_Piercing2_Desc,"낮은 레벨의 방어구를 관통하는 소총탄이다.",#20250924065517,Default
+Item_Bullet_AR_Piercing3_Desc,"중간 레벨의 방어구를 관통하는 소총탄이다.",#20250924065517,Default
+Item_Bullet_AR_Piercing4_Desc,"중간 레벨의 방어구를 관통하는 소총탄이다.",#20250924065517,Default
+Item_Bullet_AR_Piercing5_Desc,"높은 레벨의 방어구를 관통하는 소총탄이다.",#20250924065517,Default
+Item_Bullet_AR_Piercing6_Desc,"거의 모든 방어구를 관통할 수 있는 소총탄으로, 높은 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_AR_Poison_Desc,"독성 성분이 장전된 소총탄, 독 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_AR_Electric_Desc,"금속 가루가 장전된 소총탄, 전기 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_AR_Space_Desc,"외계 기술로 제작된 소총탄, 공간 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_AR_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 소총탄이다.",#20250924065517,Default
+Item_Bullet_AR_Break_Desc,"관통력과 대미지는 낮지만 방어구 내구도를 크게 감소시키는 소총탄, 적의 방어구를 빠르게 파괴한다.",#20250924065517,Default
+Item_Bullet_BR_Rusted_Desc,"약간 녹슨 제식 중형탄. 관통력이 거의 없으며 총기 내구도 소모가 높다.",#20250924065517,Default
 Item_Bullet_BR_Normal_Desc,"기본 제식 중형탄이다.",#20250924065517,Default
-Item_Bullet_BR_Burn_Desc,"발화 성분이 장전된 중형탄, 화염 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_BR_Piercing2_Desc,"낮은 레벨의 방어구를 관통할 수 있는 중형탄이다",#20250924065517,Default
-Item_Bullet_BR_Piercing4_Desc,"중간 레벨의 방어구를 관통할 수 있는 대형 탄약이다",#20250924065517,Default
-Item_Bullet_BR_Piercing5_Desc,"높은 레벨의 방어구를 관통할 수 있는 대형 탄약이다",#20250924065517,Default
-Item_Bullet_BR_Piercing6_Desc,"거의 모든 방어구를 관통할 수 있는 중형탄으로, 높은 대미지와 헤드샷 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_BR_Poison_Desc,"독성 성분이 장전된 중형탄, 독 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_BR_Electric_Desc,"금속 가루가 장전된 중형탄, 전기 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_BR_Space_Desc,"외계 기술로 제작된 중형탄, 공간 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_BR_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 중형탄이다",#20250924065517,Default
-Item_Bullet_BR_Break_Desc,"방어구 내구도를 크게 감소시키는 중형탄, 관통력과 대미지는 낮지만 적의 방어구를 빠르게 파괴하여 방어력을 잃게 한다",#20250924065517,Default
-Item_Bullet_SNP_Rusted_Desc,"약간 녹슨 제식 저격탄. 관통력이 거의 없으며 총기 내구도 소모가 높다",#20250924065517,Default
+Item_Bullet_BR_Burn_Desc,"발화 성분이 장전된 중형탄, 화염 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_BR_Piercing2_Desc,"낮은 레벨의 방어구를 관통할 수 있는 중형탄이다.",#20250924065517,Default
+Item_Bullet_BR_Piercing4_Desc,"중간 레벨의 방어구를 관통할 수 있는 대형 탄약이다.",#20250924065517,Default
+Item_Bullet_BR_Piercing5_Desc,"높은 레벨의 방어구를 관통할 수 있는 대형 탄약이다.",#20250924065517,Default
+Item_Bullet_BR_Piercing6_Desc,"거의 모든 방어구를 관통할 수 있는 중형탄으로, 높은 대미지와 헤드샷 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_BR_Poison_Desc,"독성 성분이 장전된 중형탄, 독 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_BR_Electric_Desc,"금속 가루가 장전된 중형탄, 전기 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_BR_Space_Desc,"외계 기술로 제작된 중형탄, 공간 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_BR_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 중형탄이다.",#20250924065517,Default
+Item_Bullet_BR_Break_Desc,"방어구 내구도를 크게 감소시키는 중형탄, 관통력과 대미지는 낮지만 적의 방어구를 빠르게 파괴하여 방어력을 잃게 한다.",#20250924065517,Default
+Item_Bullet_SNP_Rusted_Desc,"약간 녹슨 제식 저격탄. 관통력이 거의 없으며 총기 내구도 소모가 높다.",#20250924065517,Default
 Item_Bullet_SNP_Normal_Desc,"기본 제식 저격탄이다.",#20250924065517,Default
-Item_Bullet_SNP_Burn_Desc,"발화 성분이 장전된 저격탄, 화염 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SNP_Piercing2_Desc,"낮은 레벨의 방어구를 관통할 수 있는 저격 탄약이다",#20250924065517,Default
-Item_Bullet_SNP_Piercing3_Desc,"중간 레벨의 방어구를 관통할 수 있는 저격 탄약이다",#20250924065517,Default
-Item_Bullet_SNP_Piercing4_Desc,"중간 레벨의 방어구를 관통할 수 있는 저격 탄약이다",#20250924065517,Default
-Item_Bullet_SNP_Piercing5_Desc,"높은 레벨의 방어구를 관통할 수 있는 저격탄이다",#20250924065517,Default
-Item_Bullet_SNP_Piercing6_Desc,"거의 모든 방어구를 관통할 수 있는 저격탄으로, 높은 헤드샷 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SNP_Poison_Desc,"독성 성분이 장전된 저격탄, 독 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SNP_Electric_Desc,"금속 가루가 장전된 저격탄, 전기 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SNP_Space_Desc,"외계 기술로 제작된 저격탄, 공간 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SNP_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 저격탄이다",#20250924065517,Default
-Item_Bullet_SNP_Break_Desc,"관통력과 대미지는 낮지만 방어구 내구도를 크게 감소시키는 저격탄, 적의 방어구를 빠르게 파괴한다",#20250924065517,Default
-Item_Bullet_SHT_Rusted_Desc,"약간 녹슨 제식 산탄, 관통력이 거의 없으며 총기 내구도 소모가 크다",#20250924065517,Default
+Item_Bullet_SNP_Burn_Desc,"발화 성분이 장전된 저격탄, 화염 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SNP_Piercing2_Desc,"낮은 레벨의 방어구를 관통할 수 있는 저격 탄약이다.",#20250924065517,Default
+Item_Bullet_SNP_Piercing3_Desc,"중간 레벨의 방어구를 관통할 수 있는 저격 탄약이다.",#20250924065517,Default
+Item_Bullet_SNP_Piercing4_Desc,"중간 레벨의 방어구를 관통할 수 있는 저격 탄약이다.",#20250924065517,Default
+Item_Bullet_SNP_Piercing5_Desc,"높은 레벨의 방어구를 관통할 수 있는 저격탄이다.",#20250924065517,Default
+Item_Bullet_SNP_Piercing6_Desc,"거의 모든 방어구를 관통할 수 있는 저격탄으로, 높은 헤드샷 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SNP_Poison_Desc,"독성 성분이 장전된 저격탄, 독 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SNP_Electric_Desc,"금속 가루가 장전된 저격탄, 전기 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SNP_Space_Desc,"외계 기술로 제작된 저격탄, 공간 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SNP_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 저격탄이다.",#20250924065517,Default
+Item_Bullet_SNP_Break_Desc,"관통력과 대미지는 낮지만 방어구 내구도를 크게 감소시키는 저격탄, 적의 방어구를 빠르게 파괴한다.",#20250924065517,Default
+Item_Bullet_SHT_Rusted_Desc,"약간 녹슨 제식 산탄, 관통력이 거의 없으며 총기 내구도 소모가 크다.",#20250924065517,Default
 Item_Bullet_SHT_Normal_Desc,"기본 제식 산탄이다.",#20250924065517,Default
-Item_Bullet_SHT_Burn_Desc,"가연 성분이 장전된 산탄, 화염 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SHT_Piercing2_Desc,"낮은 레벨의 방어구를 관통할 수 있는 산탄이다",#20250924065517,Default
-Item_Bullet_SHT_Piercing3_Desc,"중간 레벨의 방어구를 관통할 수 있는 산탄이다",#20250924065517,Default
-Item_Bullet_SHT_Piercing4_Desc,"중간 레벨의 방어구를 관통할 수 있는 산탄이다",#20250924065517,Default
-Item_Bullet_SHT_Piercing5_Desc,"높은 레벨의 방어구를 관통할 수 있는 산탄이다",#20250924065517,Default
-Item_Bullet_SHT_Piercing6_Desc,"높은 레벨의 방어구를 관통할 수 있는 산탄이다",#20250924065517,Default
-Item_Bullet_SHT_Poison_Desc,"독성 성분이 장전된 산탄, 독 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SHT_Electric_Desc,"금속 가루가 장전된 산탄, 전기 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SHT_Space_Desc,"외계 기술로 제작된 산탄, 공간 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_SHT_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 산탄이다",#20250924065517,Default
-Item_Bullet_SHT_Break_Desc,"신체에 강력한 대미지를 주는 산탄으로, 적을 쉽게 출혈시키지만 방어구 관통력은 없다",#20250924065517,Default
-Item_Bullet_MAG_Rusted_Desc,"약간 녹슨 제식 매그넘 탄약, 방어구 관통력이 거의 없으며 무기 내구도 소모가 높다",#20250924065517,Default
-Item_Bullet_MAG_Normal_Desc,"기본 제식 매그넘 탄약이다",#20250924065517,Default
-Item_Bullet_MAG_Burn_Desc,"가연 성분이 장전된 매그넘 탄약, 화염 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_MAG_Piercing2_Desc,"낮은 레벨의 방어구를 관통할 수 있는 매그넘 탄약이다",#20250924065517,Default
-Item_Bullet_MAG_Piercing3_Desc,"중간 레벨의 방어구를 관통할 수 있는 매그넘 탄약이다",#20250924065517,Default
-Item_Bullet_MAG_Piercing4_Desc,"중간 레벨의 방어구를 관통할 수 있는 매그넘 탄약이다",#20250924065517,Default
-Item_Bullet_MAG_Piercing5_Desc,"높은 레벨의 방어구를 관통할 수 있는 매그넘 탄약이다",#20250924065517,Default
-Item_Bullet_MAG_Piercing6_Desc,"거의 모든 방어구를 관통할 수 있는 매그넘 탄약으로, 높은 대미지와 헤드샷 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_MAG_Poison_Desc,"독성 성분이 장전된 매그넘 탄약, 독 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_MAG_Electric_Desc,"금속 가루가 장전된 매그넘 탄약, 전기 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_MAG_Space_Desc,"외계 기술로 제작된 매그넘 탄약, 공간 대미지를 입힌다",#20250924065517,Default
-Item_Bullet_MAG_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 매그넘 탄약이다",#20250924065517,Default
-Item_Bullet_MAG_Break_Desc,"관통력과 대미지는 낮지만 방어구 내구도를 크게 감소시키는 매그넘 탄약, 적의 방어구를 빠르게 파괴한다",#20250924065517,Default
+Item_Bullet_SHT_Burn_Desc,"가연 성분이 장전된 산탄, 화염 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SHT_Piercing2_Desc,"낮은 레벨의 방어구를 관통할 수 있는 산탄이다.",#20250924065517,Default
+Item_Bullet_SHT_Piercing3_Desc,"중간 레벨의 방어구를 관통할 수 있는 산탄이다.",#20250924065517,Default
+Item_Bullet_SHT_Piercing4_Desc,"중간 레벨의 방어구를 관통할 수 있는 산탄이다.",#20250924065517,Default
+Item_Bullet_SHT_Piercing5_Desc,"높은 레벨의 방어구를 관통할 수 있는 산탄이다.",#20250924065517,Default
+Item_Bullet_SHT_Piercing6_Desc,"높은 레벨의 방어구를 관통할 수 있는 산탄이다.",#20250924065517,Default
+Item_Bullet_SHT_Poison_Desc,"독성 성분이 장전된 산탄, 독 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SHT_Electric_Desc,"금속 가루가 장전된 산탄, 전기 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SHT_Space_Desc,"외계 기술로 제작된 산탄, 공간 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_SHT_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 산탄이다.",#20250924065517,Default
+Item_Bullet_SHT_Break_Desc,"신체에 강력한 대미지를 주는 산탄으로, 적을 쉽게 출혈시키지만 방어구 관통력은 없다.",#20250924065517,Default
+Item_Bullet_MAG_Rusted_Desc,"약간 녹슨 제식 매그넘 탄약, 방어구 관통력이 거의 없으며 무기 내구도 소모가 높다.",#20250924065517,Default
+Item_Bullet_MAG_Normal_Desc,"기본 제식 매그넘 탄약이다.",#20250924065517,Default
+Item_Bullet_MAG_Burn_Desc,"가연 성분이 장전된 매그넘 탄약, 화염 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_MAG_Piercing2_Desc,"낮은 레벨의 방어구를 관통할 수 있는 매그넘 탄약이다.",#20250924065517,Default
+Item_Bullet_MAG_Piercing3_Desc,"중간 레벨의 방어구를 관통할 수 있는 매그넘 탄약이다.",#20250924065517,Default
+Item_Bullet_MAG_Piercing4_Desc,"중간 레벨의 방어구를 관통할 수 있는 매그넘 탄약이다.",#20250924065517,Default
+Item_Bullet_MAG_Piercing5_Desc,"높은 레벨의 방어구를 관통할 수 있는 매그넘 탄약이다.",#20250924065517,Default
+Item_Bullet_MAG_Piercing6_Desc,"거의 모든 방어구를 관통할 수 있는 매그넘 탄약으로, 높은 대미지와 헤드샷 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_MAG_Poison_Desc,"독성 성분이 장전된 매그넘 탄약, 독 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_MAG_Electric_Desc,"금속 가루가 장전된 매그넘 탄약, 전기 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_MAG_Space_Desc,"외계 기술로 제작된 매그넘 탄약, 공간 대미지를 입힌다.",#20250924065517,Default
+Item_Bullet_MAG_Dumdums_Desc,"방어구 관통력은 없지만 육체에 큰 대미지를 주는 매그넘 탄약이다.",#20250924065517,Default
+Item_Bullet_MAG_Break_Desc,"관통력과 대미지는 낮지만 방어구 내구도를 크게 감소시키는 매그넘 탄약, 적의 방어구를 빠르게 파괴한다.",#20250924065517,Default
 MerchantName_Merchant_Myst,"비밀 상인",#20250924065517,Default
 Item_NightVisionGoggles,"GPNVG-18 야간투시경",#20250924065517,Default
 Item_NightVisionGoggles_Desc,"시야가 좋은 야간 투시경. 낮처럼 보인다.",#20250924065517,Default
@@ -2385,7 +2385,7 @@ Item_Quest_Letter_LifeSupportClue_Desc,"정보원이 남긴 생명유지 시스�
 Quest_1103_Task1_Desc,"마커로 1호 생명유지 캡슐 마크하기",#20250924065517,Default
 UI_Interact_Mark,마크,#20250924065517,Default
 Item_Marker,마커,#20250924065517,Default
-Item_Marker_Desc,"좌표를 지속적으로 발신하는 장치로, 계란의 흰자와 태양열 이중 전원 방식 사용, 수명이 1만년까지 간다고 한다",#20250924065517,Default
+Item_Marker_Desc,"좌표를 지속적으로 발신하는 장치로, 계란의 흰자와 태양열 이중 전원 방식 사용, 수명이 1만년까지 간다고 한다.",#20250924065517,Default
 Quest_1103_Task2_Desc,"마커로 2호 생명유지 캡슐 마크하기",#20250924065517,Default
 Quest_1103_Task3_Desc,"마커로 3호 생명유지 캡슐 마크하기",#20250924065517,Default
 Quest_1106,필수,#20250924065517,Default
@@ -2396,7 +2396,7 @@ Item_ComputingUnit_Desc,"연산력이 1EFLOPS에 도달했다.",#20250924065517,
 Item_BP_ComputingUnit,"설계도: 고성능 연산 유닛",#20250924065517,Default
 Item_BP_ComputingUnit_Desc,"고성능 연산 유닛의 연구에 사용된다.",#20250924065517,Default
 Item_Quest_HugeMotherBoard,"대형 메인보드",#20250924065517,Default
-Item_Quest_HugeMotherBoard_Desc,"고성능 연산 유닛의 성능을 최대로 발휘할 수 있다",#20250924065517,Default
+Item_Quest_HugeMotherBoard_Desc,"고성능 연산 유닛의 성능을 최대로 발휘할 수 있다.",#20250924065517,Default
 Item_Quest_DogCollar,"애견용 목줄",#20250924065517,Default
 Item_Quest_DogCollar_Desc,"아직 혈흔이 남아있는 듯하다.",#20250924065517,Default
 Item_Quest_Blueprint_Thrusters_Encrypted,"우주선 추진장치 설계도(암호화)",#20250924065517,Default
@@ -2404,7 +2404,7 @@ Item_Quest_Blueprint_Thrusters_Encrypted_Desc,"베테랑이 아니면 이해할 
 Tag_SpecialKey,"키(등록 불가)",#20250924065517,Default
 Tag_Computer,"컴퓨터 부품",#20250924065517,Default
 Item_Key_Card_JLabLv1,"J-Lab 1급 인증서",#20250924065517,Default
-Item_Key_Card_JLabLv1_Desc,"J-Lab 실험원이 소지한 1회용 인증서, 외곽 구역만 출입만 가능하다",#20250924065517,Default
+Item_Key_Card_JLabLv1_Desc,"J-Lab 실험원이 소지한 1회용 인증서, 외곽 구역만 출입만 가능하다.",#20250924065517,Default
 Item_Key_Card_JLabLv2,"J-Lab 2급 인증서",#20250924065517,Default
 Item_Key_Card_JLabLv2_Desc,"실험실 핵심 구역 출입이 가능한 1회용 인증서다.",#20250924065517,Default
 Item_Key_Card_JLabLv3,"J-Lab 3급 인증서",#20250924065517,Default
@@ -2418,9 +2418,9 @@ Item_Key_ThrusterResearcherHome_Desc,"어느 J-Lab 연구원의 집 문을 열 �
 Item_Quest_Blueprint_NavigationSystem,"내비게이션 시스템 설계도",#20250924065517,Default
 Item_Quest_Blueprint_NavigationSystem_Desc,"우주선 내비게이션 시스템의 설계도다.",#20250924065517,Default
 Item_Quest_StarMap1,스타맵,#20250924065517,Default
-Item_Quest_StarMap1_Desc,"우주 스타맵, 하지만 일부분이다",#20250924065517,Default
-Item_Quest_StarMap2_Desc,"우주 스타맵, 하지만 일부분이다",#20250924065517,Default
-Item_Quest_StarMap3_Desc,"우주 스타맵, 하지만 일부분이다",#20250924065517,Default
+Item_Quest_StarMap1_Desc,"우주 스타맵, 하지만 일부분이다.",#20250924065517,Default
+Item_Quest_StarMap2_Desc,"우주 스타맵, 하지만 일부분이다.",#20250924065517,Default
+Item_Quest_StarMap3_Desc,"우주 스타맵, 하지만 일부분이다.",#20250924065517,Default
 Item_Quest_StarMap3,"스타맵 조각 Part3",#20250924065517,Default
 Item_Quest_StarMap2,"스타맵 조각 Part2",#20250924065517,Default
 Item_Plastics,"폴리에틸렌 시트",#20250924065517,Default
@@ -2473,7 +2473,7 @@ Item_AR_MCXSpear_Normal_Desc,"사격 제어 시스템이 내장된 전투 소총
 Item_BR_M1A_Normal_Desc,"M14의 민간용 버전, 사거리가 길고 정확도가 높지만 무게도 무겁다.",#20250924065517,Default
 Item_BR_M14_Normal_Desc,"정밀한 제식 전투 소총, 반자동이지만 높은 연사 속도를 자랑한다.",#20250924065517,Default
 Item_Sniper_M700_Normal_Desc,"널리 사용되는 저격소총이다.",#20250924065517,Default
-Item_Sniper_Mosin_Normal_Desc,"전통적이고 내구성이 좋은 저격소총, 헤드샷 대미지가 매우 높다",#20250924065517,Default
+Item_Sniper_Mosin_Normal_Desc,"전통적이고 내구성이 좋은 저격소총, 헤드샷 대미지가 매우 높다.",#20250924065517,Default
 Item_Sniper_SV98_Normal_Desc,"모든 면에서 뛰어난 저격소총, 특히 사거리가 뛰어나다.",#20250924065517,Default
 Item_PST_TT33_Normal_Desc,"각 성능이 매우 평범한 제식 권총이지만 단순한 구조로 가격이 매우 저렴하다.",#20250924065517,Default
 Item_PST_PM_Normal_Desc,"가볍고 휴대하기 편한 제식 권총이다.",#20250924065517,Default
@@ -2503,7 +2503,7 @@ Quest_902,"낚싯대 레벨업",#20250924065517,Default
 Quest_902_Desc,"좋은 장소를 찾았네. 근데 내 낚싯대가 며칠 전에 망가졌어. 수리하면서 레벨업도 하고 싶은데 도와줄 수 있어?",#20250924065517,Default
 Quest_101,"야간 낚시 준비",#20250924065517,Default
 Quest_101_Desc,"친구가 밤에 낚시를 하면 덜 허탕을 친다고 하더라고. 하지만 밤은 좀 위험해서, 밤(22:00-5:00)에 물고기가 정말 많은지 한번 봐줄래? 농장마을 부두에서 가서 봐주면 돼, 중요한 플래시 챙기는 거 잊지 말고!",#20250924065517,Default
-Quest_903,"허탕은 없다",#20250924065517,Default
+Quest_903,"허탕은 없다.",#20250924065517,Default
 Quest_903_Desc,"새 낚싯대 쓰고 나서는 한 번도 허탕을 친 적이 없어! 뭐? 안 믿겨? 양동이 하나만 줘봐, 돌아올 때 가득 채워올게.",#20250924065517,Default
 Item_ArmorLV1Fire,"방화복 Lv.1",#20250924065517,Default
 Item_ArmorLV1Fire_Desc,"방화 성능이 강화된 방어구이다. 총알 방어력은 조금만 향상되지만 화염 대미지를 크게 줄일 수 있다.",#20250924065517,Default
@@ -2532,10 +2532,10 @@ Quest_904,"약물 보조",#20250924065517,Default
 Item_Injection_StoneSkin,"경화 주사기",#20250924065517,Default
 Item_Injection_StoneSkin_Desc,"깃털과 피부가 단단해져 신체 방어력 0.25 증가, 120초 동안 지속된다.",#20250924065517,Default
 Buff_InjectorArmor,강화,#20250924065517,Default
-Buff_InjectorArmor_Desc,"방어력이 소폭 증가한다",#20250924065517,Default
+Buff_InjectorArmor_Desc,"방어력이 소폭 증가한다.",#20250924065517,Default
 Item_Injection_Stamina,"지구력 주사기",#20250924065517,Default
 Buff_InjectorStamina,지구력,#20250924065517,Default
-Buff_InjectorStamina_Desc,"스태미나 회복량과 수분 소모량 증가하고 스태미나 소모량이 감소한다",#20250924065517,Default
+Buff_InjectorStamina_Desc,"스태미나 회복량과 수분 소모량 증가하고 스태미나 소모량이 감소한다.",#20250924065517,Default
 Item_Injection_Stamina_Desc,"스태미나 회복량이 증가하고 스태미나 소모량이 감소하지만 수분 소모 가속화되며 120초동안 지속된다.",#20250924065517,Default
 Quest_905,자급자족,#20250924065517,Default
 Quest_905_Desc,"최근 원자재가 많이 필요한데, 계속 사는 것도 아닌 것 같아서 말이야. 자외선램프를 구해와, 내가 직접 재배 좀 해보게.",#20250924065517,Default
@@ -2594,7 +2594,7 @@ Task_Desc_RequireScene,"지점: {requireSceneName}",#20250924065517,Default
 Task_Desc_RequireHeadShot,"헤드샷 필요",#20250924065517,Default
 Task_Desc_WithoutHeadShot,"헤드샷 금지",#20250924065517,Default
 UI_Item_BuildingAvaliable,"건설에 사용 가능",#20250924065517,Default
-UI_Item_QuestRequired,"해당 아이템 제출 퀘스트가 있습니다",#20250924065517,Default
+UI_Item_QuestRequired,"해당 아이템 제출 퀘스트가 있습니다.",#20250924065517,Default
 UI_NeedBeacon,"비콘 비활성",#20250924065517,Default
 Item_Quest_BlueprintPieces_MF_1,"MF 설계도 조각1",#20250924065517,Default
 Item_Quest_BlueprintPieces_MF_1_Desc,"소총 연구에 사용: MF 설계도 조각",#20250924065517,Default
@@ -2682,7 +2682,7 @@ Item_Quest_DeliverBox_DestoryOnBase_Desc,"빨리 받아야하는 사람에게 �
 UI_Interact_DeliverBox,"택배 배달",#20250924065517,Default
 Quest_302_DeliverBox,"택배 배달 완료",#20250924065517,Default
 Item_KeyRing,"열쇠 지갑",#20250924065517,Default
-Item_KeyRing_Desc,"열쇠 8개를 보관할 수 있다",#20250924065517,Default
+Item_KeyRing_Desc,"열쇠 8개를 보관할 수 있다.",#20250924065517,Default
 Quest62Task_Desc,"기지 벽에 있는 파란 그림을 확인하자!",#20250924065517,Default
 FrameRateUnlimit,무제한,#20250924065517,Default
 Options_FrameRateSetting,"프레임 제한",#20250924065517,Default
@@ -2746,7 +2746,7 @@ Weather_Storm_I,"공간 폭풍-단계 I",#20250924065517,Default
 Weather_Storm_II,"공간 폭풍-단계 II",#20250924065517,Default
 StormETA,"다음 공간 폭풍 까지",#20250930085646,Default
 Buff_Space2,왜곡,#20250924065517,Default
-Buff_Space2_Desc,"주변 공간이 붕괴된다",#20250924065517,Default
+Buff_Space2_Desc,"주변 공간이 붕괴된다.",#20250924065517,Default
 Item_Blindfold,눈가리개,#20250924065517,Default
 Item_Blindfold_Desc,"눈을 가리면 마음의 눈이 떠진다.",#20250924065517,Default
 Stat_ViewAngle,"시야 각도",#20250924065517,Default
@@ -2775,9 +2775,9 @@ Buff_StormProtection1_Desc,"공간 교란 면역",#20250924065517,Default
 Buff_StormProtection2,"강한 공간 저항",#20250924065517,Default
 Buff_StormProtection2_Desc,"공간 왜곡 면역",#20250924065517,Default
 Buff_SpaceResistLow,"공간 대미지 감소(소)",#20250924065517,Default
-Buff_SpaceResistLow_Desc,"공간 대미지를 소폭 감소한다",#20250924065517,Default
+Buff_SpaceResistLow_Desc,"공간 대미지를 소폭 감소한다.",#20250924065517,Default
 Buff_SpaceResistHigh,"공간 대미지 감소(대)",#20250924065517,Default
-Buff_SpaceResistHigh_Desc,"받는 공간 대미지를 대폭 감소한다",#20250924065517,Default
+Buff_SpaceResistHigh_Desc,"받는 공간 대미지를 대폭 감소한다.",#20250924065517,Default
 Item_Injection_StormProtection1_Desc,"초기의 공간 폭풍 교란을 막아주는 주사기, 120초 동안 지속된다. 방호 장비와 함께 사용하면 공간 폭풍에도 버틸 수 있다.",#20251011093921,Default
 Item_Injection_StormProtection2_Desc,"왜곡을 저항할 수 있는 테스트용 강화 공간 주사기, 120초 동안 지속된다.",#20251011093921,Default
 Cname_StormCreature,"폭풍 생물",#20250924065517,Default
@@ -2805,9 +2805,9 @@ Item_Formula_DynamiteMultiple_Desc,"작업대에서 집속 파이프 폭탄을 �
 UI_ClickToCopyPath,"경로를 클릭하여 클립보드에 복사",#20250924065517,Default
 Options_MouseSensitivity,"마우스 조준 감도",#20250924065517,Default
 Input_ItemShortcut_Melee,"근접무기 전환",#20250924065517,Default
-Buff_InjectorMeleeDamage_Desc,"근접 공격력이 80% 증가한다",#20250924065517,Default
-Buff_InjectorMeleeDamageDebuff_Desc,"근접 공격력이 30% 감소한다",#20250924065517,Default
-Buff_HotBlood_Desc,"스태미나가 증가하지만 수분 소모도 증가한다",#20250924065517,Default
+Buff_InjectorMeleeDamage_Desc,"근접 공격력이 80% 증가한다.",#20250924065517,Default
+Buff_InjectorMeleeDamageDebuff_Desc,"근접 공격력이 30% 감소한다.",#20250924065517,Default
+Buff_HotBlood_Desc,"스태미나가 증가하지만 수분 소모도 증가한다.",#20250924065517,Default
 JLab_Intro_0,주의!,#20250924065517,Default
 JLab_Intro_1,"실험실은 매우 위험한 곳입니다!",#20250924065517,Default
 JLab_Intro_2,"더욱 중요한 건, 여기서 잃어버린 물건은 되찾을 수 없습니다!",#20250924065517,Default
@@ -2837,7 +2837,7 @@ Stat_GunDistanceMultiplier,"총기 사거리 배율",#20250924065517,Default
 UI_FullReleaseContent,"정식 버전에서 출시 예정",#20250924065517,Default
 UI_Wishlist,위시리스트,#20250924065517,Default
 Tips_8,"공간 폭풍은 매우 위험하니 하루 종일 자는 것을 추천한다.",#20250924065517,Default
-UI_StormDesc,"공간 폭풍은 2개 단계로 나누어지고 총 24시간 지속된다. 보호 장비가 없다면 공간 폭풍 지속 기간에는 외출하지 않는 것을 권장한다.",#20250924065517,Default
+UI_StormDesc,"공간 폭풍은 2개의 단계로 나누어지고 총 24시간동안 지속된다.\n보호 장비가 없다면 공간 폭풍 지속 기간에는 외출하지 않는 것이 좋다.",#20250924065517,Default
 Stat_WaterEnergyRecoverMultiplier,"기지 내 수분과 에너지 회복률",#20250924065517,Default
 Perk_FoodTable_1,"영양 관리-1",#20250924065517,Default
 Perk_FoodTable_2,"영양 관리-2",#20250924065517,Default
@@ -2851,7 +2851,7 @@ Quest_909_Desc,"문 앞의 하트 상자는 어떤 친절한 분이 우리에게
 Perk_Main_30,"안정된 사격 3",#20250924065517,Default
 Perk_Main_31,"전면 방어 1",#20250924065517,Default
 Buff_InjectorRecoilControl,"강화 날개",#20250924065517,Default
-Buff_InjectorRecoilControl_Desc,"반동과 탄퍼짐 제어력이 향상한다",#20250924065517,Default
+Buff_InjectorRecoilControl_Desc,"반동과 탄퍼짐 제어력이 향상한다.",#20250924065517,Default
 Item_Injection_RecoilControl,"날개 강화 주사",#20250924065517,Default
 Item_Injection_RecoilControl_Desc,"일시적으로 날개 힘을 강화하여 반동과 탄퍼짐 제어력을 향상하고, 60초 동안 지속된다.",#20250924065517,Default
 QuestTask_SubmitMoney,"{money} 골드 납부",#20250924065517,Default
@@ -2869,7 +2869,7 @@ DemoFarmBlock_1,"현재 공사 중이라 아직 개방되지 않았어요.",#202
 DemoFarmBlock_2,"위시리스트에 추가하고 정식 버전에서 다시 와주세요!",#20250924065517,Default
 Options_SoftShadowSettings,"부드러운 그림자",#20250924065517,Default
 SoftShadowOptions_Off,끄기,#20250924065517,Default
-SoftShadowOptions_On,열기,#20250924065517,Default
+SoftShadowOptions_On,켜기,#20250924065517,Default
 Quest_911,"공간 폭풍 저항",#20250924065517,Default
 Quest_911_Desc,"최근 보디빌딩 대회에 공간 폭풍 침식 견디기 종목이 추가됐다고 하더군. 나도 시도해 봤는데 꽤 힘들었어. 연구 자료가 필요하니 밤에 나타나는 기계 거미를 처치해서 연산 코어를 가져오고, 콜드 코어 조각도 좀 구해와. 걱정 마, 연구 결과는 너와 공유할 테니.",#20250924065517,Default
 Quest_806,"공간 결정체",#20250924065517,Default
@@ -2889,7 +2889,7 @@ UI_MusicSelect_Next,"다음 곡",#20250924065517,Default
 UI_MusicSelect_Last,"이전 곡",#20250924065517,Default
 Saves_RestoreBackup,"백업 복구",#20250924065517,Default
 Saves_RestoreBackup_Entry,복구,#20250924065517,Default
-Saves_RestoreBackup_Placeholder,"백업이 존재하지 않습니다",#20250924065517,Default
+Saves_RestoreBackup_Placeholder,"백업이 존재하지 않습니다.",#20250924065517,Default
 Saves_RestoreBackup_Warning,"해당 조작은 현재 저장 데이터를 덮어쓸 것입니다. 신중히 진행하십시오.",#20250924065517,Default
 Cname_DengWolf,"로든의 개",#20250924065517,Default
 Saves_RestoreBackup_Complete,"백업 데이터 복구 완료",#20250924065517,Default
@@ -2924,7 +2924,7 @@ Item_BP_MP155M,"설계도: MP-155 ULTIMA",#20250924065517,Default
 Item_SHT_MP155M_Normal,"MP-155 ULTIMA",#20250924065517,Default
 Item_SHT_MP155M_Normal_Desc,"전반적으로 향상된 현대화 MP-155 버전이다.",#20250924065517,Default
 UI_AddBuffChance,확률,#20250924065517,Default
-UI_ToggleSortLock,"정렬 잠금/해제",#20250924065517,Default
+UI_ToggleSortLock,"아이템 위치 잠금·해제",#20250924065517,Default
 Item_mushroom,버섯,#20250924065517,Default
 Item_mushroom_Desc,"빨간 우산과 하얀 대.",#20250924065517,Default
 Cname_Mushroom,"보행 버섯",#20250924065517,Default
@@ -2949,7 +2949,7 @@ Input_Select_Next,다음,#20250924065517,Default
 Input_UI_WishlistHoveringItem,"아이템 위시리스트",#20250924065517,Default
 ItemFilter_Other,기타,#20250924065517,Default
 UI_RepairView_PleaseSelect,"수리할 아이템 선택",#20250924065517,Default
-UI_Options_NeedsReboot,"게임을 다시 시작해야 적용됩니다",#20250924065517,Default
+UI_Options_NeedsReboot,"게임을 다시 시작해야 적용됩니다.",#20250924065517,Default
 Options_UIShadow,"UI 그림자 효과",#20250924065517,Default
 UI_Options_DisableIfCrash,"충돌 문제가 발생하면 해당 옵션을 비활성화해 보세요.",#20250924065517,Default
 Task_Desc_WithBuff,"{buffName} 상태에서",#20250924065517,Default
@@ -2960,7 +2960,7 @@ Item_PaperBox_Desc,"충분히 큰 종이상자다.",#20250924065517,Default
 Item_InjectionBag,"주사기 케이스",#20250924065517,Default
 Item_InjectionBag_Desc,"6개의 주사기를 보관할 수 있으며 사용 시 주사기를 꺼내야 한다.",#20250924065517,Default
 Buff_PaperBox,위장,#20250924065517,Default
-Buff_PaperBox_Desc,"가만히 서있으면 아무도 발견할 수 없다",#20250924065517,Default
+Buff_PaperBox_Desc,"가만히 서있으면 아무도 발견할 수 없다.",#20250924065517,Default
 Item_ProteinPowder,"단백질 파우더",#20250924065517,Default
 Item_ProteinPowder_Desc,"오리알에서 추출한 농축물로 운동하는 오리들의 좋은 친구다.",#20250924065517,Default
 Perk_Main_34,"완벽한 제어",#20250924065517,Default
@@ -3044,7 +3044,7 @@ UI_Interact_EnterStormZone,"??? 입장",#20250924065517,Default
 PerkTree_PerkTree_WorkBench,작업대,#20250924065517,Default
 Perk_WorldBench_Formula_1,"정밀 가공",#20250924065517,Default
 Perk_WorldBench_Formula_1_Desc,"일부 아이템 제작을 해금한다.",#20250930085646,Default
-UI_Interact_WorkbenchUpgrade,레벨업,#20250924065517,Default
+UI_Interact_WorkbenchUpgrade,"작업대 레벨업",#20250924065517,Default
 Perk_WorldBench_Repair_1,수리대,#20250924065517,Default
 Perk_WorldBench_Decompose_1,분해대,#20250924065517,Default
 Perk_WorldBench_Formula_2,"정밀 가공 2",#20250924065517,Default
@@ -3085,23 +3085,23 @@ Item_Armor_SBossSpace,"코코 방탄복",#20250924065517,Default
 Buff_Space3,파열,#20250924065517,Default
 Tag_Seed,씨앗,#20250924065517,Default
 Item_AppleSeed,"테스트 시드",#20250924065517,Default
-Item_AppleSeed_Desc,"사과, 당근, 감자를 키울 수 있다",#20250924065517,Default
+Item_AppleSeed_Desc,"사과, 당근, 감자를 키울 수 있다.",#20250924065517,Default
 Buff_Hurt,메마름,#20250924065517,Default
-Buff_Hurt_Desc,"장비가 당신의 힘을 지속적으로 흡수한다",#20250924065517,Default
+Buff_Hurt_Desc,"장비가 당신의 힘을 지속적으로 흡수한다.",#20250924065517,Default
 Tag_Cartridge,"게임 카트리지",#20250924065517,Default
 Tag_Monitor,모니터,#20250924065517,Default
 Tag_GamingConsole,게임기,#20250924065517,Default
 Buff_BleedResist,"출혈 면역",#20250924065517,Default
-Buff_BleedResist_Desc,"출혈 상태에 걸리지 않는다",#20250924065517,Default
-Buff_Space3_Desc,"모든 능력치가 감소된다",#20250924065517,Default
+Buff_BleedResist_Desc,"출혈 상태에 걸리지 않는다.",#20250924065517,Default
+Buff_Space3_Desc,"모든 능력치가 감소된다.",#20250924065517,Default
 Buff_PoisonResist,"중독 면역",#20250924065517,Default
-Buff_PoisonResist_Desc,"중독 상태에 걸리지 않는다",#20250924065517,Default
+Buff_PoisonResist_Desc,"중독 상태에 걸리지 않는다.",#20250924065517,Default
 Buff_ElecResist,"감전 면역",#20250924065517,Default
-Buff_ElecResist_Desc,"감전 상태에 걸리지 않는다",#20250924065517,Default
+Buff_ElecResist_Desc,"감전 상태에 걸리지 않는다.",#20250924065517,Default
 Buff_BurnResist,"발화 면역",#20250924065517,Default
-Buff_BurnResist_Desc,"발화 상태에 걸리지 않는다",#20250924065517,Default
+Buff_BurnResist_Desc,"발화 상태에 걸리지 않는다.",#20250924065517,Default
 Buff_SpaceResist,"파괴 면역",#20250924065517,Default
-Buff_SpaceResist_Desc,"파열 상태에 걸리지 않는다",#20250924065517,Default
+Buff_SpaceResist_Desc,"파열 상태에 걸리지 않는다.",#20250924065517,Default
 Item_ArmorLV5StormProtection,"공간 방호복 얼티메이트",#20250924065517,Default
 Item_ArmorLV5StormProtection_Desc,"J-lab 공간 방호복의 최종 개선 제품. 기존의 폭풍 저항력을 유지하면서 방어력과 공간 대미지 방어력이 크게 향상되며 1초마다 파괴 상태를 1단계 제거한다.",#20250924065517,Default
 Item_HelmatLV5StormProtection_Desc,"J-lab 공간 방호 헬멧의 최종 개선 제품. 기존의 폭풍 저항력을 유지하면서 방어력과 공간 대미지 방어력이 크게 향상된다.",#20250924065517,Default
@@ -3113,7 +3113,7 @@ Item_Cartridge_BubblePop_Desc,"게임 카트리지: 카본 데인저덕, 게임 
 Item_Cartridge_GoldMiner,광부덕,#20250924065517,Default
 Item_Cartridge_GoldMiner_Desc,"게임 카트리지: 광부덕, 이제 채굴에 그래픽카드가 필요 없다.",#20250924065517,Default
 Item_Cartridge_Snake,"스네이크 아머",#20250924065517,Default
-Item_Cartridge_Snake_Desc,"게임 카트리지: 스네이크 아머, 게임 플랫폼에서 97%의 긍정적인 평가를 받았다고 한다! 하지만 '이크'가 뭔가 이상하다",#20250924065517,Default
+Item_Cartridge_Snake_Desc,"게임 카트리지: 스네이크 아머, 게임 플랫폼에서 97%의 긍정적인 평가를 받았다고 한다! 하지만 '이크'가 뭔가 이상하다.",#20250924065517,Default
 Item_MonochromeMonitor,"흑백 모니터",#20250924065517,Default
 Item_MonochromeMonitor_Desc,"흑백 화면만 표시할 수 있는 모니터다.",#20250924065517,Default
 Item_ColorMonitor,"컬러 모니터",#20250924065517,Default
@@ -3153,30 +3153,30 @@ Cname_Boss_Fly_Child,"파리 대원",#20250924065517,Default
 Item_Poop_ShitGun_Poison_Desc,"파리 대원이 소지한 총으로 특수한 탄환을 사용한다.",#20250924065517,Default
 Item_Poop_ShotShitGun_Poison_Desc,"파리 대장이 소지한 총으로 특수한 탄환을 사용한다.",#20250924065517,Default
 Buff_NauseousResist,"구토감 면역",#20250924065517,Default
-Buff_NauseousResist_Desc,"구토감이 생기지 않는다",#20250924065517,Default
+Buff_NauseousResist_Desc,"구토감이 생기지 않는다.",#20250924065517,Default
 Cname_Boss_Arcade,"폭주 아케이드",#20250924065517,Default
 MiniGame_GoldMiner_Refresh,새로고침,#20250924065517,Default
 GoldMiner_GMA_001,"빛나는 배지",#20250924065517,Default
-GoldMiner_GMA_001_Desc,"스태미나가 2배로 소모되고 2배 점수를 획득한다",#20250924065517,Default
+GoldMiner_GMA_001_Desc,"스태미나가 2배로 소모되고 2배 점수를 획득한다.",#20250924065517,Default
 GoldMiner_GMA_002,"번지 밴드",#20250924065517,Default
 GoldMiner_GMA_003,"쇼핑 바구니",#20250924065517,Default
 GoldMiner_GMA_004,대포,#20250924065517,Default
-GoldMiner_GMA_004_Desc,"큰 돌을 잡을 때마다 배율이 0.3 증가한다",#20250924065517,Default
+GoldMiner_GMA_004_Desc,"큰 돌을 잡을 때마다 배율이 0.3 증가한다.",#20250924065517,Default
 GoldMiner_GMA_005,"멋진 선글라스",#20250924065517,Default
-GoldMiner_GMA_005_Desc,"다음 3개의 작은 돌 가치가 500 증가한다",#20250924065517,Default
+GoldMiner_GMA_005_Desc,"다음 3개의 작은 돌 가치가 500 증가한다.",#20250924065517,Default
 GoldMiner_GMA_006_Desc,"작은 돌도 금괴로 간주한다(가치 동일)",#20250924065517,Default
 GoldMiner_GMA_006,"골드 스프레이",#20250924065517,Default
-GoldMiner_GMA_007_Desc,"정산 시 3가지 크기의 금괴를 잡은 경우 배율이 0.5 증가한다",#20250924065517,Default
+GoldMiner_GMA_007_Desc,"정산 시 3가지 크기의 금괴를 잡은 경우 배율이 0.5 증가한다.",#20250924065517,Default
 GoldMiner_GMA_007,하프,#20250924065517,Default
-GoldMiner_GMA_008_Desc,"정산 시 모든 아이템을 잡은 경우 매력이 0.5 증가한다",#20250924065517,Default
-GoldMiner_GMA_009_Desc,"돌을 잡은 경우 다음 금괴 가치가 2배로 증가한다",#20250924065517,Default
-GoldMiner_GMA_010_Desc,"정산 시 가치가 1,000 미만이면 1,000으로 계산한다",#20250924065517,Default
-GoldMiner_GMA_011_Desc,"실패 시 실패 대신 해당 아이템을 소모한다",#20250924065517,Default
-GoldMiner_GMA_012_Desc,"지뢰에 접촉해도 폭발하지 않으며 지뢰를 잡을 수 있다",#20250924065517,Default
-GoldMiner_GMA_014_Desc,"돼지를 잡았을 때 스태미나가 100 회복한다",#20250924065517,Default
-GoldMiner_GMA_016_Desc,"돌 가치가 100% 증가한다",#20250924065517,Default
-GoldMiner_GMA_017_Desc,"금괴 가치가 20% 증가한다",#20250924065517,Default
-GoldMiner_GMA_018_Desc,"게임 시작 시 획득한 5개 아이템의 가격은 200이다",#20250924065517,Default
+GoldMiner_GMA_008_Desc,"정산 시 모든 아이템을 잡은 경우 매력이 0.5 증가한다.",#20250924065517,Default
+GoldMiner_GMA_009_Desc,"돌을 잡은 경우 다음 금괴 가치가 2배로 증가한다.",#20250924065517,Default
+GoldMiner_GMA_010_Desc,"정산 시 가치가 1,000 미만이면 1,000으로 계산한다.",#20250924065517,Default
+GoldMiner_GMA_011_Desc,"실패 시 실패 대신 해당 아이템을 소모한다.",#20250924065517,Default
+GoldMiner_GMA_012_Desc,"지뢰에 접촉해도 폭발하지 않으며 지뢰를 잡을 수 있다.",#20250924065517,Default
+GoldMiner_GMA_014_Desc,"돼지를 잡았을 때 스태미나가 100 회복한다.",#20250924065517,Default
+GoldMiner_GMA_016_Desc,"돌 가치가 100% 증가한다.",#20250924065517,Default
+GoldMiner_GMA_017_Desc,"금괴 가치가 20% 증가한다.",#20250924065517,Default
+GoldMiner_GMA_018_Desc,"게임 시작 시 획득한 5개 아이템의 가격은 200이다.",#20250924065517,Default
 GoldMiner_GMA_019_Desc,"폭탄 3개",#20250924065517,Default
 GoldMiner_GMA_020_Desc,"힘의 물약 3개 (힘 100 증가, 다음 잡기 시작 시 해당 버프 제거)",#20250924065517,Default
 GoldMiner_GMA_021_Desc,"매의 물약 3개 (발 흔들림 속도 50% 감소, 다음 잡기 시작 시 해당 버프 제거)",#20250924065517,Default
@@ -3184,10 +3184,10 @@ GoldMiner_GMA_023_Desc,"힘 +10",#20250924065517,Default
 GoldMiner_GMA_024_Desc,"최대 스태미나 +150",#20250924065517,Default
 GoldMiner_GMA_026_Desc,"상점 첫 새로고침 무료",#20250924065517,Default
 GoldMiner_GMA_027_Desc,"상점 새로고침 횟수 +1",#20250924065517,Default
-GoldMiner_GMA_028_Desc,"다음 구매 시 골드를 소모하지 않는다",#20250924065517,Default
+GoldMiner_GMA_028_Desc,"다음 구매 시 골드를 소모하지 않는다.",#20250924065517,Default
 GoldMiner_GMA_029_Desc,"상점 아이템 +1",#20250924065517,Default
-GoldMiner_GMA_030_Desc,"돌을 추가로 새로고침할 수 있다",#20250924065517,Default
-GoldMiner_GMA_032_Desc,"다이아를 추가로 새로고침할 수 있다",#20250924065517,Default
+GoldMiner_GMA_030_Desc,"돌을 추가로 새로고침할 수 있다.",#20250924065517,Default
+GoldMiner_GMA_032_Desc,"다이아를 추가로 새로고침할 수 있다.",#20250924065517,Default
 GoldMiner_GMA_008,"대형 상자",#20250924065517,Default
 GoldMiner_GMA_009,"황금 시계",#20250924065517,Default
 GoldMiner_GMA_010,보험,#20250924065517,Default
@@ -3210,7 +3210,7 @@ GoldMiner_GMA_027,"공급 루트",#20250924065517,Default
 GoldMiner_GMA_028,교환권,#20250924065517,Default
 GoldMiner_GMA_029,스폰서,#20250924065517,Default
 GoldMiner_GMA_030,"행운의 바위",#20250924065517,Default
-GoldMiner_GMA_031_Desc,"골드바를 추가로 새로고침할 수 있다",#20250924065517,Default
+GoldMiner_GMA_031_Desc,"골드바를 추가로 새로고침할 수 있다.",#20250924065517,Default
 GoldMiner_GMA_031,"행운의 코인",#20250924065517,Default
 GoldMiner_GMA_032,"행운의 반지",#20250924065517,Default
 Item_Totem_GunDistance,"토템: 저격 Ⅰ",#20250924065517,Default
@@ -3317,7 +3317,7 @@ Quest_1299_Desc,"고성능 컴퓨터를 우주선에 설치한다.",#20250924065
 Quest_1199_Desc,"생명 유지 시스템을 우주선에 설치한다.",#20250924065517,Default
 Quest_1399_Desc,"벡터 추진기를 우주선에 설치한다.",#20250924065517,Default
 Quest_1499_Desc,"내비게이션 시스템을 우주선에 설치한다.",#20250924065517,Default
-Quest_1599_Desc,"방어 필드를 우주선에 설치한다",#20250924065517,Default
+Quest_1599_Desc,"방어 필드를 우주선에 설치한다.",#20250924065517,Default
 Quest_1103_Task4_Desc,"마커로 4호 생명유지 캡슐 마크하기",#20250924065517,Default
 Dialogue_Roadsign_StormWarning,"전방 폭풍 오염으로 진입금지.",#20250924065517,Default
 Quest_1305,누명,#20250924065517,Default
@@ -3424,11 +3424,11 @@ Item_Injection_PoisonResist_Desc,"일정 시간 동안 독 대미지가 감소�
 Item_Injection_SpaceResist,"공간 저항 주사기",#20250924065517,Default
 Item_Injection_SpaceResist_Desc,"일정 시간 동안 공간 속성 대미지가 감소하지만 공간 폭풍은 방어할 수 없다.",#20250924065517,Default
 Buff_FireResistShort,"화염 저항",#20250924065517,Default
-Buff_FireResistShort_Desc,"받는 화염 대미지가 감소한다",#20250924065517,Default
+Buff_FireResistShort_Desc,"받는 화염 대미지가 감소한다.",#20250924065517,Default
 Buff_PoisonResistShort,"독 저항",#20250924065517,Default
-Buff_PoisonResistShort_Desc,"받는 독 대미지가 감소한다",#20250924065517,Default
+Buff_PoisonResistShort_Desc,"받는 독 대미지가 감소한다.",#20250924065517,Default
 Buff_SpaceResistShort,"공간 저항",#20250924065517,Default
-Buff_SpaceResistShort_Desc,"받는 공간 대미지가 감소한다",#20250924065517,Default
+Buff_SpaceResistShort_Desc,"받는 공간 대미지가 감소한다.",#20250924065517,Default
 Quest_105,징벌자-2,#20250924065517,Default
 Quest_105_Desc,"잘 했어, 하지만 아직 부족해. 내 무기로 한 번만 더 해봐.",#20250924065517,Default
 Quest_106,"이에는 이",#20250924065517,Default
@@ -3468,7 +3468,7 @@ Quest_914,"작업대 레벨업",#20250924065517,Default
 UI_Interact_Explode,폭파,#20250924065517,Default
 Upload,업로드,#20250924065517,Default
 Mods_Uploading,"업로드 중",#20250924065517,Default
-Mods_OwnershipMismatch,"이 오브젝트를 업데이트할 권한이 없습니다",#20250924065517,Default
+Mods_OwnershipMismatch,"이 오브젝트를 업데이트할 권한이 없습니다.",#20250924065517,Default
 Mods_UpdateIndicator,"프로젝트 업데이트",#20250924065517,Default
 Mods_NewItem,"새 프로젝트",#20250924065517,Default
 Mods_UploadPanelTitle,"Steam 창작 마당에 업로드",#20250924065517,Default
@@ -3584,7 +3584,7 @@ Character_Ming,잭,#20250924065517,Default
 Building_Merchant_Ming,"기술 센터",#20250924065517,Default
 Building_Merchant_Ming_Desc,"달랑 컴퓨터 책상 두 개뿐이다.",#20250924065517,Default
 Quest_325_Desc,"농장마을에 무서운 녀석이 있는데 수류탄과 소이수류탄을 잔뜩 갖고 있으니 이 위협을 제거해 줘. 보통 임시 공사장이나 용병 캠프 근처 주유소에서 돌아다녀.",#20250924065517,Default
-UI_Interact_CustomFace,"캐릭터 재설정",#20250924065517,Default
+UI_Interact_CustomFace,"캐릭터 모습 변경",#20250924065517,Default
 Item_BP_ColorMonitor,"설계도: 컬러 모니터",#20250924065517,Default
 Input_CatchFish,"낚싯대 당기기!",#20250924065517,Default
 UI_Guide_Fishing,"원이 겹칠 때 낚싯대를 당기세요!",#20250924065517,Default
@@ -3639,32 +3639,32 @@ Item_Seed_Starfruit,"카람볼라 씨앗",#20250924065517,Default
 Item_Seed_Strawberry,"딸기 씨앗",#20250924065517,Default
 Item_Seed_Tomato,"토마토 씨앗",#20250924065517,Default
 Item_Seed_Watermelon,"수박 씨앗",#20250924065517,Default
-Item_Seed_Apple_Desc,"사과를 키울 수 있다",#20250924065517,Default
-Item_Seed_Aritichoke_Desc,"아티초크를 키울 수 있다",#20250924065517,Default
-Item_Seed_Aubergine_Desc,"가지를 키울 수 있다",#20250924065517,Default
-Item_Seed_Banana_Desc,"바나나를 키울 수 있다",#20250924065517,Default
-Item_Seed_Carrot_Desc,"당근을 키울 수 있다",#20250924065517,Default
-Item_Seed_Cauliflower_Desc,"콜리플라워를 키울 수 있다",#20250924065517,Default
-Item_Seed_Cherry_Desc,"체리를 키울 수 있다",#20250924065517,Default
-Item_Seed_Chilli_Desc,"고추를 키울 수 있다",#20250924065517,Default
-Item_Seed_Coconut_Desc,"코코넛을 키울 수 있다",#20250924065517,Default
-Item_Seed_Corn_Desc,"옥수수를 키울 수 있다",#20250924065517,Default
-Item_Seed_Cucumber_Desc,"오이를 키울 수 있다",#20250924065517,Default
-Item_Seed_Garlic_Desc,"마늘을 키울 수 있다",#20250924065517,Default
-Item_Seed_Grape_Desc,"포도를 키울 수 있다",#20250924065517,Default
-Item_Seed_Leek_Desc,"부추를 키울 수 있다",#20250924065517,Default
-Item_Seed_Lemon_Desc,"레몬을 키울 수 있다",#20250924065517,Default
-Item_Seed_Mango_Desc,"망고를 키울 수 있다",#20250924065517,Default
-Item_Seed_Onion_Desc,"양파를 키울 수 있다",#20250924065517,Default
-Item_Seed_Orange_Desc,"오렌지를 키울 수 있다",#20250924065517,Default
-Item_Seed_Pear_Desc,"배를 키울 수 있다",#20250924065517,Default
-Item_Seed_Pineapple_Desc,"파인애플을 키울 수 있다",#20250924065517,Default
-Item_Seed_Potato_Desc,"감자를 키울 수 있다",#20250924065517,Default
-Item_Seed_Pumpkin_Desc,"호박을 키울 수 있다",#20250924065517,Default
-Item_Seed_Starfruit_Desc,"카람볼라를 키울 수 있다",#20250924065517,Default
-Item_Seed_Strawberry_Desc,"딸기를 키울 수 있다",#20250924065517,Default
-Item_Seed_Tomato_Desc,"토마토를 키울 수 있다",#20250924065517,Default
-Item_Seed_Watermelon_Desc,"수박을 키울 수 있다",#20250924065517,Default
+Item_Seed_Apple_Desc,"사과를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Aritichoke_Desc,"아티초크를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Aubergine_Desc,"가지를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Banana_Desc,"바나나를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Carrot_Desc,"당근을 키울 수 있다.",#20250924065517,Default
+Item_Seed_Cauliflower_Desc,"콜리플라워를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Cherry_Desc,"체리를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Chilli_Desc,"고추를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Coconut_Desc,"코코넛을 키울 수 있다.",#20250924065517,Default
+Item_Seed_Corn_Desc,"옥수수를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Cucumber_Desc,"오이를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Garlic_Desc,"마늘을 키울 수 있다.",#20250924065517,Default
+Item_Seed_Grape_Desc,"포도를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Leek_Desc,"부추를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Lemon_Desc,"레몬을 키울 수 있다.",#20250924065517,Default
+Item_Seed_Mango_Desc,"망고를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Onion_Desc,"양파를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Orange_Desc,"오렌지를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Pear_Desc,"배를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Pineapple_Desc,"파인애플을 키울 수 있다.",#20250924065517,Default
+Item_Seed_Potato_Desc,"감자를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Pumpkin_Desc,"호박을 키울 수 있다.",#20250924065517,Default
+Item_Seed_Starfruit_Desc,"카람볼라를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Strawberry_Desc,"딸기를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Tomato_Desc,"토마토를 키울 수 있다.",#20250924065517,Default
+Item_Seed_Watermelon_Desc,"수박을 키울 수 있다.",#20250924065517,Default
 Item_Aritichoke,아티초크,#20250924065517,Default
 Item_Aubergine,가지,#20250924065517,Default
 Item_Banana,바나나,#20250924065517,Default
@@ -3709,7 +3709,7 @@ Item_Starfruit_Desc,"자르면 예쁜 별 모양이 나온다.",#20250924065517,
 Item_Strawberry_Desc,"보기도 좋고 맛도 좋다.",#20250924065517,Default
 Item_Tomato_Desc,"만능 채소로 다양한 요리가 가능하며 생으로 먹어도 맛있다.",#20250924065517,Default
 Item_Watermelon_Desc,"수박 없는 여름은 불완전하다.",#20250924065517,Default
-PerkBehaviour_AddGardenSize,"경작지를 {addX}열, {addY}행 증가한다",#20250924065517,Default
+PerkBehaviour_AddGardenSize,"경작지를 {addX}열, {addY}행 증가한다.",#20250924065517,Default
 PerkBehaviour_GardenAutoWater,"자동 물주기",#20250924065517,Default
 Item_Fish_Blue_Tang,블루탱,#20250924065517,Default
 Item_Fish_Purple_Damselfish,"보라 자리돔",#20250924065517,Default
@@ -3782,7 +3782,7 @@ Quest_920_Desc,"J-Lab이 떠나기 전에 공간 폭풍에 대해 많은 연구�
 Quest_890_Desc,"최근 주문량이 급증해서 택배 포장용 상자와 테이프가 부족해. 좀 구해다 줄 수 있어? 가위도 하나 가져와 줘.",#20250924065517,Default
 Quest_890,"택배 포장",#20250924065517,Default
 Buff_StunResist,"공포 면역",#20250924065517,Default
-Buff_StunResist_Desc,"공포 상태에 걸리지 않는다",#20250924065517,Default
+Buff_StunResist_Desc,"공포 상태에 걸리지 않는다.",#20250924065517,Default
 Quest_921,"기밀 정보",#20250924065517,Default
 Quest_922,"장부 정리",#20250924065517,Default
 Quest_923,"여가 시간",#20250924065517,Default
@@ -3929,8 +3929,8 @@ Quest_1601_Desc,"우주 여행에는 충분한 에너지가 필요하니, 폭풍
 Quest_1205_Desc,"이건 전력 소비가 엄청난 물건이라 출력이 큰 전원을 하나 더 찾아야 해. 내 친구가 고성능 컴퓨터를 맞추고 싶어 했는데, 돈이 모자라서 일단 전원부터 샀어. 농장마을 북동쪽 마을의 창고 구역과 이어진 동굴 안에 숨겨뒀으니 가서 가져와. 내 친구니깐 괜찮을 거야, 삽 챙기는 거 잊지 말고.",#20250925103332,Default
 Quest_301_Desc,"농장마을 사무실 지하 1층의 신비한 문, 안에 좋은 것이 숨겨져있을지 모르니 가서 확인해 봐.",#20250925103332,Default
 Quest_901_Desc,"우리의 은신처가 기본 형태를 갖추었으니 이젠 더 멀리 나아갈 때야! 첫 단계는 텔레포터를 만드는 것이지. 텔레포터가 있으면 각 지역으로 순간 이동할 수 있잖아. 물론 네가 그 지역에서 비콘을 활성화해야 해.",#20250925103332,Default
-Quest_802_Desc,"드디어 더 멀리 나아갈 수 있게 됐어. 앞으로 창고 구역에 더 빨리 도착하기 위해서는 창고 구역 주유소 옆에 있는 전송 비콘을 활성화해야 해.",#20250925103332,Default
-Quest_803_Desc,"농장마을에는 전송 비콘이 두 개 있는데 북쪽에 있는 걸 해제해야 해. 산아래 농가 북쪽에 있어. 창고 구역 북쪽 통로로 가야 되고, 갈 때 파이프 폭탄 2개를 가져가는 거 잊지마.",#20250925103332,Default
+Quest_802_Desc,"드디어 더 멀리 나아갈 수 있게 됐어. 앞으로 창고 구역에 더 빨리 도착하기 위해서는 창고 구역 주유소 옆에 있는 텔레포트 비콘을 활성화해야 해.",#20250925103332,Default
+Quest_803_Desc,"농장마을에는 텔레포트 비콘이 두 개 있는데 북쪽에 있는 걸 해제해야 해. 산아래 농가 북쪽에 있어. 창고 구역 북쪽 통로로 가야 되고, 갈 때 파이프 폭탄 2개를 가져가는 거 잊지마.",#20250925103332,Default
 Quest_102_Desc,"새로운 물건을 주문했는데 공급업자가 도중에 도난당했다고 해. 물건은 제로존 숲길 모닥불 텐트 근처에 있어. 찾으면 마커로 그 위치를 마크해 줘. 보상은 충분히 줄게. 마커를 가지고 있지 않다면 자판기에서 구매하거나 잭에게 물어봐.",#20250925103332,Default
 Quest_904_Desc,"훈련 효과를 높이려면 훈련할 때 힘을 강화할 수 있는 것이 필요한데 재료가 좀 부족해. 가져다주면 너를 위해 두 개 더 만들어줄게.",#20250925103332,Default
 Quest_906_Desc,"새로운 걸 만들었는데 실험 데이터가 더 필요해. 근접 주사기를 맞은 상태로 초록 오리 5마리를 잡아줘. 이건 새로운 제품 개발에 도움이 될 거야.",#20250925103332,Default
@@ -3947,11 +3947,11 @@ Perk_Physical_33,"종합 유산소",#20250925103332,Default
 Perk_WorldBench_Repair_1_Desc,"무기와 장비 수리 기능을 해제한다.",#20250925103332,Default
 Perk_WorldBench_Decompose_1_Desc,"아이템 분해 기능을 해제한다.",#20250925103332,Default
 Perk_WorldBench_Formula_2_Desc,"더 많은 아이템 제작을 해제한다.",#20250925103332,Default
-GoldMiner_GMA_002_Desc,"두 번째 아이템마다 스태미나 소모 50% 감소한다",#20250925103332,Default
-GoldMiner_GMA_003_Desc,"연속으로 돌을 잡을 때마다 배율 0.1 증가, 중첩할 수 있다",#20250925103332,Default
-GoldMiner_GMA_015_Desc,"돼지 가치가 20 증가한다",#20250925103332,Default
-GoldMiner_GMA_022_Desc,"아이템 가치 10% 증가한다",#20250925103332,Default
-GoldMiner_GMA_025_Desc,"빈 갈고리 속도가 100% 증가한다",#20250925103332,Default
+GoldMiner_GMA_002_Desc,"두 번째 아이템마다 스태미나 소모 50% 감소한다.",#20250925103332,Default
+GoldMiner_GMA_003_Desc,"연속으로 돌을 잡을 때마다 배율 0.1 증가, 중첩할 수 있다.",#20250925103332,Default
+GoldMiner_GMA_015_Desc,"돼지 가치가 20 증가한다.",#20250925103332,Default
+GoldMiner_GMA_022_Desc,"아이템 가치 10% 증가한다.",#20250925103332,Default
+GoldMiner_GMA_025_Desc,"빈 갈고리 속도가 100% 증가한다.",#20250925103332,Default
 Item_Totem_MaxHealth_2_Desc,"최대 체력이 일정량 증가한다.",#20250925103332,Default
 Guide_Aim,"마우스 우클릭으로 조준해서 정확도를 높여 봐!",#20251011093921,Default
 Guide_IntroMelee_1,"장비 착용 후 숫자 1, 2키로 무기를 전환하고, R키로 재장전 할 수 있어",#20250925103332,Default
@@ -4027,7 +4027,7 @@ UI_Interact_Ending1,이륙(엔딩1),#20250925103332,Default
 UI_Interact_Ending0,이륙(엔딩0),#20250925103332,Default
 UI_Interact_Ending2,이륙(엔딩2),#20250925103332,Default
 Buff_equip_FC_Buff,고수,#20250925103332,Default
-Buff_equip_FC_Buff_Desc,"대미지가 증가한다",#20250925103332,Default
+Buff_equip_FC_Buff_Desc,"대미지가 증가한다.",#20250925103332,Default
 Item_Key_HiddenWarehouse_Cellar_Fork,"지하실 갈림길 열쇠",#20250925103332,Default
 Item_Key_HiddenWarehouse_Cellar_Fork_Desc,"지하실에 있는 갈림길의 열쇠다.",#20250925103332,Default
 Quest_1998,"우주선 공간 확장",#20250925103332,Default
@@ -4090,7 +4090,7 @@ Item_Bullet_PWS_H_Desc,"관통력이 강화된 소형 에너지탄이다.",#2025
 Item_ArmorLV1StormProtection,"폭풍 작업복",#20250925103332,Default
 Item_ArmorLV1StormProtection_Desc,"특수 소재로 만든 작업복으로, 탄환을 막는 능력은 떨어지지만 착용하면 공간 폭풍 초기 교란을 막을 수 있다.",#20250925103332,Default
 Item_Quest_Blueprint_ShipSpace,"신비한 우주선 도면",#20250925103332,Default
-Item_Quest_Blueprint_ShipSpace_Desc,"이해할 수 없는 도면이다. 우주선의 어떤 부품을 만드는 데 쓰이는 것 같다",#20250925103332,Default
+Item_Quest_Blueprint_ShipSpace_Desc,"이해할 수 없는 도면이다. 우주선의 어떤 부품을 만드는 데 쓰이는 것 같다.",#20250925103332,Default
 Quest_1997,"신비한 도면",#20250925103332,Default
 Quest_1997_Desc,"특별한 우주선 도면을 얻은 것 같은데, 내게 주면 해독해줄게.",#20250925103332,Default
 perk_Fire_1,"단열 모듈 I",#20250925103332,Default
@@ -4203,18 +4203,18 @@ Item_fiber_Lv2_Desc,"더 튼튼한 유기섬유로 경량 방탄복 제작에 �
 Item_fiber_Lv3_Desc,"최고의 방호 성능을 가진 유기섬유로 최고급 방탄복과 헬멧 제작에 자주 사용된다.",#20250925103332,Default
 PWL,에너지-대형,#20250925103332,Default
 Note_Base_ShootingRange_Title,"보안 요원 사격 매뉴얼",#20250925103332,Default
-Note_GroundZero_Back_Title,"벙커에 오신 것을 환영합니다",#20250925103332,Default
+Note_GroundZero_Back_Title,"벙커에 오신 것을 환영합니다.",#20250925103332,Default
 Note_GroundZero_Back_Content,"굳이 탈출 지점까지 갈 필요 없어. 여기로 돌아와도 집으로 돌아갈 수 있거든.",#20250925103332,Default
 Note_GroundZero_RedAttack_Title,"폭주 넝마꾼의 일기",#20250925103332,Default
 Note_GroundZero_Loot_Title,"넝마꾼의 수기",#20250925103332,Default
 Note_GroundZero_UltraMan_Title,"도로변 친절한 안내",#20250925103332,Default
 Note_GroundZero_Camp_Title,"도로 캠프 기록",#20250925103332,Default
 Note_GroundZero_MidMountain_Title,"제로존 감시 기록",#20250925103332,Default
-Teleporters_2,"전송 버블-2",#20250925103332,Default
-Teleporters_1,"전송 버블-1",#20250925103332,Default
-Teleporters_0,"전송 버블-0",#20250925103332,Default
-Teleporters_3,"전송 버블-3",#20250925103332,Default
-Teleporters_4,"전송 버블-4",#20250925103332,Default
+Teleporters_2,"텔레포트 버블-2",#20250925103332,Default
+Teleporters_1,"텔레포트 버블-1",#20250925103332,Default
+Teleporters_0,"텔레포트 버블-0",#20250925103332,Default
+Teleporters_3,"텔레포트 버블-3",#20250925103332,Default
+Teleporters_4,"텔레포트 버블-4",#20250925103332,Default
 Quest_941,"실습 기술공",#20250925103332,Default
 Quest_941_Desc,"레벨업한 작업대로 좋은 것들을 많이 만들 수 있어. 글록 한 자루를 만들어서 네 실력을 보여줘.",#20250925103332,Default
 Perk_Physical_34,"스탠딩 카프레이즈",#20250925103332,Default
@@ -4240,14 +4240,14 @@ Item_KnifeBox_Desc,"안에 다양한 칼이 있을 수 있다. 소비는 적당�
 Usage_KnifeBox,"전술 상자를 열어 랜덤 보상을 획득한다.",#20250925103332,Default
 Item_Formula_KnifeBox,"레시피: 전술 나이프 상자",#20250925103332,Default
 Item_Formula_KnifeBox_Desc,"작업대에서 전술 나이프 상자를 제작하는 레시피다.",#20250925103332,Default
-Item_Knife_01_Blade_Desc,"가벼운 소재로 제작되어 매우 휴대하기 편하다",#20250925103332,Default
+Item_Knife_01_Blade_Desc,"가벼운 소재로 제작되어 매우 휴대하기 편하다.",#20250925103332,Default
 Item_Knife_02_Short_Desc,"일반 나무손잡이 단검이다.",#20250925103332,Default
 Item_Knife_03_Knuckle_Desc,"스프링 날이 달린 너클이다.",#20250925103332,Default
 Item_Knife_04_Karambit_Desc,"파란색 칼날이 고급스러워 보인다.",#20250925103332,Default
 Item_Knife_06_Gurkhakukri_Desc,"클래식한 형태로 출혈을 잘 발생시킨다.",#20250925103332,Default
 Item_Knife_07_Bayonet_Desc,"제식 군용 검이다.",#20250925103332,Default
 Item_CandyCan,"수제 사탕",#20250925103332,Default
-Item_CandyCan_Desc,"달달한 것은 기분을 좋게 한다",#20250925103332,Default
+Item_CandyCan_Desc,"달달한 것은 기분을 좋게 한다.",#20250925103332,Default
 Quest_942,"수제 사탕",#20250925103332,Default
 Quest_942_Desc,"수제 사탕 먹어본 적 있어? 독특한 단맛이 있어서 먹으면 기분이 좋아지는 느낌이야. 한 번 먹어봤을 때, 달리기도 더 빨라진 것 같았어. 한 병 더 구해줄 수 있어? 어떻게 만드는지 연구해보고 싶어",#20250925103332,Default
 Item_Candy,막대사탕,#20250925103332,Default
@@ -4301,7 +4301,7 @@ Achievement_Quest_807,"에이스 저격수",#20250925103332,Default
 Achievement_Quest_913,"빨간 우산에 흰 무늬.",#20250925103332,Default
 Achievement_Quest_937,"낚시의 왕",#20250925103332,Default
 Quest_811,"이에는 이",#20250925103332,Default
-Quest_811_Desc,"처음에는 모두가 우릴 괴롭혔지. 하지만 사나이의 복수는 10년이 걸려도 늦지 않아. 이제 우린 강해졌으니 그들의  무기를 써서 그들을 물리쳐서 우리의 힘을 보여주자고.",#20250925103332,Default
+Quest_811_Desc,"처음에는 모두가 우릴 괴롭혔지. 하지만 사나이의 복수는 10년이 걸려도 늦지 않아. 이제 우린 강해졌으니 그들의 무기를 써서 그들을 물리쳐서 우리의 힘을 보여주자고.",#20250925103332,Default
 Item_PeaceStar,"평화의 별",#20250925103332,Default
 Item_PeaceStar_Desc,"세계 평화를 위하여!",#20250925103332,Default
 Item_FakePeaceStar,"평화의 별",#20250925103332,Default
@@ -4450,7 +4450,7 @@ Item_BP_ArmorLV6_Desc,"작업대에서 6레벨 방탄복을 제작하는 설계�
 Item_BP_ArmorLV5_2_Desc,"작업대에서 5레벨 작전 방탄복을 제작하는 설계도다.",#20250925103332,Default
 Item_BP_ArmorLV5_3_Desc,"작업대에서 5레벨 중형 방탄복을 제작하는 설계도다.",#20250925103332,Default
 Item_BP_HelmatLV5_Desc,"작업대에서 SCIFI 마스크를 제작하는 설계도다.",#20250925103332,Default
-Item_BP_HelmatLV6_Desc,"작업대에서 신성한 용접 헬멧을 제작하는 설계도다.",#20250925103332,Default
+Item_BP_HelmatLV6_Desc,"작업대에서 신의 용접 헬멧을 제작하는 설계도다.",#20250925103332,Default
 Item_BP_HelmatLV5_2_Desc,"작업대에서 5레벨 작전 헬멧을 제작하는 설계도다.",#20250925103332,Default
 Item_BP_HelmatLV5_1Hear_Desc,"작업대에서 5레벨 경량 헬멧을 제작하는 설계도다.",#20250925103332,Default
 Item_BP_BackpackLV5_Desc,"작업대에서 전술 가방 MAX를 제작하는 설계도다.",#20250925103332,Default
@@ -4478,7 +4478,7 @@ Note_Base_ShootingRange_Content,"경비 품질을 높이기 위해 모든 경비
 Note_GroundZero_RedAttack_Content,"우리가 함께 달려들면 누구든 끝장이라고.\n우리가 빨간 라이트를 발사하면 그때가 바로 공격 타이밍이야. 놈들이 스페이스바로 회피하지 않는다면 우리의 한 방으로 끝나는 거지, 하하하하.\n우리보다 강한 놈? 그런건 없어!.",#20251011093922,Default
 Note_GroundZero_Loot_Content,"적당히 챙기고 집으로 가면 실패할 일은 없어. 욕심을 부리지 않으면 다 얻을 수 있지.\n오늘도 사과 두 개를 주웠어, 신난다.",#20251011093922,Default
 Note_GroundZero_UltraMan_Content,"여기서 하얀 녀석을 보게 되면 건드리지 마.\n어떻게 알았냐고? 묻지 마.",#20251011093922,Default
-Note_GroundZero_Camp_Content,"J-Lab 그 녀석들이 우리를 데려간다고 약속했는데 거짓말이었어.\n하지만 이제, 우릴 통제할 수 있는 놈은 없어진 거지. 내가 J-Lab에서 좋은 물건을 훔쳐서 제로존에 캠프를 차렸지.\n제로존은 이 꼬마덕의 영역이야.\n그런데 옆에 있는 이 전송 비콘을 어떻게 쓰는지 아직도 모르겠어. 믿음직해 보이진 않네.",#20251011093922,Default
+Note_GroundZero_Camp_Content,"J-Lab 그 녀석들이 우리를 데려간다고 약속했는데 거짓말이었어.\n하지만 이제, 우릴 통제할 수 있는 놈은 없어진 거지. 내가 J-Lab에서 좋은 물건을 훔쳐서 제로존에 캠프를 차렸지.\n제로존은 이 꼬마덕의 영역이야.\n그런데 옆에 있는 이 텔레포트 비콘을 어떻게 쓰는지 아직도 모르겠어. 믿음직해 보이진 않네.",#20251011093922,Default
 Note_GroundZero_MidMountain_Content,"며칠 동안 관찰해봤는데 도로 캠프 녀석들이 수상해.\n우두머리는 불빛을 내뿜는데 건드리면 안 될 것 같아.\n만반의 준비 없이는 접근하지 않는 게 좋을 거야.",#20251011093922,Default
 Achievement_Quest_887,"전문 배달원r",#20251011093922,Default
 Note_WH_Lorden_Content,"창고 구역에서는 매우 사나운 개를 자주 만날 수 있어. 그 개의 주인은 저격수인데, 매우 교활하고 기습 공격을 좋아하니 개를 보면 빨리 숨어야 돼.\n제로존에 사는 친구의 말에 따르면 최근 그쪽에도 개를 데리고 다니는 놈이 자주 나타나는데, 때로는 개가 엄청 무거운 큰상자를 매고 다닌다고 해.\n정말 말세라니깐, 그래도 그 녀석은 로든만큼은 못해.\n",#20251011093922,Default
@@ -4657,10 +4657,10 @@ Quest_505_Desc,"폭풍 구역에는 지금껏 본 적 없는 생물이 존재해
 Rule_Info_CantSwitch,"해당 난이도를 선택하면 다른 난이도로 변경할 수 없습니다.",#20251009091250,Default
 Task_Beacon_Level_StormZone_Main,"폭풍 구역 비콘 해제",#20251009091250,Default
 UI_LootBox_JLabBox,"J-Lab 박스",#20251009091250,Default
-UI_Registered,"입력 완료",#20251009091250,Default
+UI_Registered,"등록 완료",#20251009091250,Default
 CutSceneIntro_0,"오래전, 먼 곳에 위치한 어느 한 행성",#20251014035224,Default
 CutSceneIntro_1,"행성은 붕괴 직전에 이르렀고",#20251014035224,Default
-CutSceneIntro_2,"당신은 탈출하지 못한 채로 남겨졌다",#20251014035224,Default
+CutSceneIntro_2,"당신은 탈출하지 못한 채로 남겨졌다.",#20251014035224,Default
 CutSceneIntro_3,"살아남아야 한다, 그리고",#20251014035224,Default
 CutSceneIntro_4,지금,#20251014035224,Default
 Cname_Football_1,"축구 주장",#20251021065937,Default
@@ -4685,7 +4685,6 @@ Input_UI_Item_Use,"아이템 사용",#20251021065937,Default
 Cname_StormBoss1_Child,푸룽,#20251021065937,Default
 Item_EGun_StormBoss_5_Space,? ? ?,#20251021065937,Default
 Options_DisableCameraOffset,"멀미 효과 감소",#20251021065937,Default
-Options_DisableCameraOffset,"멀미 효과 감소",#20251021065937,Options
 Buff_Totem_Describe_hurt,"토템 저주",#20251021065937,Default
 Buff_Totem_Describe_hurt_Desc,"지속적으로 체력 감소",#20251021065937,Default
 Input_Trigger,발사,#20251021065937,Default
@@ -4696,3 +4695,6 @@ Item_EGun_AR_Storm_Virus,\?\?\?,#20251021065937,Default
 Options_HurtVisualSettings,"부상 알림 표시",#20251021065937,Default
 Item_Kazoo_Desc,"김씨의 음악의 꿈!",#20251021065937,Default
 Item_Kazoo,카주,#20251021065937,Default
+Shot,피격됨,#20251021065937,Default
+Item_BP_GLick,"설계도: 글록",#20251021065937,Default
+Item_BP_GLick_Desc,"작업대에서 무기 연구에 사용: 글록",#20251021065937,Default
