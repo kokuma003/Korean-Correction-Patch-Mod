@@ -9,14 +9,15 @@ dll 코드(ModBehaviour.cs) 전문입니다. (코드는 AI의 도움을 받아 �
 
 
         using UnityEngine;
-        using Duckov.Modding;          
-        using SodaCraft.Localizations; 
+        using Duckov.Modding;
+        using SodaCraft.Localizations;
         using System;
-        using System.IO;                 
-        using System.Text;               
-        using System.Linq;             
+        using System.IO;
+        using System.Text;
+        using System.Linq;
+        using System.Collections; 
 
-    namespace KoreanPatch
+        namespace KoreanPatch
         {
     public class ModBehaviour : Duckov.Modding.ModBehaviour
     {
@@ -39,8 +40,8 @@ dll 코드(ModBehaviour.cs) 전문입니다. (코드는 AI의 도움을 받아 �
             if (string.IsNullOrEmpty(modDirectoryPath)) return;
 
             LocalizationManager.OnSetLanguage += OnLanguageChanged;
-
-            OnLanguageChanged(SystemLanguage.Korean);
+            
+            StartCoroutine(LoadAndRefresh());
         }
 
         public void OnDestroy()
@@ -68,6 +69,8 @@ dll 코드(ModBehaviour.cs) 전문입니다. (코드는 AI의 도움을 받아 �
 
             try
             {
+                Debug.Log($"[KoreanPatch] LoadPatch() 호출됨.");
+                
                 var allLines = File.ReadAllLines(csvPath, Encoding.UTF8).Skip(1);
                 int count = 0;
 
@@ -92,7 +95,6 @@ dll 코드(ModBehaviour.cs) 전문입니다. (코드는 AI의 도움을 받아 �
                     }
 
                     value = value.Replace("\\ ", " ");
-
                     value = value.Replace("\\n", "\n");
 
                     if (!string.IsNullOrEmpty(key))
@@ -107,6 +109,19 @@ dll 코드(ModBehaviour.cs) 전문입니다. (코드는 AI의 도움을 받아 �
             catch (Exception ex)
             {
                 Debug.LogError("[KoreanPatch] CSV 파일 읽기 오류: " + ex.Message);
+            }
+        }
+
+        private IEnumerator LoadAndRefresh()
+        {
+            if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+            {
+                LoadPatch();
+
+                yield return new WaitForEndOfFrame();
+
+                Debug.Log("[KoreanPatch] 강제 UI 새로고침을 실행합니다.");
+                LocalizationManager.SetLanguage(LocalizationManager.CurrentLanguage);
             }
         }
     }
