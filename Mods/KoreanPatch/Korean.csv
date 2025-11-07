@@ -2744,7 +2744,7 @@ Item_Formula_UVBulb2,"레시피: 자외선 램프",#20250924065517,Default
 Item_Formula_UVBulb2_Desc,"작업대에서 자외선 램프 제작을 위한 레시피이다.",#20250924065517,Default
 Weather_Storm_I,"공간 폭풍-단계 I",#20250924065517,Default
 Weather_Storm_II,"공간 폭풍-단계 II",#20250924065517,Default
-StormETA,"다음 공간 폭풍 까지",#20250930085646,Default
+StormETA,"다음 공간 폭풍까지",#20250930085646,Default
 Buff_Space2,왜곡,#20250924065517,Default
 Buff_Space2_Desc,"주변 공간이 붕괴된다.",#20250924065517,Default
 Item_Blindfold,눈가리개,#20250924065517,Default
@@ -4167,7 +4167,7 @@ Perk_FoodTable_FishingQuality_2,"낚시 운-2",#20250925103332,Default
 Perk_FoodTable_FishingMaster,"낚시 숙련",#20250925103332,Default
 Item_Helmat_SBossElec_ResSpace_Desc,"실험체 빌리빌리가 장착한 헬멧. 전기와 공간 속성에 대한 방어력이 뛰어나지만 화염 속성에 매우 취약하다.",#20250925103332,Default
 Item_Helmat_SBossFire_ResElec_Desc,"실험체 팔라팔라가 장착한 헬멧. 화염과 전기 속성에 대한 방어력이 뛰어나지만 독 속성에 매우 취약하다.",#20250925103332,Default
-Item_Helmat_SBossPhysical_ResPoison_Desc,"실험체 푸룽푸룽가 장착한 헬멧. 물리와 독 속성에 대한 방어력이 뛰어나지만 다른 속성에 대한 방어력이 매우 취약하다.",#20250925103332,Default
+Item_Helmat_SBossPhysical_ResPoison_Desc,"실험체 푸룽푸룽이 장착한 헬멧. 물리와 독 속성에 대한 방어력이 뛰어나지만 다른 속성에 대한 방어력이 매우 취약하다.",#20250925103332,Default
 Item_Helmat_SBossPoison_LowDurResFire_Desc,"실험체 구루구루가 장착한 헬멧. 방어력이 강하며 화염과 독 속성 방어가 뛰어나지만, 내구성이 상당히 낮고 전기에도 취약하다.",#20250925103332,Default
 Item_Backpack_SBossElec_ResSpace_Desc,"실험체 빌리빌리가 착용한 가방, 전기와 공간 속성 방어력이 증가한다.",#20250925103332,Default
 Item_Backpack_SBossFire_ResElec_Desc,"실험체 팔라팔라가 착용한 가방, 화염과 전기 속성 방어력이 증가한다.",#20250925103332,Default
@@ -4175,7 +4175,7 @@ Item_Backpack_SBossPoison_LowDurResFire_Desc,"실험체 구루구루가 착용�
 Pop_GunBroken,망가졌다.,#20250925103332,Default
 MapLocation_Farm_Dormitory_Cons,"공사장 숙소",#20250925103332,Default
 Item_BP_BR_Storm_Space,"설계도: 폭풍총",#20250925103332,Default
-Item_BP_BR_Storm_Space_Desc,"작업대에서 무기 연구에 사용: SKS",#20250925103332,Default
+Item_BP_BR_Storm_Space_Desc,"작업대에서 무기 연구에 사용: 폭풍총",#20250925103332,Default
 Interact_Read,읽기,#20250925103332,Default
 Note_Note_Base_Start_Title,"기지 기록",#20250925103332,Default
 Note_Note_Base_Start_Content,"이곳은 텅 비어있는 은신처다.",#20250925103332,Default
@@ -4776,3 +4776,23 @@ Buff_Burnbig,화염,#20251030071757,Default
 Item_Wand,"화염 지팡이",#20251030071757,Default
 Item_Wand_Desc,"매우 어두운 색이며, 끝에 피붉은 돌이 박혀 있습니다.",#20251030071757,Default
 Location_GroundZero_MudHome,"헬스 마니아의 집",#20251030071757,Default
+Pop_GroundZero_Bug1,\.\.\.,#20251031084451,Default
+Item_Totem_GhostResist_Desc,"공포에 면역을 가지고, 받는 영 속성 피해를 약간 감소시킵니다.",#20251031084451,Default
+Item_Totem_GhostResist,부적,#20251031084451,Default
+Item_GiantSwordFish,황새치,#20251031084451,Default
+Item_GiantSwordFish_Desc,"지느러미가 꽤 날카롭다.",#20251031084451,Default
+Item_DarkCarrot_Desc,"보시다시피~",#20251031084451,Default
+Item_DarkCarrot,"검은 당근",#20251031084451,Default
+Buff_DarkCarrot,1000%,#20251031084451,Default
+Buff_DarkCarrot_Desc,"감지 거리 +1000%, 시야 거리 -1000%, 기절 효과를 7초동안 받습니다.",#20251031084451,Default
+Item_Formula_DarkCarrot,"레시피: 검은 당근",#20251031084451,Default
+Item_Formula_DarkCarrot_Desc,"작업대에서 검은 당근을 만드는 레시피이다.",#20251031084451,Default
+Item_MoYuToy,아야,#20251031084451,Default
+Item_MoYuToy_Desc,"회사 다니는 것 빼고는 뭐든지 관심이 있어요."#20251031084451,Default
+Ground,땅,#20251031084451,Default
+From_QuestReward,"퀘스트 보상",#20251031084451,Default
+Quest,퀘스트,#20251031084451,Default
+Fishing,낚시,#20251031084451,Default
+Unknown,"알 수 없음",#20251031084451,Default
+Var_ItemFromInfo,출처,#20251031084451,Default
+Tag_Collection,수집품,#20251031084451,Default
